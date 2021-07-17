@@ -1,0 +1,71 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.CheckersSet.CheckersBookshelf.name=Checkers Bookshelf
+mods.ExpandedFurniture.CheckersSet.CheckersBookshelf.description=A comfortable checkered piece.
+
+mods.ExpandedFurniture.CheckersSet.CheckersCandle.name=Checkers Red Candle
+mods.ExpandedFurniture.CheckersSet.CheckersCandle.description=A checkered pillar.
+
+mods.ExpandedFurniture.CheckersSet.CheckersCandle2.name=Checkers Cream Candle
+mods.ExpandedFurniture.CheckersSet.CheckersCandle2.description=A checkered pillar.
+
+mods.ExpandedFurniture.CheckersSet.CheckersCarpet1x3.name=Checkers Carpet
+mods.ExpandedFurniture.CheckersSet.CheckersCarpet1x3.description=A checkered carpet.
+
+mods.ExpandedFurniture.CheckersSet.CheckersCeilingLamp.name=Checkers Ceiling Lamp
+mods.ExpandedFurniture.CheckersSet.CheckersCeilingLamp.description=A comfortable checkered piece.
+
+mods.ExpandedFurniture.CheckersSet.CheckersChandelier.name=Checkers Chandelier
+mods.ExpandedFurniture.CheckersSet.CheckersChandelier.description=A comfortable checkered piece.
+
+mods.ExpandedFurniture.Checkers.CheckersCoffeeTable(NoDock).name=Checkers Coffee Table (No Dock)
+mods.ExpandedFurniture.Checkers.CheckersCoffeeTable(NoDock).description=A dockless comfortable checkered piece.
+
+mods.ExpandedFurniture.CheckersSet.CheckersCoffeeTableLoveseat.name=Checkers Coffee Table (Loveseat)
+mods.ExpandedFurniture.CheckersSet.CheckersCoffeeTableLoveseat.description=A comfortable checkered piece.
+
+staxel.tileObject.themedfurniture.checkered.CheckersCoffeeTable.name=Checkers Coffee Table (Sofa)
+staxel.tileObject.themedfurniture.checkered.CheckersCoffeeTable.description=A comfortable checkered piece.
+
+mods.ExpandedFurniture.Checkers.CheckersDesk(NoDock).name=Checkers Desk (No Dock)
+mods.ExpandedFurniture.Checkers.CheckersDesk(NoDock).description=A dockless comfortable checkered piece.
+
+mods.ExpandedFurniture.Checkers.CheckersDoubleBed(NoDock).name=Checkers Double Bed (No Dock)
+mods.ExpandedFurniture.Checkers.CheckersDoubleBed(NoDock).description=A dockless comfortable checkered piece.
+
+mods.ExpandedFurniture.CheckersSet.CheckersFuton.name=Checkers Futon
+mods.ExpandedFurniture.CheckersSet.CheckersFuton.description=A comfortable checkered piece.
+
+mods.ExpandedFurniture.CheckersSet.CheckersLongStool.name=Checkers Long Stool
+mods.ExpandedFurniture.CheckersSet.CheckersLongStool.description=A comfortable checkered piece.
+
+mods.ExpandedFurniture.Checkers.CheckersSideTable(NoDock).name=Checkers Side Table (No Dock)
+mods.ExpandedFurniture.Checkers.CheckersSideTable(NoDock).description=A dockless comfortable checkered piece.
+
+mods.ExpandedFurniture.Checkers.CheckersSingleBed(NoDock).name=Checkers Single Bed (No Dock)
+mods.ExpandedFurniture.Checkers.CheckersSingleBed(NoDock).description=A dockless comfortable checkered piece.
+
+mods.ExpandedFurniture.CheckersSet.CheckersTable.name=Checkers Small Table
+mods.ExpandedFurniture.CheckersSet.CheckersTable.description=A comfortable checkered piece.
+
+mods.ExpandedFurniture.CheckersSet.CheckersTable(NoDock).name=Checkers Table (No Dock)
+mods.ExpandedFurniture.CheckersSet.CheckersTable(NoDock).description=A dockless comfortable checkered piece.
+
+mods.ExpandedFurniture.CheckersSet.CheckersTableSmall(NoDock).name=Checkers Small Table (No Dock)
+mods.ExpandedFurniture.CheckersSet.CheckersTableSmall(NoDock).description=A dockless comfortable checkered piece.
+
+mods.ExpandedFurniture.CheckersSet.CheckersTVStand.name=Checkers TV Stand
+mods.ExpandedFurniture.CheckersSet.CheckersTVStand.description=A comfortable checkered piece.
+
+mods.ExpandedFurniture.CheckersSet.CheckersTVStandTablecloth.name=Checkers TV Stand Tablecloth
+mods.ExpandedFurniture.CheckersSet.CheckersTVStandTablecloth.description=A comfortable checkered piece.
+
+mods.ExpandedFurniture.CheckersSet.CheckersWallLamp.name=Checkers Wall Lamp
+mods.ExpandedFurniture.CheckersSet.CheckersWallLamp.description=A comfortable checkered piece.
+
+mods.ExpandedFurniture.CheckersSet.CheckersWallShelf.name=Checkers Shelf
+mods.ExpandedFurniture.CheckersSet.CheckersWallShelf.description=A comfortable checkered piece.
+
+mods.ExpandedFurniture.CheckersSet.CheckersWardrobeSingle.name=Checkers Single Wardrobe
+mods.ExpandedFurniture.CheckersSet.CheckersWardrobeSingle.description=A comfortable checkered piece.

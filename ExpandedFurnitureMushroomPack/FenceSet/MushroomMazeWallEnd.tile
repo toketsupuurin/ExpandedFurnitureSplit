@@ -1,0 +1,41 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "yn",
+    "yp",
+    "xn"
+  ],
+  "categories": [
+    "fence",
+    "mushroom",
+    "red",
+    "white",
+    "EF",
+    "EFEnd",
+    "end"
+  ],
+  "code": "mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallEnd",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 3,
+      "z": 1
+    }
+  },
+  "placementDirections": [
+    "yn",
+    "xn"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 2,
+    "value": 20
+  },
+  "randomizePosition": false,
+  "representativeTile": "mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallStraight",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureMushroomPack/FenceSet/MushroomMazeWallEnd.qb"
+
+}

@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "furniture",
+	"purple",
+    "rainbow",
+    "set",
+    "light",
+    "lightsource",
+    "lighting",
+    "lamp",
+    "bedside"
+  ],
+  "code": "mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowLampBeaded",
+  "emissiveColor": "7E53BB",
+  "light": 10.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureRainbowPack/PurpleRainbowSet/PurpleRainbowLampBeaded.qb"
+}

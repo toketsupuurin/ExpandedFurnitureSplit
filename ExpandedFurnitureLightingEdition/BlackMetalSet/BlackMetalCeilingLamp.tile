@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "metal",
+	"lamp",
+	"black",
+    "light"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.BlackMetalSet.BlackMetalCeilingLamp",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "emissiveColor": "fff7EFCF",
+  "light": 2.2,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureLightingEdition/BlackMetalSet/BlackMetalCeilingLamp.qb"
+}

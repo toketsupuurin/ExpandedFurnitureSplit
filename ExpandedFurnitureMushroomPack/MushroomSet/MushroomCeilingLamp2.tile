@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "mushroom",
+	"lamp",
+	"blue",
+    "light"
+  ],
+  "code": "mods.ExpandedFurniture.MushroomSet.MushroomCeilingLamp2",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "emissiveColor": "5B6EE1",
+  "light": 2.2,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureMushroomPack/MushroomSet/MushroomCeilingLamp2.qb"
+}

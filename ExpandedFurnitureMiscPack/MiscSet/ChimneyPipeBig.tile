@@ -1,0 +1,27 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "chimney",
+    "misc",
+    "pipe",
+    "big",
+    "basic",
+    "simply",
+    "brown"
+  ],
+  "code": "mods.ExpandedFurniture.SimplySet.ChimneyPipeBig",
+  "emitterTile": {
+    "particles": "staxel.particle.lighting.ChimneySmoke"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 18,
+    "value": 30
+  },
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "tileStateKind": "staxel.tileState.Emitter",
+  "voxels": "staxel/tileObject/serverVillage/exterior/ChimneyPipeBig.qb"
+}

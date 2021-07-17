@@ -1,0 +1,21 @@
+{
+  "__inherits": "staxel/docks/WallMountedShelf.config",
+  "categories": [
+    "container",
+    "storage",
+    "pastel",
+    "furniture",
+    "shelf",
+    "white"
+  ],
+  "code": "mods.ExpandedFurniture.PastelSet.PastelWallShelf",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurniture/WallShelves/PastelWallMountedDock.qb"
+}

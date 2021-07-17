@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "wall",
+    "lamp",
+    "purple",
+    "rainbow"
+  ],
+  "code": "mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowWallLamp",
+  "emissiveColor": "7E53BB",
+  "light": 7.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureRainbowPack/PurpleRainbowSet/PurpleRainbowWallLamp.qb"
+}

@@ -1,0 +1,38 @@
+{
+  "__inherits": "staxel/tileObject/wardrobe.config",
+  "categories": [
+    "furniture",
+    "black",
+    "white",
+    "nerdy",
+    "set",
+    "container",
+    "storage",
+    "cabinet",
+    "closet",
+    "cupboard",
+    "pantry",
+    "wardrobe",
+    "credenza"
+  ],
+  "code": "mods.ExpandedFurniture.NerdySet.NerdyCredenza",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureNerdyPack/NerdySet/NerdyCredenza.qb",
+  "attachmentDirections": [
+  "yp"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "wall",
+    "lamp",
+    "brown",
+    "coffee",
+    "rainbow"
+  ],
+  "code": "mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowWallLamp",
+  "emissiveColor": "B06B53",
+  "light": 7.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureRainbowPack/CoffeeRainbowSet/CoffeeRainbowWallLamp.qb"
+}

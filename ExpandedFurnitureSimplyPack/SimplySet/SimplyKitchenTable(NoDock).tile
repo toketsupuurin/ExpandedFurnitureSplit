@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/tileObject/noDock.config",
+  "categories": [
+    "furniture",
+    "basic",
+    "brown",
+    "set",
+    "table",
+    "surface",
+    "dining",
+    "dinner",
+    "room"
+  ],
+  "code": "mods.ExpandedFurniture.SimplySet.SimplyKitchenTable(NoDock)",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 1,
+      "z": 2
+    },
+    "specification": "XC CC"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 100,
+    "value": 199
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureSimplyPack/SimplySet/SimplyKitchenTable.qb"
+}

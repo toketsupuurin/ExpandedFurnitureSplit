@@ -1,0 +1,29 @@
+{
+  "__inherits": "staxel/tileObject/noDock.config",
+  "attachToBelow": true,
+  "categories": [
+    "table",
+    "furniture",
+    "surface",
+    "picnic",
+    "bench",
+    "white"
+  ],
+  "code": "staxel.tileObject.serverVillage.LargePicnicTable(NoDock)",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 3,
+      "z": 3
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 60,
+    "value": 100
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "staxel/tileObject/serverVillage/LargePicnicTable.qb"
+}

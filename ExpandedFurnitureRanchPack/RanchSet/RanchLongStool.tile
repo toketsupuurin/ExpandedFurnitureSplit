@@ -1,0 +1,25 @@
+{
+  "__inherits": "mods/ExpandedFurniture/ConfigsDocks/SpookyOneSeaterStool.config",
+  "categories": [
+    "furniture",
+	"white",
+    "ranch",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+	"long",
+	"long stool",
+    "stool",
+	"ottoman"
+  ],
+  "code": "mods.ExpandedFurniture.RanchSet.RanchLongStool",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 250
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureRanchPack/RanchSet/RanchLongStool.qb"
+}

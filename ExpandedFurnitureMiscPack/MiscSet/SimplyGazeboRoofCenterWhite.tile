@@ -1,0 +1,29 @@
+{
+  "__inherits": "staxel/tileObject/roof.config",
+  "categories": [
+    "wood",
+    "garden",
+    "gazebo",
+    "roof",
+    "white",
+    "Simply",
+    "decoration"
+  ],
+  "code": "mods.ExpandedFurniture.SimplySet.SimplyGazeboRoofCenterWhite",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 1,
+      "z": 3
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 48,
+    "value": 120
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.LongGrassFootSteps",
+  "voxels": "mods/ExpandedFurnitureMiscPack/MiscSet/SimplyGazeboRoofCenterWhite.qb"
+}

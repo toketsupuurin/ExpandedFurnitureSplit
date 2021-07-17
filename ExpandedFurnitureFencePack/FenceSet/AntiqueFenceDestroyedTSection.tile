@@ -1,0 +1,45 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "xp",
+    "xn",
+    "yp",
+    "yn",
+    "zp"
+  ],
+  "categories": [
+    "fence",
+    "misc",
+    "white",
+    "antique",
+    "destroyed",
+    "EF",
+    "EFTSection",
+    "t section"
+  ],
+  "code": "mods.ExpandedFurniture.FenceSet.EFAntiqueFenceDestroyedTSection",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "placementDirections": [
+    "xp",
+    "xn",
+    "yn",
+    "zp"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 6,
+    "value": 20
+  },
+  "randomizePosition": false,
+  "representativeTile": "mods.ExpandedFurniture.FenceSet.EFAntiqueFenceDestroyedStraight",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureFencePack/FenceSet/AntiqueFenceDestroyedTSection.qb"
+}

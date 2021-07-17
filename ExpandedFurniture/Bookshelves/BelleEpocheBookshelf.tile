@@ -1,0 +1,40 @@
+{
+  "__inherits": "staxel/docks/dockBase.config",
+  "categories": [
+    "container",
+	"Bookshelf",
+    "storage",
+    "belle",
+    "epoche",
+    "white",
+	"book",
+    "furniture",
+    "cabinet",
+    "closet",
+    "cupboard",
+    "pantry",
+    "credenza",
+    "double",
+  ],
+  "code": "mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheBookshelf",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 3,
+      "z": 1
+    },
+    "specification": "CCC CXC"
+  },
+  "dockDefinition": "mods.ExpandedFurniture.SpookySet.SpookyBookshelf.dock",
+  "prefetchTileState": true,
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurniture/Bookshelves/BelleEpocheBookshelf.qb",
+  "wallPushOut": true
+}

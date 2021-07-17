@@ -1,0 +1,11 @@
+{
+    "file": "mods/Xable's Animals/dogs/WaterBowlPomeranian.pet",
+	"patchIfFileExists": "mods/Xable's Animals/dogs/WaterBowlPomeranian.pet",
+    "priority": 30, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+
+		"treasure": "mods.ExpandedFurniture.treasure.DogFurniture"
+
+    }
+}

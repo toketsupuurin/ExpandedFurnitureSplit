@@ -1,0 +1,34 @@
+{
+  "__inherits": "staxel/tileObject/noDock.config",
+  "categories": [
+    "furniture",
+    "white",
+    "belle",
+    "epoche",
+    "set",
+    "table",
+    "surface",
+    "coffee",
+    "low",
+    "short"
+  ],
+  "code": "mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheCoffeeTable(NoDock)",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 1,
+      "z": 2
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+	    "appearsInCatalogue": false,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "attachmentDirections":["yn"],
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureBelleEpochePack/BelleEpocheSet/BelleEpocheCoffeeTable.qb"
+}

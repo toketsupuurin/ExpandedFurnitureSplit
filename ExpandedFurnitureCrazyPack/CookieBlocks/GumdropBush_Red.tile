@@ -1,0 +1,22 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "flower",
+    "plant",
+    "misc",
+
+    "red",
+	"gumdrop",
+    "cookie",
+    "candy"
+  ],
+  "code": "mods.ExpandedFurniture.CookieBlocks.GumdropBush_Red",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10,
+    "value": 500
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureCrazyPack/CookieBlocks/GumdropBush_Red.qb"
+}

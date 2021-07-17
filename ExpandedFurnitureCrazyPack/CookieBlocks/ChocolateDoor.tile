@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/tileObject/door/doorBase.config",
+  "categories": [
+    "door",
+    "cookie",
+    "chocolate",
+    "candy",
+    "candycane",
+	"cane",
+	"red",
+	"cinnamon",
+	"green",
+	"white",
+    "brown"
+  ],
+  "code": "mods.ExpandedFurniture.CookieBlocks.ChocolateDoor",
+  "customRendererVoxels": "mods/ExpandedFurnitureCrazyPack/CookieBlocks/ChocolateDoor.qb",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 500
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureCrazyPack/CookieBlocks/ChocolateDoor.qb"
+}

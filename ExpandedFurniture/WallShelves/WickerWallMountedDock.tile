@@ -1,0 +1,21 @@
+{
+  "__inherits": "staxel/docks/WallMountedShelf.config",
+  "categories": [
+    "container",
+    "storage",
+    "wicker",
+    "furniture",
+    "shelf",
+    "black"
+  ],
+  "code": "mods.ExpandedFurniture.WickerSet.WickerWallShelf",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 630
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurniture/WallShelves/WickerWallMountedDock.qb"
+}

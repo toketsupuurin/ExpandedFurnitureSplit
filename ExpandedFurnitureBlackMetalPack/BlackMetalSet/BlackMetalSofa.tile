@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/docks/ThreeSeater_Thick.config",
+  "categories": [
+    "furniture",
+    "black",
+    "metal",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "sofa",
+    "couch",
+    "love",
+    "loveseat",
+    "settee"
+  ],
+  "code": "mods.ExpandedFurniture.BlackMetalSet.BlackMetalSofa",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureBlackMetalPack/BlackMetalSet/BlackMetalSofa.qb"
+}

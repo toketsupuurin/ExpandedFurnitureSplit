@@ -1,0 +1,22 @@
+{
+  "__inherits": "staxel/docks/OneSeater_Stool.config",
+  "categories": [
+    "furniture",
+    "brown",
+    "ranch",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "stool"
+  ],
+  "code": "mods.ExpandedFurniture.RanchSet.RanchStool",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 250
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureRanchPack/RanchSet/RanchStool.qb"
+}

@@ -1,0 +1,13 @@
+{
+    "file": "staxel/tileObject/themedfurniture/rainbow/GreenRainbowSideTable.tile",
+    "priority": 2, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+
+	  "pricing": {
+        "sellPrice": 10,
+        "value": 2500
+      },
+
+    }
+}

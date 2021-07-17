@@ -1,0 +1,35 @@
+
+{
+  "__inherits": "staxel/tileObject/wardrobe.config",
+  "categories": [
+    "container",
+    "storage",
+    "antique",
+    "furniture",
+    "cabinet",
+    "closet",
+    "cupboard",
+    "pantry",
+    "wardrobe",
+    "credenza",
+    "single",
+    "brown"
+  ],
+  "code": "mods.ExpandedFurniture.AntiqueSet.AntiqueWardrobeSingle",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 3,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 40,
+    "value": 176
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureAntiquePack/AntiqueSet/AntiqueWardrobeSingle.qb"
+}

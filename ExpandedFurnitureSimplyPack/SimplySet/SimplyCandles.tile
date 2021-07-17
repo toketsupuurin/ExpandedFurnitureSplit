@@ -1,0 +1,40 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "candle",
+	"white",
+    "basic"
+  ],
+  "code": "mods.ExpandedFurniture.SimplySet.SimplyCandles",
+  "frameAnimatedTile": {
+    "frameTime": 0.5
+  },
+  "prefetchTileState": true,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 10
+  },
+  "searchable": true,
+  "tilePlacement": {
+    "inHandRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "variants": [
+    "mods/ExpandedFurnitureSimplyPack/SimplySet/SimplyCandles.qb?size={16,16,16}?offset={0,0,0}",
+    "mods/ExpandedFurnitureSimplyPack/SimplySet/SimplyCandles.qb?size={16,16,16}?offset={16,0,0}",
+  ]
+}

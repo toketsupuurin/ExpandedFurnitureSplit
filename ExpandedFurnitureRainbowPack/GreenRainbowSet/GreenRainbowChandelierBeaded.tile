@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "rainbow",
+	"lamp",
+	"green",
+    "light",
+	"chandelier"
+  ],
+  "code": "mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowChandelierBeaded",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "emissiveColor": "56A724",
+  "light": 20,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureRainbowPack/GreenRainbowSet/GreenRainbowChandelierBeaded.qb",
+  "compound": {
+  "size": {
+    "x": 3,
+    "y": 2,
+    "z": 3
+  },
+  "specification": "CCC CXC CCC EEE EEE EEE"
+  },
+}

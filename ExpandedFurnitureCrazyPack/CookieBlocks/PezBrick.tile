@@ -1,0 +1,27 @@
+{
+  "__inherits": "staxel/tile/Hammerable.config",
+  "categories": [
+    "block",
+    "red",
+    "white",
+    "pink",
+    "floor",
+    "flooring",
+    "cookie",
+    "icing",
+    "candy"
+  ],
+  "code": "mods.ExpandedFurniture.CookieBlocks.PezBrick",
+  "damageSoundGroup": "staxel.sounds.damage.Stone",
+  "pathFindingPenalty": 10,
+  "placeSoundGroup": "staxel.sounds.place.Stone",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 500
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "voxels": "mods/ExpandedFurnitureCrazyPack/CookieBlocks/PezBrick.qb"
+}

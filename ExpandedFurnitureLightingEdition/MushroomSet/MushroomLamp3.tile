@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "furniture",
+	"green",
+    "mushroom",
+    "set",
+    "light",
+    "lightsource",
+    "lighting",
+    "lamp",
+    "bedside"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.MushroomSet.MushroomLamp3",
+  "emissiveColor": "70E594",
+  "light": 10.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureLightingEdition/MushroomSet/MushroomLamp3.qb"
+}

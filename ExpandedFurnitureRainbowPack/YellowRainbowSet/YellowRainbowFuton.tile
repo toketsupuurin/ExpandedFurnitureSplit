@@ -1,0 +1,32 @@
+{
+  "__inherits": "mods/ExpandedFurniture/ConfigsDocks/SpookyFuton.config",
+  "categories": [
+    "furniture",
+    "yellow",
+    "rainbow",
+	"pillow",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "futon",
+    "sofa",
+    "couch",
+    "love",
+    "loveseat",
+	"chaise",
+	"chaise longue",
+	"chaise lounge",
+	"lounge",
+    "settee"
+  ],
+  "code": "mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowFuton",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureRainbowPack/YellowRainbowSet/YellowRainbowFuton.qb"
+}

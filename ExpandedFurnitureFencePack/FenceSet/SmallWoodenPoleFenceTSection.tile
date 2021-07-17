@@ -1,0 +1,46 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "xp",
+    "yp",
+    "xn",
+    "yn",
+    "zp"
+  ],
+  "categories": [
+    "fence",
+    "misc",
+    "brown",
+    "wooden",
+    "pole",
+    "low",
+    "EF",
+    "EFTSection",
+    "t section"
+  ],
+  "code": "mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceTSection",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "placementDirections": [
+    "xp",
+    "xn",
+    "yn",
+    "zp"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 12,
+    "value": 20
+  },
+  "randomizePosition": false,
+  "representativeTile": "mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceStraight",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "staxel/tileObject/serverVillage/exterior/SmallWoodenPoleFenceTSection.qb"
+}

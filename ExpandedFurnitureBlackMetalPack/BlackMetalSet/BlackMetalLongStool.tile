@@ -1,0 +1,25 @@
+{
+  "__inherits": "mods/ExpandedFurniture/ConfigsDocks/SpookyOneSeaterStool.config",
+  "categories": [
+    "furniture",
+	"black",
+    "metal",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+	"long",
+	"long stool",
+    "stool",
+	"ottoman"
+  ],
+  "code": "mods.ExpandedFurniture.BlackMetalSet.BlackMetalLongStool",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureBlackMetalPack/BlackMetalSet/BlackMetalLongStool.qb"
+}

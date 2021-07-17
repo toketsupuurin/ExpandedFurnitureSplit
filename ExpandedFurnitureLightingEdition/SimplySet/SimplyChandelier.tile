@@ -1,0 +1,36 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "basic",
+    "light",
+    "lightsource",
+	"chandelier",
+    "lighting",
+    "ceiling",
+    "lamp",
+    "bronze",
+    "brown",
+    "black",
+    "orange",
+	
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.SimplySet.SimplyChandelier",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 1,
+      "z": 3
+    },
+    "specification": "CCC CXC CCC"
+  },
+  "emissiveColor": "ffffff96",
+  "light": 2.2,
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 5,
+    "value": 30
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureLightingEdition/SimplySet/SimplyChandelier.qb"
+}

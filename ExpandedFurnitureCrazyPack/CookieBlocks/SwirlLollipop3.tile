@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "flower",
+    "plant",
+    "tree",
+    "misc",
+	"lollipop",
+    "white",
+    "blue",
+    "yellow",
+    "cookie",
+    "candycane",
+    "candy",
+    "cane"
+  ],
+  "code": "mods.ExpandedFurniture.CookieBlocks.SwirlLollipop3",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10,
+    "value": 500
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureCrazyPack/CookieBlocks/SwirlLollipop3.qb"
+}

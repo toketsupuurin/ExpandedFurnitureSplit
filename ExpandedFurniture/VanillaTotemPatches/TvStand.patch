@@ -1,0 +1,20 @@
+{
+    "file": "staxel/tileObject/serverVillage/TvStand.tile",
+    "priority": 900, 
+	// This patch MUST NOT be overwritten by a later patch for the keywords to work. in the totems. Only overwrite this patch if you DO NOT want this category to work with totems.
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch": {
+
+		"categories": [
+			"TvStand",
+			"table",
+			"surface",
+			"furniture",
+			"TV",
+			"t.v",
+			"stand",
+			"brown"
+		],
+
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "__inherits": "staxel/docks/OneSeater_Thick.config",
+  "categories": [
+    "furniture",
+    "brown",
+    "wicker",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "armchair"
+  ],
+  "code": "mods.ExpandedFurniture.WickerSet.WickerArmChairRight",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 630
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureWickerPack/WickerSet/WickerArmChairRight.qb"
+}

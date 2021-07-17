@@ -1,0 +1,21 @@
+{
+  "__inherits": "staxel/docks/WallMountedShelf.config",
+  "categories": [
+    "container",
+    "storage",
+    "groovy",
+    "furniture",
+    "shelf",
+    "orange"
+  ],
+  "code": "mods.ExpandedFurniture.GroovySet.GroovyWallShelf",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurniture/WallShelves/GroovyWallMountedDock.qb"
+}

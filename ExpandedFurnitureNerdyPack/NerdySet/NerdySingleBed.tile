@@ -1,0 +1,33 @@
+{
+  "__inherits": "staxel/docks/SingleBed.config",
+  "categories": [
+    "furniture",
+    "black",
+    "white",
+    "green",
+    "nerdy",
+    "set",
+    "bed",
+    "bunk",
+    "sleep",
+    "single"
+  ],
+  "code": "mods.ExpandedFurniture.NerdySet.NerdySingleBed",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 2,
+      "z": 3
+    },
+    "specification": "EEE EEE EEECCC CXC CCC"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureNerdyPack/NerdySet/NerdySingleBed.qb"
+}

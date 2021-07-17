@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "rainbow",
+	"lamp",
+	"orange",
+    "light",
+	"chandelier"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.OrangeRainbowSet.OrangeRainbowChandelier",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 1200,
+    "value": 2000
+  },
+  "emissiveColor": "7C7F4F",
+  "light": 20,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureLightingEdition/OrangeRainbowSet/OrangeRainbowChandelier.qb",
+  "compound": {
+  "size": {
+    "x": 3,
+    "y": 1,
+    "z": 3
+  },
+  "specification": "CCC CXC CCC"
+  },
+}

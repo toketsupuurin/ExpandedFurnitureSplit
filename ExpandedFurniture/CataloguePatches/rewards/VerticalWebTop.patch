@@ -1,0 +1,18 @@
+{
+    "file": "staxel/tileObject/quest/Eris/Environment/VerticalWebTop.tile",
+    "priority": 100, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch": {
+		
+		"pricing": {
+			"catalogueUnlockedFromStart": false,
+			"appearsInCatalogue": true,
+			"buyable": true,
+			"sellable": true,
+			"sellPrice": 5,
+			"value": 30,
+			"canBeEarntFromLuckyBox": false,
+		},
+		"searchable": true,
+    }
+}

@@ -1,0 +1,71 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.ContemporarySet.ContemporaryBookshelf.name=Contemporary Bookshelf
+mods.ExpandedFurniture.ContemporarySet.ContemporaryBookshelf.description=A chic piece.
+
+mods.ExpandedFurniture.ContemporarySet.ContemporaryCandle.name=Contemporary White Candle
+mods.ExpandedFurniture.ContemporarySet.ContemporaryCandle.description=A chic white piece.
+
+mods.ExpandedFurniture.ContemporarySet.ContemporaryCandle2.name=Contemporary Green Candle
+mods.ExpandedFurniture.ContemporarySet.ContemporaryCandle2.description=A chic green piece.
+
+mods.ExpandedFurniture.ContemporarySet.ContemporaryCandle3.name=Contemporary Pink Candle
+mods.ExpandedFurniture.ContemporarySet.ContemporaryCandle3.description=A chic pink piece.
+
+mods.ExpandedFurniture.ContemporarySet.ContemporaryCarpet1x3.name=Contemporary Carpet
+mods.ExpandedFurniture.ContemporarySet.ContemporaryCarpet1x3.description=A chic piece.
+
+mods.ExpandedFurniture.ContemporarySet.ContemporaryCeilingLamp.name=Contemporary Ceiling Lamp
+mods.ExpandedFurniture.ContemporarySet.ContemporaryCeilingLamp.description=A chic piece.
+
+mods.ExpandedFurniture.ContemporarySet.ContemporaryChandelier.name=Contemporary Chandelier
+mods.ExpandedFurniture.ContemporarySet.ContemporaryChandelier.description=A chic piece.
+
+mods.ExpandedFurniture.ContemporarySet.ContemporaryCoffeeTable(NoDock).name=Contemporary Coffee Table (No Dock)
+mods.ExpandedFurniture.ContemporarySet.ContemporaryCoffeeTable(NoDock).description=A dockless chic piece.
+
+mods.ExpandedFurniture.ContemporarySet.ContemporaryCoffeeTableLoveseat.name=Contemporary Coffee Table (Loveseat)
+mods.ExpandedFurniture.ContemporarySet.ContemporaryCoffeeTableLoveseat.description=A chic green piece.
+
+staxel.tileObject.themedfurniture.contemporary.ContemporaryCoffeeTable.name=Contemporary Coffee Table (Sofa)
+staxel.tileObject.themedfurniture.contemporary.ContemporaryCoffeeTable.description=A chic green piece.
+
+mods.ExpandedFurniture.ContemporarySet.ContemporaryDoubleBed(NoDock).name=Contemporary Double Bed (No Dock)
+mods.ExpandedFurniture.ContemporarySet.ContemporaryDoubleBed(NoDock).description=A dockless chic piece.
+
+mods.ExpandedFurniture.ContemporarySet.ContemporaryFootLamp2.name=Contemporary Green Foot Lamp
+mods.ExpandedFurniture.ContemporarySet.ContemporaryFootLamp2.description=A chic green piece.
+
+mods.ExpandedFurniture.ContemporarySet.ContemporaryFootLamp3.name=Contemporary Pink Foot Lamp
+mods.ExpandedFurniture.ContemporarySet.ContemporaryFootLamp3.description=A chic green piece.
+
+mods.ExpandedFurniture.ContemporarySet.ContemporaryLamp3.name=Contemporary Striped Lamp
+mods.ExpandedFurniture.ContemporarySet.ContemporaryLamp3.description=A chic striped piece.
+
+mods.ExpandedFurniture.ContemporarySet.ContemporarySingleBed(NoDock).name=Contemporary Single Bed (No Dock)
+mods.ExpandedFurniture.ContemporarySet.ContemporarySingleBed(NoDock).description=A dockless chic piece.
+
+mods.ExpandedFurniture.ContemporarySet.ContemporaryTVStand.name=Contemporary TV Stand
+mods.ExpandedFurniture.ContemporarySet.ContemporaryTVStand.description=A chic piece.
+
+mods.ExpandedFurniture.ContemporarySet.ContemporaryTable(NoDock).name=Contemporary Table (No Dock)
+mods.ExpandedFurniture.ContemporarySet.ContemporaryTable(NoDock).description=A dockless chic piece.
+
+mods.ExpandedFurniture.ContemporarySet.ContemporaryTableLarge(NoDock).name=Contemporary Large Table (No Dock)
+mods.ExpandedFurniture.ContemporarySet.ContemporaryTableLarge(NoDock).description=A dockless chic piece.
+
+mods.ExpandedFurniture.ContemporarySet.ContemporaryWallLamp.name=Contemporary Green Wall Lamp
+mods.ExpandedFurniture.ContemporarySet.ContemporaryWallLamp.description=A chic green piece.
+
+mods.ExpandedFurniture.ContemporarySet.ContemporaryWallLamp2.name=Contemporary Pink Wall Lamp
+mods.ExpandedFurniture.ContemporarySet.ContemporaryWallLamp2.description=A chic pink piece.
+
+mods.ExpandedFurniture.ContemporarySet.ContemporaryWallLamp3.name=Contemporary Striped Wall Lamp
+mods.ExpandedFurniture.ContemporarySet.ContemporaryWallLamp3.description=A chic striped piece.
+
+mods.ExpandedFurniture.ContemporarySet.ContemporaryWallShelf.name=Contemporary Shelf
+mods.ExpandedFurniture.ContemporarySet.ContemporaryWallShelf.description=A chic piece.
+
+mods.ExpandedFurniture.ContemporarySet.ContemporaryWardrobeSingle.name=Contemporary Single Wardrobe
+mods.ExpandedFurniture.ContemporarySet.ContemporaryWardrobeSingle.description=A chic piece.

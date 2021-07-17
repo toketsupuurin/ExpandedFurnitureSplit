@@ -1,0 +1,36 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "spooky",
+	"lamp",
+	"candle",
+	"black",
+	"silver",
+	"grey",
+	"gray",
+    "light",
+	"chandelier"
+  ],
+  "code": "mods.ExpandedFurniture.SpookySet.SpookyChandelier",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "emissiveColor": "F57F17",
+  "light": 20,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookyChandelier.qb",
+  "compound": {
+  "size": {
+    "x": 3,
+    "y": 2,
+    "z": 3
+  },
+  "specification": "CCC CXC CCC EEE EEE EEE"
+  },
+}

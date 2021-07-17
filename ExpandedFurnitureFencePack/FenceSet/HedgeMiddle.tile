@@ -1,0 +1,42 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "xp",
+    "yp",
+    "xn"
+  ],
+  "categories": [
+    "fence",
+    "misc",
+    "plant",
+    "hedge",
+    "straight",
+    "green",
+    "EF",
+    "EFMiddle",
+    "middle"
+  ],
+  "code": "mods.ExpandedFurniture.FenceSet.EFHedgeMiddle",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "placementDirections": [
+    "xp",
+    "xn"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 12,
+    "value": 20
+  },
+  "randomizePosition": false,
+  "representativeTile": "mods.ExpandedFurniture.FenceSet.EFHedgeStraight",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureFencePack/FenceSet/HedgeMiddle.qb"
+}

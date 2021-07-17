@@ -1,0 +1,131 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowArmChair.name=Blue Rainbow Arm Chair
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowArmChair.description=A casual blue slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowBed(NoDock).name=Blue Rainbow Single Bed (No Dock)
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowBed(NoDock).description=A casual dockless blue slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowBed.name=Blue Rainbow Single Bed
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowBed.description=A casual blue slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowBookshelf.name=Blue Rainbow Bookshelf
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowBookshelf.description=A casual blue slatted piece.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowCandle.name=Blue Rainbow Candle
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowCandle.description=A casual blue candle.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowCandle2.name=BlueRainbow Melted Candle
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowCandle2.description=A used blue candle.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowCarpet1x3.name=Blue Rainbow Carpet
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowCarpet1x3.description=A casual piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowCeilingLamp.name=Blue Rainbow Ceiling Lamp
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowCeilingLamp.description=A casual blue lamp.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowCeilingLampBeaded.name=Blue Rainbow Beaded Ceiling Lamp
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowCeilingLampBeaded.description=A beaded blue lamp.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowChair.name=Blue Rainbow Chair
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowChair.description=A casual blue slatted piece.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowChandelier.name=BlueRainbowChandelier
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowChandelier.description=A casual blue chandelier.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowChandelierBeaded.name=Blue Rainbow Beaded Chandelier
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowChandelierBeaded.description=A beaded blue chandelier.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowCoffeeTable(NoDock).name=Blue Rainbow Coffee Table (No Dock)
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowCoffeeTable(NoDock).description=A dockless casual blue slatted piece.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowCoffeeTableSofa.name=Blue Rainbow Coffee Table (Sofa)
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowCoffeeTableSofa.description=A casual Blue slatted piece.
+
+staxel.tileObject.themedfurniture.rainbow.BlueRainbowCoffeeTable.name=Blue Rainbow Coffee Table (Loveseat)
+staxel.tileObject.themedfurniture.rainbow.BlueRainbowCoffeeTable.description=A casual Blue slatted piece.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowCredenza.name=Blue Rainbow Credenza
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowCredenza.description=A casual blue slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowDesk(NoDock).name=Blue Rainbow Desk (No Dock)
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowDesk(NoDock).description=A dockless casual blue slatted piece.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowDesk.name=Blue Rainbow Desk
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowDesk.description=A casual blue slatted piece.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowDoubleBed(NoDock).name=Blue Rainbow Double Bed (No Dock)
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowDoubleBed(NoDock).description=A dockless casual blue slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowDoubleBed.name=Blue Rainbow Double Bed
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowDoubleBed.description=A casual blue slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowDresser.name=Blue Rainbow Dresser
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowDresser.description=A casual blue slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowFootLamp.name=Blue Rainbow Foot Lamp
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowFootLamp.description=A casual blue lamp.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowFootLampBeaded.name=Blue Rainbow Beaded Foot Lamp
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowFootLampBeaded.description=A beaded blue lamp.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowFuton.name=Blue Rainbow Futon
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowFuton.description=A casual blue slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowLamp.name=Blue Rainbow Lamp
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowLamp.description=A casual blue lamp.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowLampBeaded.name=Blue Rainbow Beaded Lamp
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowLampBeaded.description=A beaded blue lamp.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowLongStool.name=Blue Rainbow Long Stool
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowLongStool.description=A casual blue slatted piece.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowLoveseat.name=Blue Rainbow Loveseat
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowLoveseat.description=A casual blue slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowSideTable(NoDock).name=Blue Rainbow Side Table (No Dock)
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowSideTable(NoDock).description=A dockless casual blue slatted piece.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowSideTable.name=Blue Rainbow Side Table
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowSideTable.description=A casual blue slatted piece.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowSofa.name=Blue Rainbow Sofa
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowSofa.description=A casual blue slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowStool.name=Blue Rainbow Stool
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowStool.description=A casual blue slatted piece.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowTable.name=Blue Rainbow Table
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowTable.description=A casual blue slatted piece.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowTable(NoDock).name=Blue Rainbow Table (No Dock)
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowTable(NoDock).description=A dockless casual blue slatted piece.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowTableLarge(NoDock).name=Blue Rainbow Large Table (No Dock)
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowTableLarge(NoDock).description=A dockless casual blue slatted piece.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowTableLarge.name=Blue Rainbow Large Table
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowTableLarge.description=A casual blue slatted piece.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowTVStand.name=Blue Rainbow TV Stand
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowTVStand.description=A casual blue slatted piece.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowVanity.name=Blue Rainbow Vanity
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowVanity.description=A casual blue slatted piece.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowWallLamp.name=Blue Rainbow Wall Lamp
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowWallLamp.description=A casual blue lamp.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowWallLampBeaded.name=Blue Rainbow Beaded Wall Lamp
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowWallLampBeaded.description=A beaded blue lamp.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowWallShelf.name=Blue Rainbow Shelf
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowWallShelf.description=A casual blue slatted piece.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowWardrobeDouble.name=Blue Rainbow Double Wardrobe
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowWardrobeDouble.description=A casual blue slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowWardrobeSingle.name=Blue Rainbow Single Wardrobe
+mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowWardrobeSingle.description=A casual blue slatted piece with cheerful rainbow stripes.

@@ -1,0 +1,26 @@
+{
+  "__inherits": "mods/ExpandedFurniture/ConfigsDocks/SpookyOneSeaterStool.config",
+  "categories": [
+    "furniture",
+	"red",
+    "white",
+    "mushroom",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+	"long",
+	"long stool",
+    "stool",
+	"ottoman"
+  ],
+  "code": "mods.ExpandedFurniture.MushroomSet.MushroomLongStool",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureMushroomPack/MushroomSet/MushroomLongStool.qb"
+}

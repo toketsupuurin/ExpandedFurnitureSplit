@@ -1,0 +1,27 @@
+{
+  "__inherits": "staxel/tileObject/roof.config",
+  "aoFloor": false,
+  "attachToBelow": false,
+  "categories": [
+    "roof",
+    "roofing",
+    "block",
+    "tiled",
+    "tile",
+    "tiling",
+    "tiles",
+    "Blue",
+    "outer roof"
+  ],
+  "code": "mods.ExpandedFurniture.RoofBlocks.Normal_OuterCorner_DarkBlue",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 6,
+    "value": 10
+  },
+  "representativeTile": "mods.ExpandedFurniture.RoofBlocks.Normal_Straight_DarkBlue",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureRoofingPack/RoofBlocks/DarkBlue/Normal_OuterCorner_DarkBlue.qb"
+}

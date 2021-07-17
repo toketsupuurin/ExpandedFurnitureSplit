@@ -1,0 +1,26 @@
+{
+  "__inherits": "mods/ExpandedFurniture/ConfigsDocks/SpookyOneSeaterStool.config",
+  "categories": [
+    "furniture",
+	"grey",
+    "gray",
+    "rainbow",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+	"long",
+	"long stool",
+    "stool",
+	"ottoman"
+  ],
+  "code": "mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowLongStool",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureRainbowPack/GreyRainbowSet/GreyRainbowLongStool.qb"
+}

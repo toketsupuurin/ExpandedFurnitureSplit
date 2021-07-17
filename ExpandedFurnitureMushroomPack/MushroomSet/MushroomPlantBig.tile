@@ -1,0 +1,21 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "flower",
+    "plant",
+    "bonsai",
+    "furniture",
+	"blue",
+    "cyan",
+	"mushroom"
+  ],
+  "code": "mods.ExpandedFurniture.MushroomSet.MushroomPlantBig",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureMushroomPack/MushroomSet/MushroomPlantBig.qb"
+}

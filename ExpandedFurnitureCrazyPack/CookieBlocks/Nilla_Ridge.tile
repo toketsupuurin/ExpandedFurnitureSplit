@@ -1,0 +1,90 @@
+{
+  "__inherits": "staxel/tileObject/roof.config",
+  "aoFloor": false,
+  "categories": [
+    "roof",
+    "roofing",
+    "block",
+    "tiled",
+    "tile",
+    "tiling",
+    "tiles",
+    "Nilla",
+    "vanilla",
+    "cookie",
+    "brown",
+    "candy"
+  ],
+  "autoTileInfo": [
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "rotationToLookFor": 3,
+		  "tileCategoriesToLookFor": [
+            "block",
+            "tile",
+            "stair",
+            "roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 3,
+          "tileToPlace": "mods.ExpandedFurniture.CookieBlocks.Nilla_Ridge_Plain",
+        }
+      ]
+    },
+	    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "rotationToLookFor": 1,
+		  "tileCategoriesToLookFor": [
+            "block",
+            "tile",
+            "stair",
+            "roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 1,
+          "tileToPlace": "mods.ExpandedFurniture.CookieBlocks.Nilla_Ridge_Strawberry",
+        }
+      ]
+    },
+	    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "rotationToLookFor": 2,
+		  "tileCategoriesToLookFor": [
+            "block",
+            "tile",
+            "stair",
+            "roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 2,
+          "tileToPlace": "mods.ExpandedFurniture.CookieBlocks.Nilla_Ridge_Apricot",
+        }
+      ]
+    }
+  ],
+  "code": "mods.ExpandedFurniture.CookieBlocks.Nilla_Ridge",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 50
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureCrazyPack/CookieBlocks/Nilla_Ridge.qb"
+}

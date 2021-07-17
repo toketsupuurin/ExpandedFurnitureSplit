@@ -1,0 +1,30 @@
+{
+  "__inherits": "staxel/tileObject/vanity.config",
+  "categories": [
+    "furniture",
+    "brown",
+    "wicker",
+    "set",
+    "vanity",
+    "dressing",
+    "mirror",
+    "table"
+  ],
+  "code": "mods.ExpandedFurniture.WickerSet.WickerVanity",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 630
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureWickerPack/WickerSet/WickerVanity.qb"
+}

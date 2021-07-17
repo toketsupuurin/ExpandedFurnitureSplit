@@ -1,0 +1,33 @@
+{
+  "__inherits": "staxel/tileObject/noDock.config",
+  "categories": [
+    "furniture",
+    "black",
+    "spooky",
+    "set",
+    "table",
+    "surface",
+    "coffee",
+    "low",
+    "short"
+  ],
+  "code": "mods.ExpandedFurniture.SpookySet.SpookyCoffeeTable(NoDock)",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+	    "appearsInCatalogue": false,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "attachmentDirections":["yn"],
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookyCoffeeTable.qb"
+}

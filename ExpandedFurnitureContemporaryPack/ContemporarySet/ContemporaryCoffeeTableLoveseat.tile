@@ -1,0 +1,31 @@
+{
+  "__inherits": "staxel/docks/CoffeeTable.config",
+  "categories": [
+    "furniture",
+    "black",
+    "contemporary",
+    "set",
+    "table",
+    "surface",
+    "coffee",
+    "low",
+    "short"
+  ],
+  "code": "mods.ExpandedFurniture.ContemporarySet.ContemporaryCoffeeTableLoveseat",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 3,
+      "z": 3
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "staxel/tileObject/themedfurniture/contemporary/ContemporaryCoffeeTable.qb"
+}

@@ -1,0 +1,43 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "nerdy",
+    "light",
+    "lightsource",
+    "lighting",
+    "lamp",
+    "floor",
+    "foot",
+	"torchiere",
+    "yellow"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.NerdySet.NerdyFootLamp4",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 3,
+      "z": 1
+    }
+  },
+  "emissiveColor": "FFC335",
+  "light": 10.0,
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureLightingEdition/NerdySet/NerdyFootLamp4.qb",
+  "frameAnimatedTile": {
+    "frameTime": 0.13
+  },
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "variants": [
+    "mods/ExpandedFurnitureLightingEdition/NerdySet/NerdyFootLamp4.qb?size={16,48,16}?offset={0,0,0}",
+    "mods/ExpandedFurnitureLightingEdition/NerdySet/NerdyFootLamp4.qb?size={16,48,16}?offset={16,0,0}",
+    "mods/ExpandedFurnitureLightingEdition/NerdySet/NerdyFootLamp4.qb?size={16,48,16}?offset={32,0,0}",
+    "mods/ExpandedFurnitureLightingEdition/NerdySet/NerdyFootLamp4.qb?size={16,48,16}?offset={48,0,0}"
+  ]
+}

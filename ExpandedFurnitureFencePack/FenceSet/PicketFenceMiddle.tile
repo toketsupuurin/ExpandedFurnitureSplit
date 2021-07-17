@@ -1,0 +1,39 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "xp",
+    "xn"
+  ],
+  "categories": [
+    "fence",
+    "misc",
+    "picket",
+    "white",
+    "EF",
+    "EFMiddle",
+    "middle"
+  ],
+  "code": "mods.ExpandedFurniture.FenceSet.EFPicketFenceMiddle",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "placementDirections": [
+    "xp",
+    "xn"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 6,
+    "value": 10
+  },
+  "randomizePosition": false,
+  "representativeTile": "mods.ExpandedFurniture.FenceSet.EFPicketFenceStraight",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureFencePack/FenceSet/PicketFenceMiddle.qb"
+}

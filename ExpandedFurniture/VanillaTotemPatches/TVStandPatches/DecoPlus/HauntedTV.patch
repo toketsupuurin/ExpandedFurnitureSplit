@@ -1,0 +1,13 @@
+{
+    "file": "mods/Deco Plus/Halloween/Haunted/Haunted TV/HauntedTv.tile",
+	"patchIfFileExists": "mods/Deco Plus/Halloween/Haunted/Haunted TV/HauntedTv.tile",
+    "priority": 999, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch": {
+
+		"categories": [
+			"TvStand",
+		],
+
+    }
+}

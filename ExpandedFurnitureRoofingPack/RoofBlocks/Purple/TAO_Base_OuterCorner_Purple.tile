@@ -1,0 +1,30 @@
+{
+  "__inherits": "staxel/tileObject/roof.config",
+  "aoFloor": false,
+  "attachToBelow": false,
+  "categories": [
+    "roof",
+    "roofing",
+    "block",
+    "tiled",
+    "tile",
+    "tiling",
+    "tiles",
+    "TAO",
+    "TAOBase",
+    "base",
+    "outer roof",
+	"Purple"
+  ],
+  "code": "mods.ExpandedFurniture.RoofBlocks.TAO_Base_OuterCorner_Purple",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 6,
+    "value": 10
+  },
+  "representativeTile": "mods.ExpandedFurniture.RoofBlocks.TAO_Base_Straight_Purple",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureRoofingPack/RoofBlocks/Purple/TAO_Base_OuterCorner_Purple.qb"
+}

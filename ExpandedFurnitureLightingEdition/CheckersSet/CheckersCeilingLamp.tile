@@ -1,0 +1,31 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "checkers",
+	"lamp",
+	"brown",
+    "light"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.CheckersSet.CheckersCeilingLamp",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 1,
+      "z": 2
+    },
+    "specification": "XC CC"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "emissiveColor": "fff7EFCF",
+  "light": 2.2,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureLightingEdition/CheckersSet/CheckersCeilingLamp.qb"
+}

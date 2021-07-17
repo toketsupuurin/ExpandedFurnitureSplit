@@ -1,0 +1,47 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachToBelow": false,
+  "categories": [
+    "clock"
+  ],
+  "clock": {
+    "clockAlt": 0,
+    "handCentre": {
+      "x": 0.5,
+      "y": 2.5,
+      "z": 0.5
+    },
+    "hoursHandAlt": 1,
+    "middayChimeSound": "staxel.sound.sfx.clock.ClockTowerChime",
+    "minutesHandAlt": 2
+  },
+  "code": "mods.ExpandedFurniture.MiscSet.ClockTowerFaceCentered",
+  "compound": {
+    "size": {
+      "x": 5,
+      "y": 5,
+      "z": 1
+    },
+    "specification": "CCCCC CCCCC CCCCC CCCCC CCXCC"
+  },
+  "prefetchTileState": true,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 1000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "tileStateKind": "staxel.tileState.Clock",
+  "useCustomRendering": true,
+  "placementPreviewVariant": 3,
+  "iconVariant": 3,
+  "variants": [
+    "mods/ExpandedFurnitureMiscPack/MiscSet/ClockTowerFaceCentered.qb?size={80,80,16}?offset={0,0,0}",
+    "mods/ExpandedFurnitureMiscPack/MiscSet/ClockTowerFaceCentered.qb?size={80,80,16}?offset={80,0,0}",
+    "mods/ExpandedFurnitureMiscPack/MiscSet/ClockTowerFaceCentered.qb?size={80,80,16}?offset={160,0,0}",
+    "mods/ExpandedFurnitureMiscPack/MiscSet/ClockTowerFaceCentered.qb?size={80,80,16}?offset={240,0,0}"
+  ],
+  "voxels": "mods/ExpandedFurnitureMiscPack/MiscSet/ClockTowerFaceCentered.qb"
+}

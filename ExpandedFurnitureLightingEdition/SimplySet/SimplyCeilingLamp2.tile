@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "basic",
+    "light",
+    "lightsource",
+    "lighting",
+    "ceiling",
+    "lamp",
+    "white"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.SimplySet.SimplyCeilingLamp2",
+  "emissiveColor": "ffffff96",
+  "light": 2.2,
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 5,
+    "value": 30
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureLightingEdition/SimplySet/SimplyCeilingLamp2.qb"
+}

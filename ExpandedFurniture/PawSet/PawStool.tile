@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/docks/OneSeater_Stool.config",
+  "categories": [
+    "furniture",
+    "yellow",
+    "brown",
+    "pet",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "stool"
+  ],
+  "code": "mods.ExpandedFurniture.PawSet.PawStool",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurniture/PawSet/PawStool.qb"
+}

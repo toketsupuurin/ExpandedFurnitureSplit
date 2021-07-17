@@ -1,0 +1,34 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "contemporary",
+	"lamp",
+    "silver",
+    "grey",
+    "gray",
+    "light",
+	"chandelier"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.ContemporarySet.ContemporaryChandelier",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 1200,
+    "value": 2000
+  },
+  "emissiveColor": "fff7EFCF",
+  "light": 20,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureLightingEdition/ContemporarySet/ContemporaryChandelier.qb",
+  "compound": {
+  "size": {
+    "x": 3,
+    "y": 1,
+    "z": 3
+  },
+  "specification": "CCC CXC CCC"
+  },
+}

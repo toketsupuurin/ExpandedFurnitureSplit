@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "furniture",
+	"orange",
+    "mushroom",
+    "set",
+    "light",
+    "lightsource",
+    "lighting",
+    "lamp",
+    "bedside"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.MushroomSet.MushroomLamp4",
+  "emissiveColor": "D97D14",
+  "light": 10.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureLightingEdition/MushroomSet/MushroomLamp4.qb"
+}

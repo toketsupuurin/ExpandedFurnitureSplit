@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/docks/OneSeater_TallChair.config",
+  "categories": [
+    "furniture",
+    "green",
+    "pink",
+    "fey",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "dining",
+    "dinner",
+    "room"
+  ],
+  "code": "mods.ExpandedFurniture.FeySet.FeyChair",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 2280,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureFestivalPack/FeySet/FeyChair.qb"
+}

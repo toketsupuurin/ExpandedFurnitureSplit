@@ -1,0 +1,43 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "yn",
+    "yp",
+    "xn"
+  ],
+  "categories": [
+    "fence",
+    "misc",
+    "brown",
+    "rough",
+    "wood",
+    "wooden",
+    "EF",
+    "EFEnd",
+    "end"
+  ],
+  "code": "mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceEnd",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "placementDirections": [
+    "yn",
+    "xn"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 6,
+    "value": 10
+  },
+  "randomizePosition": false,
+  "representativeTile": "mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceStraight",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureFencePack/FenceSet/RoughWoodenFenceEnd.qb"
+
+}

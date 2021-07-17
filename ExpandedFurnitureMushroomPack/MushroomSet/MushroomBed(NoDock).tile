@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/tileObject/noDock.config",
+   "categories": [
+    "furniture",
+    "mushroom",
+    "red",
+    "white",
+    "wood",
+    "set",
+    "bed",
+    "sleep",
+    "single"
+  ],
+  "code": "mods.ExpandedFurniture.MushroomSet.MushroomBed(NoDock)",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 1,
+      "z": 3
+    },
+    "specification": "CCC CXC CCC"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "staxel/tileObject/themedfurniture/mushroom/MushroomSingleBed.qb"
+}

@@ -1,0 +1,27 @@
+{
+  "__inherits": "staxel/docks/ThreeSeater_Thick.config",
+  "categories": [
+    "furniture",
+    "yellow",
+    "brown",
+    "pet",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "sofa",
+    "couch",
+    "love",
+    "loveseat",
+    "settee"
+  ],
+  "code": "mods.ExpandedFurniture.PawSet.PawSofa",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurniture/PawSet/PawSofa.qb"
+}

@@ -1,0 +1,36 @@
+{
+  "__inherits": "staxel/docks/Desk.config",
+  "categories": [
+    "furniture",
+    "white",
+    "belle",
+    "epoche",
+    "set",
+    "container",
+    "storage",
+    "cabinet",
+    "closet",
+    "cupboard",
+    "pantry",
+    "wardrobe",
+    "desk"
+  ],
+  "code": "mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheDesk",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    },
+    "specification": "XC"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureBelleEpochePack/BelleEpocheSet/BelleEpocheDesk.qb"
+}

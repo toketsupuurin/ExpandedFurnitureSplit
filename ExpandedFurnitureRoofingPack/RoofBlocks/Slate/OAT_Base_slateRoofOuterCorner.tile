@@ -1,0 +1,29 @@
+{
+  "__inherits": "staxel/tileObject/roof.config",
+  "aoFloor": false,
+  "attachToBelow": false,
+  "categories": [
+    "roof",
+    "roofing",
+    "OAT",
+    "OATBase",
+    "block",
+    "tiled",
+    "tile",
+    "tiling",
+    "tiles",
+    "slate",
+    "outer roof"
+  ],
+  "code": "mods.ExpandedFurniture.RoofBlocks.OAT_Base_SlateRoofOuterCorner",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 15
+  },
+  "representativeTile": "mods.ExpandedFurniture.RoofBlocks.OAT_Base_SlateRoofStraight",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureRoofingPack/RoofBlocks/Slate/OAT_Base_slateRoofOuterCorner.qb"
+}

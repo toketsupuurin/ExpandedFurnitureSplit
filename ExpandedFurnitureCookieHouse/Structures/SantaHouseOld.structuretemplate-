@@ -1,0 +1,753 @@
+{
+  "code" : "mods.ExpandedFurniture.CookieBlocks.SantaHouse",
+  "file" : "mods/ExpandedFurnitureCookieHouse/Structures/SantaHouse.qb",
+  "offset" : { "x" : 0, "y" : 0, "z" : 0 },
+  "markers" : [
+    {
+        "kind" : "path",
+        "locations" : [ 
+            { "x" : 10, "y" : 0, "z" : 18 }
+        ]
+    },
+    {
+        "kind" : "front",
+        "locations" : [ 
+            { "x" : 10, "y" : 0, "z" : 18 }
+        ]
+    }
+  ],
+  "mapping": {
+    "00000000" : {
+      "material" : "staxel.tile.Sky",
+      "requireEmpty" : false,
+      "matches" : false,
+      "randomRotation" : false
+    },  
+	"FF674621": {
+      "matches": false,
+      "material": "staxel.tile.dirt.Dirt",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF0EABC7": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Flat_Plain",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF0FCF9A": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.SugarWindow",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF132095": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.SwirlLollipop1",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF13BB2A": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.TruffleBush_Chocolate",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF14197E": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Flat_Plain",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF1CD08D": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceMiddle",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF1CDA31": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion_Strawberry",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF20AFF5": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.SugarWindow",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF2710B4": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Straight_Upsidedown",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF27BBC5": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_OuterCorner",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF286985": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion_Apricot",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF2A85A8": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion_Strawberry",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF2B4326": {
+      "matches": false,
+      "material": "staxel.tileObject.christmas.ChristmasTree",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF2E0CA4": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.WaferShutter",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF2EBFD9": {
+      "matches": false,
+      "material": "staxel.tileObject.christmas.RedCandyCaneSmall",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF371BB6": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Flat_Apricot",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF3B3255": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Flat",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF407514": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.SmallHedgeCorner",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF451097": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.SmallHedgeEnd",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF452210": {
+      "matches": false,
+      "material": "staxel.tileObject.themedfurniture.victorian.VictorianSideTable.NoDock",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF4EA954": {
+      "matches": false,
+      "material": "staxel.tileObject.christmas.GreenPresent",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF54090E": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Flat_Apricot",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF540EC0": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.TruffleBush_White",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF55248D": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Ridge_Apricot",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF59AD63": {
+      "matches": false,
+      "material": "staxel.tileObject.christmas.RedCandyCane",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF5D4738": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.WaferStairs",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF5DDB6A": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceCorner",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF5E4839": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.WaferStairs_Upsidedown",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF663546": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Flat",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF6A63A4": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Flat_Strawberry",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF6C5949": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.SimplySet.ChimneyPipeBig",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF6C969B": {
+      "matches": false,
+      "material": "staxel.tileObject.christmas.BluePresent",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF773289": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Peppermint_Medallion",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF7740ED": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion_Plain",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF7856E5": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceStraight",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF788355": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Flat",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF791699": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceEnd",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF799042": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.GumdropBush_Green",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF7D6A97": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.GumdropBush_Purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF7E7CA5": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.GumdropBush_Orange",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF861EDF": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Straight",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF86361E": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceCorner",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF86B186": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceMiddle",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF8838F1": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF8C0B96": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Full",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF8DCC40": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.GumdropBush_Green",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF91B01C": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion_Plain",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF950B04": {
+      "matches": false,
+      "material": "staxel.tileObject.themedfurniture.victorian.VictorianLoveseat",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF959286": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.ChocolateDoor",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF9627C1": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.SwirlLollipop3",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF966371": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.TruffleBush_Chocolate",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF98A9E3": {
+      "matches": false,
+      "material": "staxel.tile.grass.GrassLayer.2.Winter",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF84BBE7": {
+      "matches": false,
+      "material": "staxel.tile.grass.GrassLayer.1.Winter",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+	"FF997138": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.WaffleFloor",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF9B0417": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Full",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF9B2D0F": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.VictorianSet.VictorianFutonLeft",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF9B75E9": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF9D6B33": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.SwirlLollipop2",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF9DECCB": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.WaferShutter",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF9F723C": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion_Strawberry",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF9F783E": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion_Plain",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF9FB443": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Ridge_Strawberry",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFA1EED4": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Ridge_Plain",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFA4FEA9": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceMiddle",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFA5763A": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion_Apricot",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFA69E98": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.SugarWindow",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFA74F1B": {
+      "matches": false,
+      "material": "staxel.tileObject.campingset.Campfire",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFA79391": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.SwirlLollipop1",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFA79A87": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.SwirlLollipop3",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFAA1046": {
+      "matches": false,
+      "material": "staxel.tileObject.christmas.PinkPresent",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFAA4849": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.VictorianSet.VictorianLamp2",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFAF8352": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Ridge_Strawberry",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFAF9980": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFAFAAA3": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.PezBrick",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFB01B3A": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion_Apricot",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFB03228": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceCorner",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFB07EED": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Flat_Strawberry",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFB4B00D": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.SmallHedgeCorner",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFB59C7B": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Straight",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFB59D7C": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_OuterCorner",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFB62237": {
+      "matches": false,
+      "material": "staxel.tileObject.christmas.RedLollipop",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFB68951": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Ridge_Apricot",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFB69D7D": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Ridge",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFB89762": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Ridge_Plain",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFB9A388": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Full",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFBA957A": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Gingerbread",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFBC60A3": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.GumdropBush_Purple",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFBD692F": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.RedCandyCaneGingerbread",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFBD9198": {
+      "matches": false,
+      "material": "staxel.tileObject.christmas.RedCandyCane",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFBE7E8C": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion_Plain",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFBE9892": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.PeppermintPillar",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFC01F9A": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.SmallHedgeStraight",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFC0989F": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Peppermint_Medallion",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFC0D4AA": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.TruffleBush_White",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFC2332A": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.GumdropBush_Yellow",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFC2EF1D": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Flat_Strawberry",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFC6A9A4": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceEnd",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFC7396E": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.SwirlLollipop2",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFC78DA1": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion_Apricot",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFC99AA5": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFCAB3AC": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceCorner",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFCB77A5": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion_Strawberry",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFCFBFB2": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceMiddle",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFD0C0B2": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceStraight",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFD50B8F": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Flat_Plain",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFDA5D02": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.SmallHedgeStraight",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFDBBECB": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.WaferShutter",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFDFE2D1": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.ButtermintPathway",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFE0D8CF": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Straight_Upsidedown",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFE1DAD1": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Flat_Apricot",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFE2D25D": {
+      "matches": false,
+      "material": "staxel.tileObject.christmas.YellowPresent",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFE35A62": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.GumdropBush_Red",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFE37616": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.OrangeLollipop",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFE56B1D": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.Nilla_Straight",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFEAC853": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.GumdropBush_Yellow",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFEB9A4C": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.GumdropBush_Orange",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFF1365E": {
+      "matches": false,
+      "material": "staxel.tileObject.christmas.RedCandyCaneSmall",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFF3EBB6": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.CookieBlocks.WaferShutter",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFF4FB95": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceStraight",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFF73B48": {
+      "matches": false,
+      "material": "mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceStraight",
+      "requireEmpty": false,
+      "rotation": 1
+    }
+  },
+}

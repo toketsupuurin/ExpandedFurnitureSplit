@@ -1,0 +1,475 @@
+{
+  "code": "mods.ExpandedFurniture.treasure.storeShelf.petStoreFurniture",
+  "entries": [
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawArmChair"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawChair"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawDesk"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawWardrobe"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawDoubleBed"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawTable"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawSideTable"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawLoveseat"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawLamp"
+        }
+      ]
+    },
+///////EF STUFF////////
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawChandelier2"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawChandelier"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawCeilingLamp"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawCeilingLamp2"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawCandle"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawCandle2"
+        }
+      ]
+    },
+	{
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawCarpet1x3"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawBookshelf"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawSingleBed"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawSingleBed(NoDock)"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawWallShelf"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawWardrobeSingle"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawWallLamp"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawWallLamp2"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawVanity"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawTVStand"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawTableLarge"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawStool"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawSofa"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawSideTable(NoDock)"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawLongStool"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawLamp2"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawFuton3"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawFuton2"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawFuton"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawFootLamp"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawFootLamp2"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawDresser"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawDoubleBed(NoDock)"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawDesk(NoDock)"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawCredenza"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawCoffeeTable"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawCoffeeTable(NoDock)"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawTableLarge(NoDock)"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawTable(NoDock)"
+        }
+      ]
+    },
+	{
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawFuton4"
+        }
+      ],
+      "globalGate": {
+        "global": "sellGoat",
+      }
+    },
+	{
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawFuton5"
+        }
+      ],
+      "globalGate": {
+        "global": "sellGoat",
+      }
+    },
+	{
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawFuton6"
+        }
+      ],
+      "globalGate": {
+        "global": "sellGoat",
+      }
+    },
+	{
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawFuton7"
+        }
+      ],
+      "globalGate": {
+        "global": "sellGoat",
+      }
+    },
+	{
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawFuton8"
+        }
+      ],
+      "globalGate": {
+        "global": "sellGoat",
+      }
+    },
+	{
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawFuton9"
+        }
+      ],
+      "globalGate": {
+        "global": "sellGoat",
+      }
+    },
+	
+  ]
+}

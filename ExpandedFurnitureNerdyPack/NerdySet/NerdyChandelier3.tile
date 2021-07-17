@@ -1,0 +1,47 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "nerdy",
+	"lamp",
+	"green",
+    "blue",
+    "red",
+    "yellow",
+    "rainbow",
+    "multi",
+    "light",
+	"chandelier"
+  ],
+  "code": "mods.ExpandedFurniture.NerdySet.NerdyChandelier3",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "emissiveColor": "fff7EFCF",
+  "light": 20,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "compound": {
+  "size": {
+    "x": 3,
+    "y": 2,
+    "z": 3
+  },
+  "specification": "CCC CXC CCC EEE EEE EEE"
+  },
+  "frameAnimatedTile": {
+    "frameTime": 0.13
+  },
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "variants": [
+    "mods/ExpandedFurnitureNerdyPack/NerdySet/NerdyChandelier3.qb?size={48,32,48}?offset={0,0,0}",
+    "mods/ExpandedFurnitureNerdyPack/NerdySet/NerdyChandelier3.qb?size={48,32,48}?offset={48,0,0}",
+    "mods/ExpandedFurnitureNerdyPack/NerdySet/NerdyChandelier3.qb?size={48,32,48}?offset={0,0,48}",
+    "mods/ExpandedFurnitureNerdyPack/NerdySet/NerdyChandelier3.qb?size={48,32,48}?offset={48,0,48}"
+  ]
+}

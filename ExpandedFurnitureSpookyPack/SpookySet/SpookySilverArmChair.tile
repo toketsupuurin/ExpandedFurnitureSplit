@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/docks/OneSeater_TallChair.config",
+  "categories": [
+    "furniture",
+    "black",
+    "purple",
+    "spooky",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+	"silver",
+	"grey",
+	"gray",
+    "armchair"
+  ],
+  "code": "mods.ExpandedFurniture.SpookySet.SpookySilverArmChair",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookySilverArmChair.qb"
+}

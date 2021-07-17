@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/docks/ThreeSeater_Thick.config",
+  "categories": [
+    "furniture",
+    "purple",
+    "basic",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "sofa",
+    "couch",
+    "love",
+    "loveseat",
+    "settee"
+  ],
+  "code": "mods.ExpandedFurniture.SimplySet.SimplyLoveseatRoundPurple",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 500
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureSimplyPack/SimplySet/SimplyLoveseatRoundPurple.qb"
+}

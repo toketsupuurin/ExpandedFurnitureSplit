@@ -1,0 +1,29 @@
+{
+  "__inherits": "staxel/docks/TwoSeater_Thick.config",
+  "categories": [
+    "furniture",
+    "blue",
+    "yellow",
+    "straw",
+    "hay",
+    "farm",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "sofa",
+    "couch",
+    "love",
+    "loveseat",
+    "settee"
+  ],
+  "code": "mods.ExpandedFurniture.FarmSet.FarmLoveseat",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureFarmPack/FarmSet/FarmLoveseat.qb"
+}

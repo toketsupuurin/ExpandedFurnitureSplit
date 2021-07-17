@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "wall",
+    "lamp",
+    "purple",
+    "silver",
+	"grey",
+	"gray",
+    "spooky"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.SpookySet.SpookyWallLamp",
+  "emissiveColor": "7242B3",
+  "light": 7.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureLightingEdition/SpookySet/SpookyWallLamp.qb"
+}

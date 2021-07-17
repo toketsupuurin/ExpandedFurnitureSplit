@@ -1,0 +1,128 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.PawSet.PawSingleBed(NoDock).name=Paw Bed (No Dock)
+mods.ExpandedFurniture.PawSet.PawSingleBed(NoDock).description=Dockless. How did you fit this in your pet house?
+
+mods.ExpandedFurniture.PawSet.PawSingleBed.name=Paw Bed
+mods.ExpandedFurniture.PawSet.PawSingleBed.description=How did you fit this in your pet house?
+
+mods.ExpandedFurniture.PawSet.PawBookshelf.name=Paw Bookshelf
+mods.ExpandedFurniture.PawSet.PawBookshelf.description=Someone stole a bookshelf.
+
+mods.ExpandedFurniture.PawSet.PawCandle.name=Paw Yellow Candle
+mods.ExpandedFurniture.PawSet.PawCandle.description=Is there a secret store they buy this stuff from?
+
+mods.ExpandedFurniture.PawSet.PawCandle2.name=Paw Brown Candle
+mods.ExpandedFurniture.PawSet.PawCandle2.description=Is there a secret store they buy this stuff from?
+
+mods.ExpandedFurniture.PawSet.PawCarpet1x3.name=Paw Carpet
+mods.ExpandedFurniture.PawSet.PawCarpet1x3.description=The biggest, muddiest footprints ever.
+
+mods.ExpandedFurniture.PawSet.PawCeilingLamp.name=Paw Yellow Ceiling Lamp
+mods.ExpandedFurniture.PawSet.PawCeilingLamp.description=How did I not see them carrying this in the night?
+
+mods.ExpandedFurniture.PawSet.PawCeilingLamp2.name=Paw Brown Ceiling Lamp
+mods.ExpandedFurniture.PawSet.PawCeilingLamp2.description=How did I not see them carrying this in the night?
+
+mods.ExpandedFurniture.PawSet.PawChandelier.name=Paw Yellow Chandelier
+mods.ExpandedFurniture.PawSet.PawChandelier.description=Are they digging these up?
+
+mods.ExpandedFurniture.PawSet.PawChandelier2.name=Paw Brown Chandelier
+mods.ExpandedFurniture.PawSet.PawChandelier2.description=Are they digging these up?
+
+mods.ExpandedFurniture.PawSet.PawCoffeeTable(NoDock).name=Paw Coffee Table (No Dock)
+mods.ExpandedFurniture.PawSet.PawCoffeeTable(NoDock).description=Dockless. Where did my pet find this?
+
+mods.ExpandedFurniture.PawSet.PawCoffeeTableLoveseat.name=Paw Coffee Table (Loveseat)
+mods.ExpandedFurniture.PawSet.PawCoffeeTableLoveseat.description=Someone's going to want this back someday.
+
+mods.ExpandedFurniture.PawSet.PawCoffeeTable.name=Paw Coffee Table (Sofa)
+mods.ExpandedFurniture.PawSet.PawCoffeeTable.description=Someone's going to want this back someday.
+
+mods.ExpandedFurniture.PawSet.PawCredenza.name=Paw Credenza
+mods.ExpandedFurniture.PawSet.PawCredenza.description=That's not painted on. Those are muddy pawprints.
+
+mods.ExpandedFurniture.PawSet.PawDesk(NoDock).name=Paw Desk (No Dock)
+mods.ExpandedFurniture.PawSet.PawDesk(NoDock).description=Dockless. Where did my pet find this?
+
+mods.ExpandedFurniture.PawSet.PawDoubleBed(NoDock).name=Paw Double Bed (No Dock)
+mods.ExpandedFurniture.PawSet.PawDoubleBed(NoDock).description=Dockless. Where did my pet find this?
+
+mods.ExpandedFurniture.PawSet.PawDresser.name=Paw Dresser
+mods.ExpandedFurniture.PawSet.PawDresser.description=It's twice my pet's size!
+
+mods.ExpandedFurniture.PawSet.PawFootLamp.name=Paw Yellow Foot Lamp
+mods.ExpandedFurniture.PawSet.PawFootLamp.description=That's pretty cool. I should have named you Bandit.
+
+mods.ExpandedFurniture.PawSet.PawFootLamp2.name=Paw Brown Foot Lamp
+mods.ExpandedFurniture.PawSet.PawFootLamp2.description=That's pretty cool. I should have named you Bandit.
+
+mods.ExpandedFurniture.PawSet.PawFuton.name=Paw Bone Futon
+mods.ExpandedFurniture.PawSet.PawFuton.description=Got opinions on treats, do you?
+
+mods.ExpandedFurniture.PawSet.PawFuton2.name=Paw Fish Futon
+mods.ExpandedFurniture.PawSet.PawFuton2.description=Got opinions on treats, do you?
+
+mods.ExpandedFurniture.PawSet.PawFuton3.name=Paw Carrot Futon
+mods.ExpandedFurniture.PawSet.PawFuton3.description=Got opinions on treats, do you?
+
+mods.ExpandedFurniture.PawSet.PawFuton4.name=Paw Rainbow Trout Futon
+mods.ExpandedFurniture.PawSet.PawFuton4.description=Got opinions on treats, do you?
+
+mods.ExpandedFurniture.PawSet.PawFuton5.name=Paw Drumstick Futon
+mods.ExpandedFurniture.PawSet.PawFuton5.description=Got opinions on treats, do you?
+
+mods.ExpandedFurniture.PawSet.PawFuton6.name=Paw Strawberry Futon
+mods.ExpandedFurniture.PawSet.PawFuton6.description=Got opinions on treats, do you?
+
+mods.ExpandedFurniture.PawSet.PawFuton7.name=Paw Lettuce Futon
+mods.ExpandedFurniture.PawSet.PawFuton7.description=Got opinions on treats, do you?
+
+mods.ExpandedFurniture.PawSet.PawFuton8.name=Paw Shrimp Futon
+mods.ExpandedFurniture.PawSet.PawFuton8.description=Got opinions on treats, do you?
+
+mods.ExpandedFurniture.PawSet.PawFuton9.name=Paw Ladybug Futon
+mods.ExpandedFurniture.PawSet.PawFuton9.description=Got opinions on treats, do you?
+
+mods.ExpandedFurniture.PawSet.PawLamp2.name=Paw Brown Lamp
+mods.ExpandedFurniture.PawSet.PawLamp2.description=Put it on a table.
+
+mods.ExpandedFurniture.PawSet.PawLongStool.name=Paw Long Stool
+mods.ExpandedFurniture.PawSet.PawLongStool.description=Surprisingly comfy.
+
+mods.ExpandedFurniture.PawSet.PawSideTable(NoDock).name=Paw Side Table (No Dock)
+mods.ExpandedFurniture.PawSet.PawSideTable(NoDock).description=Dockless. Where did my pet find this?
+
+mods.ExpandedFurniture.PawSet.PawSofa.name=Paw Sofa
+mods.ExpandedFurniture.PawSet.PawSofa.description=It comes pre-scratched up.
+
+mods.ExpandedFurniture.PawSet.PawStool.name=Paw Chair
+mods.ExpandedFurniture.PawSet.PawStool.description=It comes pre-scratched up.
+
+mods.ExpandedFurniture.PawSet.PawTableLarge.name=Paw Large Table
+mods.ExpandedFurniture.PawSet.PawTableLarge.description=The fairies are doing this and you're pranking me, aren't you?
+
+mods.ExpandedFurniture.PawSet.PawTableLarge(NoDock).name=Paw Large Table (No Dock)
+mods.ExpandedFurniture.PawSet.PawTableLarge(NoDock).description=Dockless. The fairies are doing this and you're pranking me, aren't you?
+
+mods.ExpandedFurniture.PawSet.PawTable(NoDock).name=Paw Table (No Dock)
+mods.ExpandedFurniture.PawSet.PawTable(NoDock).description=Dockless. The fairies are doing this and you're pranking me, aren't you?
+
+mods.ExpandedFurniture.PawSet.PawTVStand.name=Paw TV Stand
+mods.ExpandedFurniture.PawSet.PawTVStand.description=How are you doing this!?
+
+mods.ExpandedFurniture.PawSet.PawVanity.name=Paw Vanity
+mods.ExpandedFurniture.PawSet.PawVanity.description=Muddy paws everywhere...
+
+mods.ExpandedFurniture.PawSet.PawWallLamp.name=Paw Yellow Wall Lamp
+mods.ExpandedFurniture.PawSet.PawWallLamp.description=It has tooth marks.
+
+mods.ExpandedFurniture.PawSet.PawWallLamp2.name=Paw Brown Wall Lamp
+mods.ExpandedFurniture.PawSet.PawWallLamp2.description=It has tooth marks.
+
+mods.ExpandedFurniture.PawSet.PawWallShelf.name=Paw Shelf
+mods.ExpandedFurniture.PawSet.PawWallShelf.description=Well, at least I can believe they could carry this one.
+
+mods.ExpandedFurniture.PawSet.PawWardrobeSingle.name=Paw Single Wardrobe
+mods.ExpandedFurniture.PawSet.PawWardrobeSingle.description=It's twice my pet's size!

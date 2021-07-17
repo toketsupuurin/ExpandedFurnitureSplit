@@ -1,0 +1,48 @@
+{
+    "file": "staxel/totems/workplace/PetStore.totem",
+    "priority": 510, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch": {
+
+  "requiredObjects": {
+    "tier0": [
+      {
+        "code": "staxel.tileObject.shop.CashRegister",
+        "count": 1
+      },
+      {
+        "code": "staxel.tileObject.shop.PetStoreShelf",
+        "count": 4,
+        "requirePlaced": true
+      }
+    ]
+  },
+  "shopGoods": {
+    "tier0": [
+      {
+        "dock": "staxel.tileObject.shop.PetStoreShelf",
+        "treasures": [
+
+          {
+            "code": "staxel.treasure.storeShelf.petStoreAnimals",
+            "count": 1
+          },
+		      {
+            "code": "staxel.treasure.storeShelf.animals",
+            "count": 1
+          },
+          {
+            "code": "staxel.treasure.storeShelf.petStoreItems",
+            "count": 1
+          },
+		  {
+            "code": "mods.ExpandedFurniture.treasure.storeShelf.petStoreFurniture",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "furniture",
+	"pink",
+    "rainbow",
+    "set",
+    "light",
+    "lightsource",
+    "lighting",
+    "lamp",
+    "bedside"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.PinkRainbowSet.PinkRainbowLamp",
+  "emissiveColor": "D7587F",
+  "light": 10.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureLightingEdition/PinkRainbowSet/PinkRainbowLamp.qb"
+}

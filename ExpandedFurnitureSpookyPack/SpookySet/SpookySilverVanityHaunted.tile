@@ -1,0 +1,53 @@
+{
+  "__inherits": "staxel/tileObject/vanity.config",
+  "categories": [
+    "furniture",
+    "black",
+    "spooky",
+    "set",
+    "vanity",
+    "dressing",
+    "haunted",
+    "ghost",
+    "mirror",
+	"silver",
+	"grey",
+	"gray",
+    "table"
+  ],
+  "code": "mods.ExpandedFurniture.SpookySet.SpookySilverVanityHaunted",
+  "frameAnimatedTile": {
+    "frameTime": 0.25,
+  },
+  "prefetchTileState": true,
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "variants": [
+    "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookySilverVanityHaunted.qb?size={32,32,16}?offset={0,0,0}",
+    "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookySilverVanityHaunted.qb?size={32,32,16}?offset={0,0,0}",
+    "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookySilverVanityHaunted.qb?size={32,32,16}?offset={0,0,0}",
+    "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookySilverVanityHaunted.qb?size={32,32,16}?offset={0,0,0}",
+    "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookySilverVanityHaunted.qb?size={32,32,16}?offset={0,0,0}",
+    "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookySilverVanityHaunted.qb?size={32,32,16}?offset={0,0,0}",
+    "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookySilverVanityHaunted.qb?size={32,32,16}?offset={0,0,0}",
+    "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookySilverVanityHaunted.qb?size={32,32,16}?offset={0,0,0}",
+    "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookySilverVanityHaunted.qb?size={32,32,16}?offset={32,0,0}",
+    "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookySilverVanityHaunted.qb?size={32,32,16}?offset={64,0,0}",    "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookySilverVanityHaunted.qb?size={32,32,16}?offset={96,0,0}",    "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookySilverVanityHaunted.qb?size={32,32,16}?offset={64,0,0}",
+    "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookySilverVanityHaunted.qb?size={32,32,16}?offset={32,0,0}"
+  ]
+}

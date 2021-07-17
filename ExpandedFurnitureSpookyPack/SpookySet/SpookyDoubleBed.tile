@@ -1,0 +1,26 @@
+{
+  "__inherits": "mods/ExpandedFurniture/ConfigsDocks/SpookyDoubleBed.config",
+  "categories": [
+    "furniture",
+    "spooky",
+    "black",
+    "purple",
+    "set",
+    "bed",
+    "coffin",
+    "sleep",
+    "double",
+	"queen",
+	"king",
+  ],
+  "code": "mods.ExpandedFurniture.SpookySet.SpookyDoubleBed",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookyDoubleBed.qb"
+}

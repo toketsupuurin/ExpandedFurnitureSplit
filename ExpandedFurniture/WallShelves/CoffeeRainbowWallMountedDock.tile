@@ -1,0 +1,22 @@
+{
+  "__inherits": "staxel/docks/WallMountedShelf.config",
+  "categories": [
+    "container",
+    "storage",
+    "rainbow",
+    "furniture",
+    "shelf",
+    "brown",
+    "coffee"
+  ],
+  "code": "mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowWallShelf",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurniture/WallShelves/CoffeeRainbowWallMountedDock.qb"
+}

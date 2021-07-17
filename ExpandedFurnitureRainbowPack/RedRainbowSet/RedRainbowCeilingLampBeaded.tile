@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "rainbow",
+	"lamp",
+	"red",
+    "light"
+  ],
+  "code": "mods.ExpandedFurniture.RedRainbowSet.RedRainbowCeilingLampBeaded",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "emissiveColor": "EC2525",
+  "light": 2.2,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureRainbowPack/RedRainbowSet/RedRainbowCeilingLampBeaded.qb"
+}

@@ -1,0 +1,32 @@
+{
+  "__inherits": "mods/ExpandedFurniture/ConfigsDocks/SpookyFuton.config",
+  "categories": [
+    "furniture",
+    "black",
+    "basic",
+	"pillow",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "futon",
+    "sofa",
+    "couch",
+    "love",
+    "loveseat",
+	"chaise",
+	"chaise longue",
+	"chaise lounge",
+	"lounge",
+    "settee"
+  ],
+  "code": "mods.ExpandedFurniture.SimplySet.SimplyFutonRoundBlack",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 190
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureSimplyPack/SimplySet/SimplyFutonRoundBlack.qb"
+}

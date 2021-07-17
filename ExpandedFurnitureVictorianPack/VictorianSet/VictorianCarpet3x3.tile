@@ -1,0 +1,31 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "furniture",
+    "Victorian",
+    "red",
+    "orange",
+	"gold",
+    "set",
+    "carpet",
+	"rug",
+  ],
+  "code": "mods.ExpandedFurniture.VictorianSet.VictorianCarpet3x3",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 1,
+      "z": 3
+    },
+    "specification": "EEE EXE EEE"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureVictorianPack/VictorianSet/VictorianCarpet3x3.qb"
+}

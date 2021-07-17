@@ -1,0 +1,14 @@
+{
+    "file": "staxel/tileObject/themedfurniture/bathroom/Sink.tile",
+    "priority": 900, 
+	// This patch MUST NOT be overwritten by a later patch for the keywords to work. in the totems. Only overwrite this patch if you DO NOT want this category to work with totems.
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch": {
+
+		"categories": [
+			"BathroomSink",
+			"sink"
+		],
+
+    }
+}

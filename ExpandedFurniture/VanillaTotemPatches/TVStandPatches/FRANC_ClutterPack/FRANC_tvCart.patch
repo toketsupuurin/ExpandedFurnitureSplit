@@ -1,0 +1,13 @@
+{
+    "file": "mods/FRANC_ClutterPack/FRANC_tvCart.tile",
+	"patchIfFileExists": "mods/FRANC_ClutterPack/FRANC_tvCart.tile",
+    "priority": 999, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch": {
+
+		"categories": [
+			"TvStand",
+		],
+
+    }
+}

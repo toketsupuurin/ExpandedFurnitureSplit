@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "farm",
+    "animal",
+    "decoration",
+    "figurine",
+    "statuette",
+    "plush",
+    "pig"
+  ],
+  "code": "mods.ExpandedFurniture.FarmSet.FarmFigurine3",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureFarmPack/FarmSet/FarmFigurine3.qb"
+}

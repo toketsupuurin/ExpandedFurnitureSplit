@@ -1,0 +1,32 @@
+{
+    "__inherits": "staxel/tileObject/noDock.config",
+  "categories": [
+    "basic",
+    "furniture",
+    "set",
+    "bed",
+    "bunk",
+    "sleep",
+    "double",
+    "queen",
+    "king",
+    "red"
+  ],
+  "code": "mods.ExpandedFurniture.AntiqueSet.AntiqueDoubleBed(NoDock)",
+    "compound": {
+        "size": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+        },
+        "specification": "CCC CEC CCC EEE EEE EEE CCC CXC CCC"
+  },
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 100,
+    "value": 400
+  },
+  "searchable": true,
+  "voxels": "staxel/collector/tileObject/furniture/AntiqueDoubleBed.qb"
+}

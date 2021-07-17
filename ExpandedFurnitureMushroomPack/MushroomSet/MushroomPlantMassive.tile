@@ -1,0 +1,30 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "flower",
+    "plant",
+    "bonsai",
+    "furniture",
+	"orange",
+    "purple",
+	"yellow",
+	"mushroom"
+  ],
+  "code": "mods.ExpandedFurniture.MushroomSet.MushroomPlantMassive",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 1,
+      "z": 2
+    },
+    "specification": "CC CX"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureMushroomPack/MushroomSet/MushroomPlantMassive.qb"
+}

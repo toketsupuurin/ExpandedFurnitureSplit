@@ -1,0 +1,21 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "furniture",
+    "stone",
+	"jewel",
+	"nerdy",
+	"green"
+  ],
+  "code": "mods.ExpandedFurniture.NerdySet.NerdyMagicItem",
+  "emissiveColor": "3DFF1F",
+  "light": .5,
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureNerdyPack/NerdySet/NerdyMagicItem.qb"
+}

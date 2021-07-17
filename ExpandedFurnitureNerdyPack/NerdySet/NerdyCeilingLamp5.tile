@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "nerdy",
+	"lamp",
+	"green",
+    "light"
+  ],
+  "code": "mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp5",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "emissiveColor": "3DFF1F",
+  "light": 2.2,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureNerdyPack/NerdySet/NerdyCeilingLamp5.qb"
+}

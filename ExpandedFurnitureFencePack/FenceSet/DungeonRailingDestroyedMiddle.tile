@@ -1,0 +1,48 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "xp",
+    "xn"
+  ],
+  "categories": [
+    "fence",
+    "misc",
+    "stone",
+    "cobblestone",
+    "brown",
+    "destroyed",
+    "EF",
+    "EFMiddle",
+    "middle"
+  ],
+  "code": "mods.ExpandedFurniture.FenceSet.EFDungeonRailingDestroyedMiddle",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "placementDirections": [
+    "xp",
+    "xn"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 12,
+    "value": 20
+  },
+  "randomizePosition": false,
+  "representativeTile": "mods.ExpandedFurniture.FenceSet.EFDungeonRailingDestroyedStraight",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureFencePack/FenceSet/DungeonRailingDestroyedMiddle.qb",
+  "variants": [
+    "mods/ExpandedFurnitureFencePack/FenceSet/DungeonRailingDestroyedMiddle.qb",
+    "mods/ExpandedFurnitureFencePack/FenceSet/DungeonRailingDestroyedMiddle_Alt01.qb",
+    "mods/ExpandedFurnitureFencePack/FenceSet/DungeonRailingDestroyedMiddle_Alt02.qb",
+    "mods/ExpandedFurnitureFencePack/FenceSet/DungeonRailingDestroyedMiddle_Alt03.qb"
+  ],
+  "altsCount": 4
+}

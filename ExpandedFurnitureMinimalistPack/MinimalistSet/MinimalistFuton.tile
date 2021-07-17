@@ -1,0 +1,32 @@
+{
+  "__inherits": "mods/ExpandedFurniture/ConfigsDocks/SpookyFuton.config",
+  "categories": [
+    "furniture",
+    "black",
+    "white",
+	"pillow",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "futon",
+    "sofa",
+    "couch",
+    "love",
+    "loveseat",
+	"chaise",
+	"chaise longue",
+	"chaise lounge",
+	"lounge",
+    "settee"
+  ],
+  "code": "mods.ExpandedFurniture.MinimalistSet.MinimalistFuton",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureMinimalistPack/MinimalistSet/MinimalistFuton.qb"
+}

@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/docks/DoubleBed.config",
+  "categories": [
+    "furniture",
+    "belle",
+    "epoche",
+    "white",
+    "set",
+    "bed",
+    "sleep",
+    "double",
+	"queen",
+	"king",
+  ],
+  "code": "mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheDoubleBed",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureBelleEpochePack/BelleEpocheSet/BelleEpocheDoubleBed.qb"
+}

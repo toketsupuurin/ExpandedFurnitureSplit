@@ -1,0 +1,131 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowArmChair.name=Orange Rainbow Arm Chair
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowArmChair.description=A casual orange slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowBed(NoDock).name=Orange Rainbow Single Bed (No Dock)
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowBed(NoDock).description=A casual dockless orange slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowBed.name=Orange Rainbow Single Bed
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowBed.description=A casual orange slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowBookshelf.name=Orange Rainbow Bookshelf
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowBookshelf.description=A casual orange slatted piece.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowCandle.name=Orange Rainbow Candle
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowCandle.description=A casual orange candle.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowCandle2.name=OrangeRainbow Melted Candle
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowCandle2.description=A used orange candle.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowCarpet1x3.name=Orange Rainbow Carpet
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowCarpet1x3.description=A casual piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowCeilingLamp.name=Orange Rainbow Ceiling Lamp
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowCeilingLamp.description=A casual orange lamp.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowCeilingLampBeaded.name=Orange Rainbow Beaded Ceiling Lamp
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowCeilingLampBeaded.description=A beaded orange lamp.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowChair.name=Orange Rainbow Chair
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowChair.description=A casual orange slatted piece.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowChandelier.name=OrangeRainbowChandelier
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowChandelier.description=A casual orange chandelier.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowChandelierBeaded.name=Orange Rainbow Beaded Chandelier
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowChandelierBeaded.description=A beaded orange chandelier.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowCoffeeTable(NoDock).name=Orange Rainbow Coffee Table (No Dock)
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowCoffeeTable(NoDock).description=A dockless casual orange slatted piece.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowCoffeeTableSofa.name=Orange Rainbow Coffee Table (Sofa)
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowCoffeeTableSofa.description=A casual Orange slatted piece.
+
+staxel.tileObject.themedfurniture.rainbow.OrangeRainbowCoffeeTable.name=Orange Rainbow Coffee Table (Loveseat)
+staxel.tileObject.themedfurniture.rainbow.OrangeRainbowCoffeeTable.description=A casual Orange slatted piece.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowCredenza.name=Orange Rainbow Credenza
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowCredenza.description=A casual orange slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowDesk(NoDock).name=Orange Rainbow Desk (No Dock)
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowDesk(NoDock).description=A dockless casual orange slatted piece.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowDesk.name=Orange Rainbow Desk
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowDesk.description=A casual orange slatted piece.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowDoubleBed(NoDock).name=Orange Rainbow Double Bed (No Dock)
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowDoubleBed(NoDock).description=A dockless casual orange slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowDoubleBed.name=Orange Rainbow Double Bed
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowDoubleBed.description=A casual orange slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowDresser.name=Orange Rainbow Dresser
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowDresser.description=A casual orange slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowFootLamp.name=Orange Rainbow Foot Lamp
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowFootLamp.description=A casual orange lamp.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowFootLampBeaded.name=Orange Rainbow Beaded Foot Lamp
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowFootLampBeaded.description=A beaded orange lamp.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowFuton.name=Orange Rainbow Futon
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowFuton.description=A casual orange slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowLamp.name=Orange Rainbow Lamp
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowLamp.description=A casual orange lamp.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowLampBeaded.name=Orange Rainbow Beaded Lamp
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowLampBeaded.description=A beaded orange lamp.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowLongStool.name=Orange Rainbow Long Stool
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowLongStool.description=A casual orange slatted piece.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowLoveseat.name=Orange Rainbow Loveseat
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowLoveseat.description=A casual orange slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowSideTable(NoDock).name=Orange Rainbow Side Table (No Dock)
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowSideTable(NoDock).description=A dockless casual orange slatted piece.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowSideTable.name=Orange Rainbow Side Table
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowSideTable.description=A casual orange slatted piece.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowSofa.name=Orange Rainbow Sofa
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowSofa.description=A casual orange slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowStool.name=Orange Rainbow Stool
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowStool.description=A casual orange slatted piece.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowTable.name=Orange Rainbow Table
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowTable.description=A casual orange slatted piece.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowTable(NoDock).name=Orange Rainbow Table (No Dock)
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowTable(NoDock).description=A dockless casual orange slatted piece.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowTableLarge(NoDock).name=Orange Rainbow Large Table (No Dock)
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowTableLarge(NoDock).description=A dockless casual orange slatted piece.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowTableLarge.name=Orange Rainbow Large Table
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowTableLarge.description=A casual orange slatted piece.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowTVStand.name=Orange Rainbow TV Stand
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowTVStand.description=A casual orange slatted piece.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowVanity.name=Orange Rainbow Vanity
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowVanity.description=A casual orange slatted piece.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowWallLamp.name=Orange Rainbow Wall Lamp
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowWallLamp.description=A casual orange lamp.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowWallLampBeaded.name=Orange Rainbow Beaded Wall Lamp
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowWallLampBeaded.description=A beaded orange lamp.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowWallShelf.name=Orange Rainbow Shelf
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowWallShelf.description=A casual orange slatted piece.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowWardrobeDouble.name=Orange Rainbow Double Wardrobe
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowWardrobeDouble.description=A casual orange slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowWardrobeSingle.name=Orange Rainbow Single Wardrobe
+mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowWardrobeSingle.description=A casual orange slatted piece with cheerful rainbow stripes.

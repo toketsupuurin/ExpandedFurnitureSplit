@@ -1,0 +1,24 @@
+{
+  "__inherits": "staxel/docks/OneSeater_Thick.config",
+  "categories": [
+    "basic",
+    "furniture",
+    "set",
+    "black",
+    "round",
+    "chair",
+    "seat",
+    "sit",
+    "armchair",
+    "round"
+  ],
+  "code": "mods.ExpandedFurniture.SimplySet.SimplyArmchairRoundBlack",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 5,
+    "value": 100
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureSimplyPack/SimplySet/SimplyArmchairRoundBlack.qb"
+}

@@ -1,0 +1,24 @@
+{
+  "__inherits": "staxel/docks/DoubleBed.config",
+  "categories": [
+    "furniture",
+    "rainbow",
+    "pink",
+    "set",
+    "bed",
+    "sleep",
+    "double",
+	"queen",
+	"king",
+  ],
+  "code": "mods.ExpandedFurniture.PinkRainbowSet.PinkRainbowDoubleBed",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureRainbowPack/PinkRainbowSet/PinkRainbowDoubleBed.qb"
+}

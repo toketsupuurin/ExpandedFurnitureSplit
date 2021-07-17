@@ -1,0 +1,44 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "yp"
+  ],
+  "categories": [
+    "furniture",
+	"Ranch",
+	"carpet",
+	"rug",
+    "red",
+    "green",
+    "blue",
+    "purple",
+    "Rainbow",
+	"orange"
+  ],
+  "code": "mods.ExpandedFurniture.RanchSet.RanchCarpet1x3",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 1,
+      "z": 1
+    },
+    "specification": "EXE"
+  },
+  "placementDirections": [
+    "yn",
+    "yp",
+    "xp",
+    "xn",
+    "zp",
+    "zn"
+  ],
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10,
+    "value": 250
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureRanchPack/RanchSet/RanchCarpet1x3.qb"
+}

@@ -1,0 +1,24 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "flower",
+    "plant",
+    "furniture",
+    "grey",
+	"gray",
+	"tropical",
+	"orange",
+	"green",
+	"grass",
+	"wicker"
+  ],
+  "code": "mods.ExpandedFurniture.WickerSet.WickerTropicalPlant3",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 5,
+    "value": 630
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureWickerPack/WickerSet/WickerTropicalPlant3.qb"
+}

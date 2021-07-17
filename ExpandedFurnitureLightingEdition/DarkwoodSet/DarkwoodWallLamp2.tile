@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "wall",
+    "lamp",
+    "black",
+    "brown",
+    "white",
+    "bronze",
+    "darkwood"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.DarkwoodSet.DarkwoodWallLamp2",
+  "emissiveColor": "fff7EFCF",
+  "light": 7.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureLightingEdition/DarkwoodSet/DarkwoodWallLamp2.qb"
+}

@@ -1,0 +1,31 @@
+{
+  "__inherits": "staxel/docks/CoffeeTable.config",
+  "categories": [
+    "furniture",
+    "green",
+    "fey",
+    "set",
+    "table",
+    "surface",
+    "coffee",
+    "low",
+    "short"
+  ],
+  "code": "mods.ExpandedFurniture.FeySet.FeyCoffeeTableLoveseat",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 3,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "staxel/tileObject/festival/feymasquerade/LeafCoffeeTable.qb"
+}

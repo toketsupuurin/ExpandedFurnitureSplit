@@ -1,0 +1,128 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheArmChair.name=Belle Epoche Arm Chair
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheArmChair.description=An elegant piece of white wrought iron and lilac satin.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheBed(NoDock).name=Belle Epoche Single Bed (No Dock)
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheBed(NoDock).description=A dockless elegant piece of white wrought iron and lilac satin.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheBed.name=Belle Epoche Single Bed
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheBed.description=An elegant piece of white wrought iron and lilac satin.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheBookshelf.name=Belle Epoche Bookshelf
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheBookshelf.description=An elegant piece of white wrought iron and lilac enamel.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheCandle.name=Belle Epoche Ivory Candle
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheCandle.description=An elegant ivory taper.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheCandle2.name=Belle Epoche Lilac Candle
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheCandle2.description=An elegant lilac taper.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheCarpet3x3.name=Belle Epoche Carpet
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheCarpet3x3.description=Plush and delightful.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheCeilingLamp.name=Belle Epoche Ivory Ceiling Lamp
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheCeilingLamp.description=An elegant ivory flower with white wrought iron.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheCeilingLamp2.name=Belle Epoche Bluebell Ceiling Lamp
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheCeilingLamp2.description=An elegant bluebell flower with white wrought iron.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheChair.name=Belle Epoche Chair
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheChair.description=An elegant piece of white wrought iron and lilac satin.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheChandelier.name=Belle Epoche Chandelier
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheChandelier.description=Elegant lilac tapers held by white wrought iron.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheCoffeeTable(NoDock).name=Belle Epoche Coffee Table (No Dock)
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheCoffeeTable(NoDock).description=A dockless elegant piece of white wrought iron and glass.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheCoffeeTableLoveseat.name=Belle Epoche Coffee Table (Loveseat)
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheCoffeeTableLoveseat.description=An elegant piece of white wrought iron and glass.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheCoffeeTable.name=Belle Epoche Coffee Table (Sofa)
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheCoffeeTable.description=An elegant piece of white wrought iron and glass.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheCredenza.name=Belle Epoche Credenza
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheCredenza.description=An elegant piece of white wrought iron and lilac enamel.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheDesk(NoDock).name=Belle Epoche Desk (No Dock)
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheDesk(NoDock).description=A dockless elegant piece of white wrought iron and lilac enamel.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheDesk.name=Belle Epoche Desk
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheDesk.description=An elegant piece of white wrought iron and lilac enamel.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheDoubleBed(NoDock).name=Belle Epoche Double Bed (No Dock)
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheDoubleBed(NoDock).description=A dockless elegant piece of white wrought iron and lilac satin.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheDoubleBed.name=Belle Epoche Double Bed
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheDoubleBed.description=An elegant piece of white wrought iron and lilac satin.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheDresser.name=Belle Epoche Dresser
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheDresser.description=An elegant piece of white wrought iron and lilac enamel.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheFootLamp.name=Belle Epoche Ivory Foot Lamp
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheFootLamp.description=An elegant ivory flower with white wrought iron.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheFootLamp2.name=Belle Epoche Bluebell Foot Lamp
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheFootLamp2.description=An elegant bluebell flower with white wrought iron.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheFuton.name=Belle Epoche Futon
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheFuton.description=An elegant piece of white wrought iron and lilac satin.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheLamp.name=Belle Epoche Ivory Lamp
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheLamp.description=An elegant ivory flower with white wrought iron.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheLamp2.name=Belle Epoche Bluebell Lamp
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheLamp2.description=An elegant bluebell flower with white wrought iron.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheLongStool.name=Belle Epoche Long Stool
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheLongStool.description=An elegant piece of white wrought iron and lilac satin.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheLoveseat.name=Belle Epoche Loveseat
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheLoveseat.description=An elegant piece of white wrought iron and lilac satin.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheSideTable(NoDock).name=Belle Epoche Side Table (No Dock)
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheSideTable(NoDock).description=A dockless elegant piece of white wrought iron and lilac enamel.(NoDock)
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheSideTable.name=Belle Epoche Side Table
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheSideTable.description=An elegant piece of white wrought iron and lilac enamel.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheSofa.name=Belle Epoche Sofa
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheSofa.description=An elegant piece of white wrought iron and lilac satin.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheStool.name=Belle Epoche Stool
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheStool.description=An elegant piece of white wrought iron and lilac satin.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheTable.name=Belle Epoche Table
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheTable.description=An elegant piece of white wrought iron and lilac enamel.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheTable(NoDock).name=Belle Epoche Table (No Dock)
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheTable(NoDock).description=A dockless elegant piece of white wrought iron and lilac enamel.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheTableLarge.name=Belle Epoche Large Table
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheTableLarge.description=An elegant piece of white wrought iron and lilac enamel.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheTableLarge(NoDock).name=Belle Epoche Large Table (No Dock)
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheTableLarge(NoDock).description=A dockless elegant piece of white wrought iron and lilac enamel.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheTVStand.name=Belle Epoche TV Stand
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheTVStand.description=An elegant piece of white wrought iron and lilac enamel.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheVanity.name=Belle Epoche Vanity
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheVanity.description=An elegant piece of white wrought iron and lilac enamel.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheWallLamp.name=Belle Epoche Ivory Wall Lamp
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheWallLamp.description=An elegant ivory flower with white wrought iron.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheWallLamp2.name=Belle Epoche Bluebell Wall Lamp
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheWallLamp2.description=An elegant bluebell flower with white wrought iron.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheWallShelf.name=Belle Epoche Shelf
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheWallShelf.description=An elegant piece of white wrought iron and lilac enamel.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheWardrobeDouble.name=Belle Epoche Double Wardrobe
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheWardrobeDouble.description=An elegant piece of white wrought iron and lilac enamel.
+
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheWardrobeSingle.name=Belle Epoche Single Wardrobe
+mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheWardrobeSingle.description=An elegant piece of white wrought iron and lilac enamel.

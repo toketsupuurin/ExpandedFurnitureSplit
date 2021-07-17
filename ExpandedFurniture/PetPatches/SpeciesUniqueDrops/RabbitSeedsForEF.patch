@@ -1,0 +1,25 @@
+{
+    "patchIfFileDontExist": "mods/Basic-Staples/treasure/petdrops/RabbitFurniture.treasure",
+	"file": "mods/ExpandedFurniture/PetPatches/SpeciesUniqueDrops/RabbitFurniture.treasure", 
+    "priority": 31, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+
+		"entries": [
+		
+	{
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "staxel.crop.CatTurnip",
+          "quantity": 13
+        }
+      ]
+    },
+			
+		
+		],
+
+    }
+}

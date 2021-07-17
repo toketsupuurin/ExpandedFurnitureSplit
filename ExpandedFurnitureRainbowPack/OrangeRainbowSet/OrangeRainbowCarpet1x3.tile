@@ -1,0 +1,39 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "yp"
+  ],
+  "categories": [
+    "furniture",
+	"Orange",
+    "rainbow",
+	"carpet",
+	"rug",
+  ],
+  "code": "mods.ExpandedFurniture.OrangeRainbowSet.OrangeRainbowCarpet1x3",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 1,
+      "z": 1
+    },
+    "specification": "EXE"
+  },
+  "placementDirections": [
+    "yn",
+    "yp",
+    "xp",
+    "xn",
+    "zp",
+    "zn"
+  ],
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureRainbowPack/OrangeRainbowSet/OrangeRainbowCarpet1x3.qb"
+}

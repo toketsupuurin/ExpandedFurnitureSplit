@@ -1,0 +1,14 @@
+These patches activate most tiles and a few items that you can't legitimately get in the game any way other than lucky boxes. This doesn't mean all tiles I haven't patched are easy to get. Some might have to be crafted, made or are just very rare discoveries.
+
+These really aren't tested. The devs disabled most of this stuff for a reason. Some object might have tiling errors or might actually cause your game problems. I've just activated this stuff so you can get to it from the normal catalogue. 
+
+If it's in the "disabled" folder then I put the patch in for completion, but saw no real reason to activate it. Either it's a visual duplicate of an item or it's broken. It could be that the object is lacking so many basic components (like buy/sell prices) but had such minimal art that I saw little reason to poke at it.
+
+stuff in the "cheaty" folder is stuff that you might want to build with, but having access to in the normal game would just open stuff up for exploits. If they were accessible in the creative menu then they're just turned off entirely. Re-enable them by fixing the file extensions. If they weren't even accessible in creative then I've turned them on, but restricted them to creative.
+
+Plaza Blocks: The game has duplicates and the devs turned off one set. Reasonable, but you can actually make different patterns using the duplicate blocks because they don't tile with their "legitimate" counterparts in the same way. It's subtle, but I actually do use this technique in my own game.
+
+Cobblestone Paths 2-4: Likewise with the plaza blocks, you could probably make some deliberate patterns with these.
+
+
+

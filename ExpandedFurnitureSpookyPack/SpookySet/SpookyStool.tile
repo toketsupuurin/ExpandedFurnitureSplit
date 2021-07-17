@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/docks/OneSeater_Stool.config",
+  "categories": [
+    "furniture",
+    "purple",
+	"black",
+    "spooky",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "stool"
+  ],
+  "code": "mods.ExpandedFurniture.SpookySet.SpookyStool",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookyStool.qb"
+}

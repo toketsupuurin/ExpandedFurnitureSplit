@@ -1,0 +1,44 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "Antique",
+	"lamp",
+	"purple",
+    "light",
+	"chandelier"
+  ],
+  "code": "mods.ExpandedFurniture.AntiqueSet.AntiqueChandelier",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 200,
+    "value": 500
+  },
+  "emissiveColor": "fff7EFCF",
+  "light": 20,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureAntiquePack/AntiqueSet/AntiqueChandelier.qb",
+  "compound": {
+  "size": {
+    "x": 3,
+    "y": 2,
+    "z": 3
+  },
+  "specification": "CCC CXC CCC CCC CCC CCC"
+  },
+  "frameAnimatedTile": {
+    "frameTime": 0.13
+  },
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "prefetchTileState": true,
+  "variants": [
+    "mods/ExpandedFurnitureAntiquePack/AntiqueSet/AntiqueChandelier.qb?size={48,35,48}?offset={0,0,0}",
+    "mods/ExpandedFurnitureAntiquePack/AntiqueSet/AntiqueChandelier.qb?size={48,35,48}?offset={48,0,0}",
+    "mods/ExpandedFurnitureAntiquePack/AntiqueSet/AntiqueChandelier.qb?size={48,35,48}?offset={0,0,48}",
+    "mods/ExpandedFurnitureAntiquePack/AntiqueSet/AntiqueChandelier.qb?size={48,35,48}?offset={48,0,48}"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+    "file": "mods/AutoMagic/Pet Polymorph Expansion/Treasures/PetGifts-Bunny.treasure",
+	"patchIfFileExists": "mods/AutoMagic/Pet Polymorph Expansion/Treasures/PetGifts-Bunny.treasure",
+    "priority": 30, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+
+  "entries": [
+	{
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawChandelier2"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawChandelier"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawCeilingLamp"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawCeilingLamp2"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawCandle"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawCandle2"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawWallLamp"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawWallLamp2"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawLamp2"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawFootLamp"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawFootLamp2"
+        }
+      ]
+    },
+    {
+      "weight": 1000,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawFuton3"
+        }
+      ]
+    },	
+  ],
+	
+
+    }
+}

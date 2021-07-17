@@ -1,0 +1,17 @@
+{
+    "file": "staxel/tileObject/villagers/rewards/Eris/MiniWagon.tile",
+	"patchIfFileDontExist": "mods/RebuyableRewards/MiniWagon.patch",
+    "priority": 100, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch": {
+		
+		"pricing": {
+			"catalogueUnlockedFromStart": false,
+			"appearsInCatalogue": true,
+			"buyable": true,
+			"sellable": true,
+			"canBeEarntFromLuckyBox": false,
+		},
+		"searchable": true,
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "furniture",
+	"green",
+    "pink",
+    "fey",
+    "set",
+    "light",
+    "lightsource",
+    "lighting",
+    "lamp",
+    "bedside"
+  ],
+  "code": "mods.ExpandedFurniture.FeySet.FeyLamp2",
+  "emissiveColor": "fff7EFCF",
+  "light": 10.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 2280,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureFestivalPack/FeySet/FeyLamp2.qb"
+}

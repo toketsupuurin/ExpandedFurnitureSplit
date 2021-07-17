@@ -1,0 +1,11 @@
+{
+    "file": "mods/Xable's Animals/rabbits/vanilla/WaterBowlDutch.pet",
+	"patchIfFileExists": "mods/Xable's Animals/rabbits/vanilla/WaterBowlDutch.pet",
+    "priority": 30, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+
+		"treasure": "mods.ExpandedFurniture.treasure.RabbitFurniture"
+
+    }
+}

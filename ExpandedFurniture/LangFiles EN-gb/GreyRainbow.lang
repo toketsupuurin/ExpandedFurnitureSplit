@@ -1,0 +1,131 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowArmChair.name=Grey Rainbow Arm Chair
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowArmChair.description=A casual grey slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowBed(NoDock).name=Grey Rainbow Single Bed (No Dock)
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowBed(NoDock).description=A casual dockless grey slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowBed.name=Grey Rainbow Single Bed
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowBed.description=A casual grey slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowBookshelf.name=Grey Rainbow Bookshelf
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowBookshelf.description=A casual grey slatted piece.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowCandle.name=Grey Rainbow Candle
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowCandle.description=A casual grey candle.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowCandle2.name=GreyRainbow Melted Candle
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowCandle2.description=A used grey candle.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowCarpet1x3.name=Grey Rainbow Carpet
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowCarpet1x3.description=A casual piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowCeilingLamp.name=Grey Rainbow Ceiling Lamp
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowCeilingLamp.description=A casual grey lamp.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowCeilingLampBeaded.name=Grey Rainbow Beaded Ceiling Lamp
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowCeilingLampBeaded.description=A beaded grey lamp.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowChair.name=Grey Rainbow Chair
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowChair.description=A casual grey slatted piece.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowChandelier.name=GreyRainbowChandelier
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowChandelier.description=A casual grey chandelier.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowChandelierBeaded.name=Grey Rainbow Beaded Chandelier
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowChandelierBeaded.description=A beaded grey chandelier.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowCoffeeTable(NoDock).name=Grey Rainbow Coffee Table (No Dock)
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowCoffeeTable(NoDock).description=A dockless casual grey slatted piece.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowCoffeeTableSofa.name=Grey Rainbow Coffee Table (Sofa)
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowCoffeeTableSofa.description=A casual Grey slatted piece.
+
+staxel.tileObject.themedfurniture.rainbow.GreyRainbowCoffeeTable.name=Grey Rainbow Coffee Table (Loveseat)
+staxel.tileObject.themedfurniture.rainbow.GreyRainbowCoffeeTable.description=A casual Grey slatted piece.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowCredenza.name=Grey Rainbow Credenza
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowCredenza.description=A casual grey slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowDesk(NoDock).name=Grey Rainbow Desk (No Dock)
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowDesk(NoDock).description=A dockless casual grey slatted piece.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowDesk.name=Grey Rainbow Desk
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowDesk.description=A casual grey slatted piece.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowDoubleBed(NoDock).name=Grey Rainbow Double Bed (No Dock)
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowDoubleBed(NoDock).description=A dockless casual grey slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowDoubleBed.name=Grey Rainbow Double Bed
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowDoubleBed.description=A casual grey slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowDresser.name=Grey Rainbow Dresser
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowDresser.description=A casual grey slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowFootLamp.name=Grey Rainbow Foot Lamp
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowFootLamp.description=A casual grey lamp.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowFootLampBeaded.name=Grey Rainbow Beaded Foot Lamp
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowFootLampBeaded.description=A beaded grey lamp.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowFuton.name=Grey Rainbow Futon
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowFuton.description=A casual grey slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowLamp.name=Grey Rainbow Lamp
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowLamp.description=A casual grey lamp.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowLampBeaded.name=Grey Rainbow Beaded Lamp
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowLampBeaded.description=A beaded grey lamp.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowLongStool.name=Grey Rainbow Long Stool
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowLongStool.description=A casual grey slatted piece.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowLoveseat.name=Grey Rainbow Loveseat
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowLoveseat.description=A casual grey slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowSideTable(NoDock).name=Grey Rainbow Side Table (No Dock)
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowSideTable(NoDock).description=A dockless casual grey slatted piece.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowSideTable.name=Grey Rainbow Side Table
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowSideTable.description=A casual grey slatted piece.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowSofa.name=Grey Rainbow Sofa
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowSofa.description=A casual grey slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowStool.name=Grey Rainbow Stool
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowStool.description=A casual grey slatted piece.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowTable.name=Grey Rainbow Table
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowTable.description=A casual grey slatted piece.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowTable(NoDock).name=Grey Rainbow Table (No Dock)
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowTable(NoDock).description=A dockless casual grey slatted piece.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowTableLarge(NoDock).name=Grey Rainbow Large Table (No Dock)
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowTableLarge(NoDock).description=A dockless casual grey slatted piece.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowTableLarge.name=Grey Rainbow Large Table
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowTableLarge.description=A casual grey slatted piece.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowTVStand.name=Grey Rainbow TV Stand
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowTVStand.description=A casual grey slatted piece.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowVanity.name=Grey Rainbow Vanity
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowVanity.description=A casual grey slatted piece.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowWallLamp.name=Grey Rainbow Wall Lamp
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowWallLamp.description=A casual grey lamp.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowWallLampBeaded.name=Grey Rainbow Beaded Wall Lamp
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowWallLampBeaded.description=A beaded grey lamp.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowWallShelf.name=Grey Rainbow Shelf
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowWallShelf.description=A casual grey slatted piece.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowWardrobeDouble.name=Grey Rainbow Double Wardrobe
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowWardrobeDouble.description=A casual grey slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowWardrobeSingle.name=Grey Rainbow Single Wardrobe
+mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowWardrobeSingle.description=A casual grey slatted piece with cheerful rainbow stripes.

@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/docks/SingleBed.config",
+  "categories": [
+    "furniture",
+    "red",
+	"tractor",
+    "farm",
+    "set",
+    "bed",
+    "bunk",
+    "sleep",
+    "single"
+  ],
+  "code": "mods.ExpandedFurniture.FarmSet.FarmSingleBed",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 2,
+      "z": 3
+    },
+    "specification": "CEE CEE CEE CCC CXC CCC"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureFarmPack/FarmSet/FarmSingleBed.qb"
+}

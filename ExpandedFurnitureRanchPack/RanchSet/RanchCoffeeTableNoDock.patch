@@ -1,0 +1,15 @@
+{
+    "file": "staxel/tileObject/themedfurniture/ranch/RanchCoffeeTableNoDock.tile",
+    "priority": 2, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+
+  "attachmentDirections":["yn"],  
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+	    "appearsInCatalogue": false,
+  },
+  "searchable": false,
+
+    }
+}

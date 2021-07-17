@@ -1,0 +1,43 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "yn",
+    "yp",
+    "xp",
+    "zp"
+  ],
+  "categories": [
+    "fence",
+    "misc",
+    "bridge",
+    "wood",
+    "brown",
+    "EF",
+    "EFCorner",
+    "corner"
+  ],
+  "code": "mods.ExpandedFurniture.FenceSet.EFBridgeFenceCorner",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "placementDirections": [
+    "yn",
+    "xn",
+    "zp"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 50
+  },
+  "randomizePosition": false,
+  "representativeTile": "mods.ExpandedFurniture.FenceSet.EFBridgeFenceStraight",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureFencePack/FenceSet/BridgeFenceCorner.qb"
+}

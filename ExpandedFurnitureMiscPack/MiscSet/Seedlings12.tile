@@ -1,0 +1,20 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "plant",
+    "furniture",
+    "green",
+	"brown",
+	"gardening",
+	"wood"
+  ],
+  "code": "mods.ExpandedFurniture.GardeningSet.Seedlings12",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 5,
+    "value": 50
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureMiscPack/MiscSet/Seedlings12.qb"
+}

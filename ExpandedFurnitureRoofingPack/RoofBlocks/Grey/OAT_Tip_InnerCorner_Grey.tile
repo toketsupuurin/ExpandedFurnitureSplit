@@ -1,0 +1,30 @@
+{
+  "__inherits": "staxel/tileObject/roof.config",
+  "aoFloor": false,
+  "attachToBelow": false,
+  "categories": [
+    "roof",
+    "roofing",
+    "block",
+    "tiled",
+    "tile",
+    "tiling",
+    "tiles",
+    "OAT",
+    "OATTip",
+    "tip",
+    "inner roof",
+	"Grey"
+  ],
+  "code": "mods.ExpandedFurniture.RoofBlocks.OAT_Tip_InnerCorner_Grey",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 6,
+    "value": 10
+  },
+  "representativeTile": "mods.ExpandedFurniture.RoofBlocks.OAT_Tip_Straight_Grey",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureRoofingPack/RoofBlocks/Grey/OAT_Tip_InnerCorner_Grey.qb"
+}

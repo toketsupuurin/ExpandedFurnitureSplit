@@ -1,0 +1,29 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "furniture",
+    "purple",
+	"black",
+	"silver",
+	"grey",
+	"gray",
+    "spooky",
+    "set",
+    "light",
+    "lightsource",
+    "lighting",
+    "lamp",
+    "bedside"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.SpookySet.SpookyLamp2",
+  "emissiveColor": "7242B3",
+  "light": 10.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureLightingEdition/SpookySet/SpookyLamp2.qb"
+}

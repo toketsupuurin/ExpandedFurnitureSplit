@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "wall",
+    "lamp",
+    "black",
+    "white"
+  ],
+  "code": "mods.ExpandedFurniture.MinimalistSet.MinimalistWallLamp2",
+  "emissiveColor": "fff7EFCF",
+  "light": 7.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureMinimalistPack/MinimalistSet/MinimalistWallLamp2.qb"
+}

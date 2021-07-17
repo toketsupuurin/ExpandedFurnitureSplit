@@ -1,0 +1,24 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "flower",
+    "plant",
+    "bonsai",
+    "furniture",
+	"red",
+    "white",
+	"brown",
+	"wood",
+	"log",
+	"mushroom"
+  ],
+  "code": "mods.ExpandedFurniture.MushroomSet.MushroomPlantToadstools",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureMushroomPack/MushroomSet/MushroomPlantToadstools.qb"
+}

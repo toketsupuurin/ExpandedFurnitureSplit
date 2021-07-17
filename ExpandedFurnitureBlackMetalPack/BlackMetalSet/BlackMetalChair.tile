@@ -1,0 +1,24 @@
+{
+  "__inherits": "staxel/docks/OneSeater_TallChair.config",
+  "categories": [
+    "furniture",
+    "black",
+    "metal",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "dining",
+    "dinner",
+    "room"
+  ],
+  "code": "mods.ExpandedFurniture.BlackMetalSet.BlackMetalChair",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureBlackMetalPack/BlackMetalSet/BlackMetalChair.qb"
+}

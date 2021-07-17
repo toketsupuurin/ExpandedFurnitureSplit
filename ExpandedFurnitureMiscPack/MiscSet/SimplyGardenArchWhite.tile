@@ -1,0 +1,29 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "wood",
+    "garden",
+    "arch",
+    "white",
+    "Simply",
+    "decoration"
+  ],
+  "code": "mods.ExpandedFurniture.SimplySet.SimplyGardenArchWhite",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 3,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 48,
+    "value": 100
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.LongGrassFootSteps",
+  "voxels": "mods/ExpandedFurnitureMiscPack/MiscSet/SimplyGardenArchWhite.qb",
+  "pathFindingNoCollision": true
+}

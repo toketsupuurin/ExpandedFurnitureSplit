@@ -1,0 +1,22 @@
+{
+  "__inherits": "staxel/plant/flower/base.config",
+  "attachToBelow": true,
+  "categories": [
+    "purple",
+    "mushroom"
+
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.MushroomSet.DeeperMushroom1Floor",
+  "emissiveColor": "ff8000ff",
+  "light": 0.5,
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 60,
+    "value": 100
+  },
+  "searchable": false,
+  "representativeTile": "mods.ExpandedFurnitureLightingEdition.MushroomSet.DeeperMushroom1Wall",
+  "stepSoundGroup": "staxel.sounds.GrassFootSteps",
+  "voxels": "mods/ExpandedFurnitureLightingEdition/MushroomSet/DeeperMushroom1Floor.qb",
+}

@@ -1,0 +1,30 @@
+{
+  "__inherits": "staxel/tileObject/roof.config",
+  "aoFloor": false,
+  "attachToBelow": false,
+  "categories": [
+    "roof",
+    "roofing",
+    "block",
+    "tiled",
+    "tile",
+    "tiling",
+    "tiles",
+    "Nilla",
+    "vanilla",
+    "cookie",
+    "brown",
+    "candy"
+  ],
+  "code": "mods.ExpandedFurniture.CookieBlocks.Nilla_Flat_Strawberry",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 50
+  },
+  "representativeTile": "mods.ExpandedFurniture.CookieBlocks.Nilla_Flat",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureCrazyPack/CookieBlocks/Nilla_Flat_Strawberry.qb"
+}

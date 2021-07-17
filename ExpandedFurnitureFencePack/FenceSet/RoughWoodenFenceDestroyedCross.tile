@@ -1,0 +1,49 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "yn",
+    "xp",
+    "zp",
+    "yp",
+    "xn",
+    "zn"
+  ],
+  "categories": [
+    "fence",
+    "misc",
+    "brown",
+    "rough",
+    "wood",
+    "wooden",
+    "destroyed",
+    "EF",
+    "EFCross",
+    "cross"
+  ],
+  "code": "mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceDestroyedCross",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "placementDirections": [
+    "yn",
+    "xp",
+    "zp",
+    "xn",
+    "zn"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 6,
+    "value": 10
+  },
+  "randomizePosition": false,
+  "representativeTile": "mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceDestroyedStraight",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureFencePack/FenceSet/RoughWoodenFenceDestroyedCross.qb"
+}

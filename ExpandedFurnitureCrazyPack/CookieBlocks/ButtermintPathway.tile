@@ -1,0 +1,33 @@
+{
+  "__inherits": "staxel/tile/Hammerable.config",
+  "categories": [
+    "block",
+    "red",
+    "white",
+    "pink",
+    "green",
+    "yellow",
+    "blue",
+    "floor",
+    "flooring",
+    "cookie",
+    "buttermint",
+    "icing",
+    "candycane",
+    "candy",
+    "cane"
+  ],
+  "code": "mods.ExpandedFurniture.CookieBlocks.ButtermintPathway",
+  "damageSoundGroup": "staxel.sounds.damage.Stone",
+  "pathFindingPenalty": 3,
+  "placeSoundGroup": "staxel.sounds.place.Stone",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 50
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "voxels": "mods/ExpandedFurnitureCrazyPack/CookieBlocks/ButtermintPathway.qb"
+}

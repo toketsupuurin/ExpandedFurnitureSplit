@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "furniture",
+    "brown",
+	"wicker",
+    "bamboo",
+    "set",
+    "light",
+    "lightsource",
+    "lighting",
+    "lamp",
+    "bedside"
+  ],
+  "code": "mods.ExpandedFurniture.WickerSet.WickerLamp2",
+  "emissiveColor": "fff57317",
+  "light": 10.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 630
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureWickerPack/WickerSet/WickerLamp2.qb"
+}

@@ -1,0 +1,31 @@
+{
+  "__inherits": "staxel/tileObject/noDock.config",
+  "categories": [
+    "furniture",
+    "black",
+    "spooky",
+    "set",
+    "table",
+    "surface",
+    "bedside",
+    "side",
+    "nightstand"
+  ],
+  "code": "mods.ExpandedFurniture.SpookySet.SpookySideTableRight(NoDock)",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookySideTableRight.qb"
+}

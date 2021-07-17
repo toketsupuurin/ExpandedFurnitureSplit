@@ -1,0 +1,30 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "furniture",
+    "Nerdy",
+    "black",
+    "blue",
+    "set",
+    "carpet",
+	"rug",
+  ],
+  "code": "mods.ExpandedFurniture.NerdySet.NerdyCarpet33x3",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 1,
+      "z": 3
+    },
+    "specification": "EEE EXE EEE"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureNerdyPack/NerdySet/NerdyCarpet33x3.qb"
+}

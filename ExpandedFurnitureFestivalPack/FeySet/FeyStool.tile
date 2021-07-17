@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/docks/OneSeater_Stool.config",
+  "categories": [
+    "furniture",
+    "green",
+    "pink",
+    "fey",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "stool"
+  ],
+  "code": "mods.ExpandedFurniture.FeySet.FeyStool",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 2280,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureFestivalPack/FeySet/FeyStool.qb"
+}

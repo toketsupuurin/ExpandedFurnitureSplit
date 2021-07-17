@@ -1,0 +1,28 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "flower",
+    "plant",
+    "bonsai",
+    "furniture",
+	"pink",
+	"mushroom"
+  ],
+  "code": "mods.ExpandedFurniture.MushroomSet.MushroomPlantGoth",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    },
+    "specification": "C X"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureMushroomPack/MushroomSet/MushroomPlantGoth.qb"
+}

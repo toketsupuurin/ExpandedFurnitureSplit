@@ -1,0 +1,34 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "purple",
+    "mushroom"
+
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.MushroomSet.DeeperMushroom1Ceiling",
+  "collision": false,
+  "emissiveColor": "ff8000ff",
+  "light": 0.25,
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 21,
+    "value": 35
+  },
+  "searchable": false,
+  "representativeTile": "mods.ExpandedFurnitureLightingEdition.MushroomSet.DeeperMushroom1Wall",
+  "voxels": "mods/ExpandedFurnitureLightingEdition/MushroomSet/DeeperMushroom1Ceiling.qb",
+  "spawnOnBreak": {
+    "selfDropChance": 0.0,
+    "drops": {
+      "entries": [
+        {
+          "chance": 0.5,
+          "spawn": {
+            "code": "staxel.item.gatherable.RareMushroom"
+          }
+        }
+      ]
+    }
+  }
+}

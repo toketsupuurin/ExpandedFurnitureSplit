@@ -1,0 +1,80 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.RanchSet.RanchBookshelf.name=Ranch Bookshelf
+mods.ExpandedFurniture.RanchSet.RanchBookshelf.description=Rustic and western.
+
+mods.ExpandedFurniture.RanchSet.RanchCandle.name=Ranch Short Candle
+mods.ExpandedFurniture.RanchSet.RanchCandle.description=A candle in a terracotta holder.
+
+mods.ExpandedFurniture.RanchSet.RanchCandle2.name=Ranch Tall Candle
+mods.ExpandedFurniture.RanchSet.RanchCandle2.description=A candle in a terracotta holder.
+
+mods.ExpandedFurniture.RanchSet.RanchCarpet1x3.name=Ranch Carpet
+mods.ExpandedFurniture.RanchSet.RanchCarpet1x3.description=Rustic and western.
+
+mods.ExpandedFurniture.RanchSet.RanchCeilingLamp.name=Ranch Ceiling Lamp
+mods.ExpandedFurniture.RanchSet.RanchCeilingLamp.description=Covered wagon chic.
+
+mods.ExpandedFurniture.RanchSet.RanchChandelier.name=Ranch Chandelier
+mods.ExpandedFurniture.RanchSet.RanchChandelier.description=How is there not a giant cow skull around here?
+
+mods.ExpandedFurniture.RanchSet.RanchCoffeeTableLoveseat.name=Ranch Coffee Table (Loveseat)
+mods.ExpandedFurniture.RanchSet.RanchCoffeeTableLoveseat.description=Rustic and western.
+
+staxel.tileObject.themedfurniture.ranch.RanchCoffeeTable.name=Ranch Coffee Table (Sofa)
+staxel.tileObject.themedfurniture.ranch.RanchCoffeeTable.description=Rustic and western.
+
+mods.ExpandedFurniture.RanchSet.RanchCredenza.name=Ranch Credenza
+mods.ExpandedFurniture.RanchSet.RanchCredenza.description=Rustic and western.
+
+mods.ExpandedFurniture.RanchSet.RanchDesk(NoDock).name=Ranch Desk (No Dock)
+mods.ExpandedFurniture.RanchSet.RanchDesk(NoDock).description=Dockless, rustic and western.
+
+mods.ExpandedFurniture.RanchSet.RanchDesk.name=Ranch Desk
+mods.ExpandedFurniture.RanchSet.RanchDesk.description=Rustic and western.
+
+mods.ExpandedFurniture.RanchSet.RanchFootLamp.name=Ranch Terracotta Foot Lamp
+mods.ExpandedFurniture.RanchSet.RanchFootLamp.description=Covered wagon chic.
+
+mods.ExpandedFurniture.RanchSet.RanchFootLamp2.name=Ranch Green Foot Lamp
+mods.ExpandedFurniture.RanchSet.RanchFootLamp2.description=Covered wagon chic.
+
+mods.ExpandedFurniture.RanchSet.RanchFuton.name=Ranch Futon
+mods.ExpandedFurniture.RanchSet.RanchFuton.description=Feels very southwestern.
+
+mods.ExpandedFurniture.RanchSet.RanchLamp2.name=Ranch Green Lamp
+mods.ExpandedFurniture.RanchSet.RanchLamp2.description=Feels very southwestern.
+
+mods.ExpandedFurniture.RanchSet.RanchLongStool.name=Ranch Long Stool
+mods.ExpandedFurniture.RanchSet.RanchLongStool.description=Feels very southwestern.
+
+mods.ExpandedFurniture.RanchSet.RanchSofa.name=Ranch Sofa
+mods.ExpandedFurniture.RanchSet.RanchSofa.description=Feels very southwestern.
+
+mods.ExpandedFurniture.RanchSet.RanchStool.name=Ranch Stool
+mods.ExpandedFurniture.RanchSet.RanchStool.description=Rustic and western.
+
+mods.ExpandedFurniture.RanchSet.RanchTableSmall.name=Ranch Small Table
+mods.ExpandedFurniture.RanchSet.RanchTableSmall.description=Rustic and western.
+
+mods.ExpandedFurniture.RanchSet.RanchTableSmall(NoDock).name=Ranch Small Table (No Dock)
+mods.ExpandedFurniture.RanchSet.RanchTableSmall(NoDock).description=Dockless, rustic and western.
+
+mods.ExpandedFurniture.RanchSet.RanchTable(NoDock).name=Ranch Table (No Dock)
+mods.ExpandedFurniture.RanchSet.RanchTable(NoDock).description=Dockless, rustic and western.
+
+mods.ExpandedFurniture.RanchSet.RanchTVStand.name=Ranch TV Stand
+mods.ExpandedFurniture.RanchSet.RanchTVStand.description=Rustic and western.
+
+mods.ExpandedFurniture.RanchSet.RanchVanity.name=Ranch Vanity
+mods.ExpandedFurniture.RanchSet.RanchVanity.description=Rustic and western.
+
+mods.ExpandedFurniture.RanchSet.RanchWallLamp.name=Ranch Wall Lamp
+mods.ExpandedFurniture.RanchSet.RanchWallLamp.description=Covered wagon chic.
+
+mods.ExpandedFurniture.RanchSet.RanchWallShelf.name=Ranch Shelf
+mods.ExpandedFurniture.RanchSet.RanchWallShelf.description=Rustic and western.
+
+mods.ExpandedFurniture.RanchSet.RanchWardrobeSingle.name=Ranch Single Wardrobe
+mods.ExpandedFurniture.RanchSet.RanchWardrobeSingle.description=Rustic and western.

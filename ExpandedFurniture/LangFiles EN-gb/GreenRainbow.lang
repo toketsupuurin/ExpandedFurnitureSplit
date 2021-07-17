@@ -1,0 +1,131 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowArmChair.name=Green Rainbow Arm Chair
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowArmChair.description=A casual green slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowBed(NoDock).name=Green Rainbow Single Bed (No Dock)
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowBed(NoDock).description=A casual dockless green slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowBed.name=Green Rainbow Single Bed
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowBed.description=A casual green slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowBookshelf.name=Green Rainbow Bookshelf
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowBookshelf.description=A casual green slatted piece.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowCandle.name=Green Rainbow Candle
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowCandle.description=A casual green candle.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowCandle2.name=GreenRainbow Melted Candle
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowCandle2.description=A used green candle.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowCarpet1x3.name=Green Rainbow Carpet
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowCarpet1x3.description=A casual piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowCeilingLamp.name=Green Rainbow Ceiling Lamp
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowCeilingLamp.description=A casual green lamp.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowCeilingLampBeaded.name=Green Rainbow Beaded Ceiling Lamp
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowCeilingLampBeaded.description=A beaded green lamp.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowChair.name=Green Rainbow Chair
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowChair.description=A casual green slatted piece.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowChandelier.name=GreenRainbowChandelier
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowChandelier.description=A casual green chandelier.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowChandelierBeaded.name=Green Rainbow Beaded Chandelier
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowChandelierBeaded.description=A beaded green chandelier.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowCoffeeTable(NoDock).name=Green Rainbow Coffee Table (No Dock)
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowCoffeeTable(NoDock).description=A dockless casual green slatted piece.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowCoffeeTableSofa.name=Green Rainbow Coffee Table (Sofa)
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowCoffeeTableSofa.description=A casual Green slatted piece.
+
+staxel.tileObject.themedfurniture.rainbow.GreenRainbowCoffeeTable.name=Green Rainbow Coffee Table (Loveseat)
+staxel.tileObject.themedfurniture.rainbow.GreenRainbowCoffeeTable.description=A casual Green slatted piece.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowCredenza.name=Green Rainbow Credenza
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowCredenza.description=A casual green slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowDesk(NoDock).name=Green Rainbow Desk (No Dock)
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowDesk(NoDock).description=A dockless casual green slatted piece.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowDesk.name=Green Rainbow Desk
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowDesk.description=A casual green slatted piece.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowDoubleBed(NoDock).name=Green Rainbow Double Bed (No Dock)
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowDoubleBed(NoDock).description=A dockless casual green slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowDoubleBed.name=Green Rainbow Double Bed
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowDoubleBed.description=A casual green slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowDresser.name=Green Rainbow Dresser
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowDresser.description=A casual green slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowFootLamp.name=Green Rainbow Foot Lamp
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowFootLamp.description=A casual green lamp.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowFootLampBeaded.name=Green Rainbow Beaded Foot Lamp
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowFootLampBeaded.description=A beaded green lamp.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowFuton.name=Green Rainbow Futon
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowFuton.description=A casual green slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowLamp.name=Green Rainbow Lamp
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowLamp.description=A casual green lamp.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowLampBeaded.name=Green Rainbow Beaded Lamp
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowLampBeaded.description=A beaded green lamp.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowLongStool.name=Green Rainbow Long Stool
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowLongStool.description=A casual green slatted piece.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowLoveseat.name=Green Rainbow Loveseat
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowLoveseat.description=A casual green slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowSideTable(NoDock).name=Green Rainbow Side Table (No Dock)
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowSideTable(NoDock).description=A dockless casual green slatted piece.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowSideTable.name=Green Rainbow Side Table
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowSideTable.description=A casual green slatted piece.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowSofa.name=Green Rainbow Sofa
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowSofa.description=A casual green slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowStool.name=Green Rainbow Stool
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowStool.description=A casual green slatted piece.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowTable.name=Green Rainbow Table
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowTable.description=A casual green slatted piece.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowTable(NoDock).name=Green Rainbow Table (No Dock)
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowTable(NoDock).description=A dockless casual green slatted piece.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowTableLarge(NoDock).name=Green Rainbow Large Table (No Dock)
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowTableLarge(NoDock).description=A dockless casual green slatted piece.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowTableLarge.name=Green Rainbow Large Table
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowTableLarge.description=A casual green slatted piece.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowTVStand.name=Green Rainbow TV Stand
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowTVStand.description=A casual green slatted piece.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowVanity.name=Green Rainbow Vanity
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowVanity.description=A casual green slatted piece.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowWallLamp.name=Green Rainbow Wall Lamp
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowWallLamp.description=A casual green lamp.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowWallLampBeaded.name=Green Rainbow Beaded Wall Lamp
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowWallLampBeaded.description=A beaded green lamp.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowWallShelf.name=Green Rainbow Shelf
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowWallShelf.description=A casual green slatted piece.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowWardrobeDouble.name=Green Rainbow Double Wardrobe
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowWardrobeDouble.description=A casual green slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowWardrobeSingle.name=Green Rainbow Single Wardrobe
+mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowWardrobeSingle.description=A casual green slatted piece with cheerful rainbow stripes.

@@ -1,0 +1,29 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "sundial",
+    "sculpture",
+	"fey",
+	"white",
+	"yellow"
+  ],
+  "code": "ExpandedFurniture.FeySet.FeySundial",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 12,
+    "value": 20
+  },
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    },
+    "specification": "CX"
+  },
+  "searchable": false,
+  "representativeTile": "ExpandedFurniture.FeySet.FeySundialKit",
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureFestivalPack/FeySet/Sundial.qb"
+}

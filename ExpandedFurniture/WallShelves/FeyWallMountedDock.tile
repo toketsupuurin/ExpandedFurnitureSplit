@@ -1,0 +1,21 @@
+{
+  "__inherits": "staxel/docks/WallMountedShelf.config",
+  "categories": [
+    "container",
+    "storage",
+    "fey",
+    "furniture",
+    "shelf",
+    "green"
+  ],
+  "code": "mods.ExpandedFurniture.FeySet.FeyWallShelf",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 2280,
+    "value": 3800
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurniture/WallShelves/FeyWallMountedDock.qb"
+}

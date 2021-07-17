@@ -1,0 +1,33 @@
+{
+  "__inherits": "staxel/tileObject/wallObject.config",
+  "categories": [
+    "window",
+    "blinds",
+    "red",
+    "white",
+    "pink",
+    "cookie",
+    "waffle",
+    "strawberry",
+    "wafer"
+  ],
+  "code": "mods.ExpandedFurniture.CookieBlocks.WaferShutter",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 500
+  },
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "damageSoundGroup": "staxel.sounds.damage.Wood",
+  "placeSoundGroup": "staxel.sounds.place.Wood",
+  "voxels": "mods/ExpandedFurnitureCrazyPack/CookieBlocks/WaferShutter.qb"
+}

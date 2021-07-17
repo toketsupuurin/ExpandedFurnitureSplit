@@ -1,0 +1,131 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.FeySet.FeyBookshelf.name=Fey Bookshelf
+mods.ExpandedFurniture.FeySet.FeyBookshelf.description=A magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyCandle.name=Fey Red Candle
+mods.ExpandedFurniture.FeySet.FeyCandle.description=A little candle for fairies.
+
+mods.ExpandedFurniture.FeySet.FeyCandle2.name=Fey White Candle
+mods.ExpandedFurniture.FeySet.FeyCandle2.description=A little candle for fairies.
+
+mods.ExpandedFurniture.FeySet.FeyCarpet3x3.name=Fey Carpet
+mods.ExpandedFurniture.FeySet.FeyCarpet3x3.description=A magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyCeilingLamp.name=Fey Rose Ceiling Lamp
+mods.ExpandedFurniture.FeySet.FeyCeilingLamp.description=A glowing plant that makes a lovely lamp.
+
+mods.ExpandedFurniture.FeySet.FeyCeilingLamp2.name=Fey Pink Ceiling Lamp
+mods.ExpandedFurniture.FeySet.FeyCeilingLamp2.description=A glowing plant that makes a lovely lamp.
+
+mods.ExpandedFurniture.FeySet.FeyChair.name=Fey Chair
+mods.ExpandedFurniture.FeySet.FeyChair.description=A magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyChandelier.name=Fey Chandelier
+mods.ExpandedFurniture.FeySet.FeyChandelier.description=A bundle of giant flowing flowers.
+
+mods.ExpandedFurniture.FeySet.FeyCoffeeTable(NoDock).name=Fey Coffee Table (No Dock)
+mods.ExpandedFurniture.FeySet.FeyCoffeeTable(NoDock).description=A dockless magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyCoffeeTableLoveseat.name=Fey Coffee Table (Loveseat)
+mods.ExpandedFurniture.FeySet.FeyCoffeeTableLoveseat.description=A magical plant, grown into furniture.
+
+staxel.tileObject.festival.feymasquerade.LeafCoffeeTable.name=Fey Coffee Table (Sofa)
+staxel.tileObject.festival.feymasquerade.LeafCoffeeTable.description=A magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyCredenza.name=Fey Credenza
+mods.ExpandedFurniture.FeySet.FeyCredenza.description=A magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyDesk(NoDock).name=Fey Desk (No Dock)
+mods.ExpandedFurniture.FeySet.FeyDesk(NoDock).description=Magical glass and vines grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyDoubleBed(NoDock).name=Fey Double Bed (No Dock)
+mods.ExpandedFurniture.FeySet.FeyDoubleBed(NoDock).description=A dockless magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyDoubleBed.name=Fey Double Bed
+mods.ExpandedFurniture.FeySet.FeyDoubleBed.description=A magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyDresser.name=Fey Dresser
+mods.ExpandedFurniture.FeySet.FeyDresser.description=A magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyFootLamp2.name=Fey Pink Foot Lamp
+mods.ExpandedFurniture.FeySet.FeyFootLamp2.description=A glowing plant that makes a lovely lamp.
+
+mods.ExpandedFurniture.FeySet.FeyFuton.name=Fey Futon
+mods.ExpandedFurniture.FeySet.FeyFuton.description=A magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyGlassCredenza.name=Fey Glass Credenza
+mods.ExpandedFurniture.FeySet.FeyGlassCredenza.description=Magical glass and vines grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyGlassDresser.name=Fey Glass Dresser
+mods.ExpandedFurniture.FeySet.FeyGlassDresser.description=Magical glass and vines grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyGlassWardrobeDouble.name=Fey Glass Double Wardrobe
+mods.ExpandedFurniture.FeySet.FeyGlassWardrobeDouble.description=Magical glass and vines grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyGlassWardrobeSingle.name=Fey Glass Single Wardrobe
+mods.ExpandedFurniture.FeySet.FeyGlassWardrobeSingle.description=Magical glass and vines grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyLamp.name=Fey Rose Lamp
+mods.ExpandedFurniture.FeySet.FeyLamp.description=A glowing plant that makes a lovely lamp.
+
+mods.ExpandedFurniture.FeySet.FeyLamp2.name=Fey Pink Lamp
+mods.ExpandedFurniture.FeySet.FeyLamp2.description=A glowing plant that makes a lovely lamp.
+
+mods.ExpandedFurniture.FeySet.FeyLongStool.name=Fey Long Stool
+mods.ExpandedFurniture.FeySet.FeyLongStool.description=A magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyLoveseat.name=Fey Loveseat
+mods.ExpandedFurniture.FeySet.FeyLoveseat.description=A magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeySideTable(NoDock).name=Small Rose Table (No Dock)
+mods.ExpandedFurniture.FeySet.FeySideTable(NoDock).description=A dockless magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeySideTable3(NoDock).name=Small Daisy Table (No Dock)
+mods.ExpandedFurniture.FeySet.FeySideTable3(NoDock).description=A dockless magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeySideTable2(NoDock).name=Small Pink Daisy Table (No Dock)
+mods.ExpandedFurniture.FeySet.FeySideTable2(NoDock).description=A dockless magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeySingleBed(NoDock).name=Fey Single Bed (No Dock)
+mods.ExpandedFurniture.FeySet.FeySingleBed(NoDock).description=A dockless magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeySingleBed.name=Fey Single Bed
+mods.ExpandedFurniture.FeySet.FeySingleBed.description=A magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyStool.name=Fey Stool
+mods.ExpandedFurniture.FeySet.FeyStool.description=A magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyTableLarge.name=Fey Large Table
+mods.ExpandedFurniture.FeySet.FeyTableLarge.description=A magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyTableLarge(NoDock).name=Fey Large Table (No Dock)
+mods.ExpandedFurniture.FeySet.FeyTableLarge(NoDock).description=A dockless magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyTable(NoDock).name=Fey Table (No Dock)
+mods.ExpandedFurniture.FeySet.FeyTable(NoDock).description=A dockless magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyTVStand.name=Fey TV Stand
+mods.ExpandedFurniture.FeySet.FeyTVStand.description=Magical glass and vines grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyVanity.name=Fey Vanity
+mods.ExpandedFurniture.FeySet.FeyVanity.description=Magical glass and vines grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyWallLamp2.name=Fey Pink Wall Lamp
+mods.ExpandedFurniture.FeySet.FeyWallLamp2.description=A glowing plant that makes a lovely lamp.
+
+mods.ExpandedFurniture.FeySet.FeyWallShelf.name=Fey Shelf
+mods.ExpandedFurniture.FeySet.FeyWallShelf.description=A magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyWardrobeDouble.name=Fey Double Wardrobe
+mods.ExpandedFurniture.FeySet.FeyWardrobeDouble.description=A magical plant, grown into furniture.
+
+mods.ExpandedFurniture.FeySet.FeyWardrobeSingle.name=Fey Single Wardrobe
+mods.ExpandedFurniture.FeySet.FeyWardrobeSingle.description=A magical plant, grown into furniture.
+
+ExpandedFurniture.FeySet.FeySundial.name=Sundial
+ExpandedFurniture.FeySet.FeySundial.description=A fey sundial
+
+ExpandedFurniture.FeySet.FeySundialKit.name=Sundial Kit
+ExpandedFurniture.FeySet.FeySundialKit.description=It needs assembly.

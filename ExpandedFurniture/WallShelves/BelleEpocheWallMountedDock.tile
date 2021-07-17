@@ -1,0 +1,22 @@
+{
+  "__inherits": "staxel/docks/WallMountedShelf.config",
+  "categories": [
+    "container",
+    "storage",
+    "belle",
+    "epoche",
+    "furniture",
+    "shelf",
+    "white"
+  ],
+  "code": "mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheWallShelf",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurniture/WallShelves/BelleEpocheWallMountedDock.qb"
+}

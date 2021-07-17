@@ -1,0 +1,30 @@
+{
+  "__inherits": "staxel/tileObject/vanity.config",
+  "categories": [
+    "furniture",
+    "brown",
+    "ranch",
+    "set",
+    "vanity",
+    "dressing",
+    "mirror",
+    "table"
+  ],
+  "code": "mods.ExpandedFurniture.RanchSet.RanchVanity",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 250
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureRanchPack/RanchSet/RanchVanity.qb"
+}

@@ -1,0 +1,21 @@
+{
+  "__inherits": "staxel/docks/WallMountedShelf.config",
+  "categories": [
+    "container",
+    "storage",
+    "rainbow",
+    "furniture",
+    "shelf",
+    "black"
+  ],
+  "code": "mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowWallShelf",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurniture/WallShelves/BlackRainbowWallMountedDock.qb"
+}

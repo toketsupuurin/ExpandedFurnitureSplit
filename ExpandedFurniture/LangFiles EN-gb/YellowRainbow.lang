@@ -1,0 +1,131 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowArmChair.name=Yellow Rainbow Arm Chair
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowArmChair.description=A casual yellow slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowBed(NoDock).name=Yellow Rainbow Single Bed (No Dock)
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowBed(NoDock).description=A casual dockless yellow slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowBed.name=Yellow Rainbow Single Bed
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowBed.description=A casual yellow slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowBookshelf.name=Yellow Rainbow Bookshelf
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowBookshelf.description=A casual yellow slatted piece.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowCandle.name=Yellow Rainbow Candle
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowCandle.description=A casual yellow candle.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowCandle2.name=YellowRainbow Melted Candle
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowCandle2.description=A used yellow candle.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowCarpet1x3.name=Yellow Rainbow Carpet
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowCarpet1x3.description=A casual piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowCeilingLamp.name=Yellow Rainbow Ceiling Lamp
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowCeilingLamp.description=A casual yellow lamp.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowCeilingLampBeaded.name=Yellow Rainbow Beaded Ceiling Lamp
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowCeilingLampBeaded.description=A beaded yellow lamp.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowChair.name=Yellow Rainbow Chair
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowChair.description=A casual yellow slatted piece.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowChandelier.name=YellowRainbowChandelier
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowChandelier.description=A casual yellow chandelier.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowChandelierBeaded.name=Yellow Rainbow Beaded Chandelier
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowChandelierBeaded.description=A beaded yellow chandelier.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowCoffeeTable(NoDock).name=Yellow Rainbow Coffee Table (No Dock)
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowCoffeeTable(NoDock).description=A dockless casual yellow slatted piece.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowCoffeeTableSofa.name=Yellow Rainbow Coffee Table (Sofa)
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowCoffeeTableSofa.description=A casual Yellow slatted piece.
+
+staxel.tileObject.themedfurniture.rainbow.YellowRainbowCoffeeTable.name=Yellow Rainbow Coffee Table (Loveseat)
+staxel.tileObject.themedfurniture.rainbow.YellowRainbowCoffeeTable.description=A casual Yellow slatted piece.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowCredenza.name=Yellow Rainbow Credenza
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowCredenza.description=A casual yellow slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowDesk(NoDock).name=Yellow Rainbow Desk (No Dock)
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowDesk(NoDock).description=A dockless casual yellow slatted piece.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowDesk.name=Yellow Rainbow Desk
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowDesk.description=A casual yellow slatted piece.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowDoubleBed(NoDock).name=Yellow Rainbow Double Bed (No Dock)
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowDoubleBed(NoDock).description=A dockless casual yellow slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowDoubleBed.name=Yellow Rainbow Double Bed
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowDoubleBed.description=A casual yellow slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowDresser.name=Yellow Rainbow Dresser
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowDresser.description=A casual yellow slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowFootLamp.name=Yellow Rainbow Foot Lamp
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowFootLamp.description=A casual yellow lamp.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowFootLampBeaded.name=Yellow Rainbow Beaded Foot Lamp
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowFootLampBeaded.description=A beaded yellow lamp.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowFuton.name=Yellow Rainbow Futon
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowFuton.description=A casual yellow slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowLamp.name=Yellow Rainbow Lamp
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowLamp.description=A casual yellow lamp.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowLampBeaded.name=Yellow Rainbow Beaded Lamp
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowLampBeaded.description=A beaded yellow lamp.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowLongStool.name=Yellow Rainbow Long Stool
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowLongStool.description=A casual yellow slatted piece.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowLoveseat.name=Yellow Rainbow Loveseat
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowLoveseat.description=A casual yellow slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowSideTable(NoDock).name=Yellow Rainbow Side Table (No Dock)
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowSideTable(NoDock).description=A dockless casual yellow slatted piece.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowSideTable.name=Yellow Rainbow Side Table
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowSideTable.description=A casual yellow slatted piece.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowSofa.name=Yellow Rainbow Sofa
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowSofa.description=A casual yellow slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowStool.name=Yellow Rainbow Stool
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowStool.description=A casual yellow slatted piece.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowTable.name=Yellow Rainbow Table
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowTable.description=A casual yellow slatted piece.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowTable(NoDock).name=Yellow Rainbow Table (No Dock)
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowTable(NoDock).description=A dockless casual yellow slatted piece.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowTableLarge(NoDock).name=Yellow Rainbow Large Table (No Dock)
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowTableLarge(NoDock).description=A dockless casual yellow slatted piece.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowTableLarge.name=Yellow Rainbow Large Table
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowTableLarge.description=A casual yellow slatted piece.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowTVStand.name=Yellow Rainbow TV Stand
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowTVStand.description=A casual yellow slatted piece.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowVanity.name=Yellow Rainbow Vanity
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowVanity.description=A casual yellow slatted piece.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowWallLamp.name=Yellow Rainbow Wall Lamp
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowWallLamp.description=A casual yellow lamp.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowWallLampBeaded.name=Yellow Rainbow Beaded Wall Lamp
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowWallLampBeaded.description=A beaded yellow lamp.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowWallShelf.name=Yellow Rainbow Shelf
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowWallShelf.description=A casual yellow slatted piece.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowWardrobeDouble.name=Yellow Rainbow Double Wardrobe
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowWardrobeDouble.description=A casual yellow slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowWardrobeSingle.name=Yellow Rainbow Single Wardrobe
+mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowWardrobeSingle.description=A casual yellow slatted piece with cheerful rainbow stripes.

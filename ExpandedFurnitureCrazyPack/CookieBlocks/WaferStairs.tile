@@ -1,0 +1,95 @@
+{
+  "__inherits": "staxel/tileObject/stairs.config",
+  "aoFloor": false,
+  "categories": [
+    "stairs",
+    "steps",
+    "block",
+    "brown",
+    "cookie",
+    "waffle",
+    "chocolate",
+    "wafer"
+  ],
+  "autoTileInfo": [
+	{
+      "directionsToLookIn": [
+        {
+          "direction": "up",
+          "rotationToLookFor": 1,
+		  "tileCategoriesToLookFor": [
+            "block",
+            "tile",
+            "stair",
+            "roof"
+			],
+		  "tileCategoriesToReject": [
+            "upsidedown"
+			]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 1,
+          "tileToPlace": "mods.ExpandedFurniture.CookieBlocks.WaferStairs_Upsidedown",
+        }
+      ]
+    },
+	{
+      "directionsToLookIn": [
+        {
+          "direction": "up",
+          "rotationToLookFor": 2,
+		  "tileCategoriesToLookFor": [
+            "block",
+            "tile",
+            "stair",
+            "roof"
+			],
+		  "tileCategoriesToReject": [
+            "upsidedown"
+			]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 2,
+          "tileToPlace": "mods.ExpandedFurniture.CookieBlocks.WaferStairs_Upsidedown",
+        }
+      ]
+    },
+	{
+      "directionsToLookIn": [
+        {
+          "direction": "up",
+          "rotationToLookFor": 3,
+		  "tileCategoriesToLookFor": [
+            "block",
+            "tile",
+            "stair",
+            "roof"
+			],
+		  "tileCategoriesToReject": [
+            "upsidedown"
+			]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 3,
+          "tileToPlace": "mods.ExpandedFurniture.CookieBlocks.WaferStairs_Upsidedown",
+        }
+      ]
+    },
+  ],
+  "code": "mods.ExpandedFurniture.CookieBlocks.WaferStairs",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 500
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureCrazyPack/CookieBlocks/WaferStairs.qb"
+}

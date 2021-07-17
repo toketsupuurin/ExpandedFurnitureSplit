@@ -1,0 +1,53 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.AntiqueSet.AntiqueChandelier.name=Antique Chandelier
+mods.ExpandedFurniture.AntiqueSet.AntiqueChandelier.description=Quite grand, but a little old fashioned.
+
+mods.ExpandedFurniture.AntiqueSet.AntiqueCredenza.name=Antique Credenza
+mods.ExpandedFurniture.AntiqueSet.AntiqueCredenza.description=Sturdy and well used.
+
+mods.ExpandedFurniture.AntiqueSet.AntiqueDoubleBed(NoDock).name=Antique Double Bed (No Dock)
+mods.ExpandedFurniture.AntiqueSet.AntiqueDoubleBed(NoDock).description=A dockless, light airy and shabby piece.
+
+mods.ExpandedFurniture.AntiqueSet.AntiqueLamp2.name=Antique Candle Lamp
+mods.ExpandedFurniture.AntiqueSet.AntiqueLamp2.description=It's not a real candle!
+
+mods.ExpandedFurniture.AntiqueSet.AntiqueLongStool.name=Antique Long Stool
+mods.ExpandedFurniture.AntiqueSet.AntiqueLongStool.description=Sturdy and well used.
+
+mods.ExpandedFurniture.AntiqueSet.AntiqueLoveseat.name=Antique Loveseat
+mods.ExpandedFurniture.AntiqueSet.AntiqueLoveseat.description=Shabby but comfortable.
+
+mods.ExpandedFurniture.AntiqueSet.AntiqueCoffeeTableLoveseat.name=Antique Coffee Table (Loveseat)
+mods.ExpandedFurniture.AntiqueSet.AntiqueCoffeeTableLoveseat.description=Shabby but comfortable.
+
+staxel.collector.tileObject.furniture.AntiqueCoffeeTable.name=Antique Coffee Table (Sofa)
+staxel.collector.tileObject.furniture.AntiqueCoffeeTable.description=Shabby but comfortable.
+
+mods.ExpandedFurniture.AntiqueSet.AntiqueSingleBed(NoDock).name=Antique Single Bed (No Dock)
+mods.ExpandedFurniture.AntiqueSet.AntiqueSingleBed(NoDock).description=A dockless, light airy and shabby piece.
+
+mods.ExpandedFurniture.AntiqueSet.AntiqueToiletPaper.name=Antique Toilet Paper
+mods.ExpandedFurniture.AntiqueSet.AntiqueToiletPaper.description=When you need it, you need it.
+
+mods.ExpandedFurniture.AntiqueSet.AntiqueTVStand.name=Antique TV Stand
+mods.ExpandedFurniture.AntiqueSet.AntiqueTVStand.description=Did they have TV when this was made?
+
+mods.ExpandedFurniture.AntiqueSet.AntiqueVanity.name=Antique Vanity
+mods.ExpandedFurniture.AntiqueSet.AntiqueVanity.description=A light airy and shabby piece.
+
+mods.ExpandedFurniture.AntiqueSet.AntiqueWallLamp.name=Antique Wall Lamp 
+mods.ExpandedFurniture.AntiqueSet.AntiqueWallLamp.description=So retro it's timeless.
+
+mods.ExpandedFurniture.AntiqueSet.AntiqueWallLamp2.name=AntiqueWallLamp2
+mods.ExpandedFurniture.AntiqueSet.AntiqueWallLamp2.description=So retro it's timeless.
+
+mods.ExpandedFurniture.AntiqueSet.AntiqueWallLamp3.name=AntiqueWallLamp3
+mods.ExpandedFurniture.AntiqueSet.AntiqueWallLamp3.description=So retro it's timeless.
+
+mods.ExpandedFurniture.AntiqueSet.AntiqueWardrobeDouble.name=Antique Double Wardrobe
+mods.ExpandedFurniture.AntiqueSet.AntiqueWardrobeDouble.description=Sturdy and well used.
+
+mods.ExpandedFurniture.AntiqueSet.AntiqueWardrobeSingle.name=Antique Single Wardrobe
+mods.ExpandedFurniture.AntiqueSet.AntiqueWardrobeSingle.description=Sturdy and well used.

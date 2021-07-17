@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "rainbow",
+	"lamp",
+	"blue",
+    "light"
+  ],
+  "code": "mods.ExpandedFurniture.BlueRainbowSet.BlueRainbowCeilingLampBeaded",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "emissiveColor": "559FCA",
+  "light": 2.2,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureRainbowPack/BlueRainbowSet/BlueRainbowCeilingLampBeaded.qb"
+}

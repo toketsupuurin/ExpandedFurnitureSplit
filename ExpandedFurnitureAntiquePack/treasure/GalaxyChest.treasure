@@ -1,0 +1,226 @@
+{
+  "code": "staxel.collector.treasure.GalaxyChest",
+  "additive": true,
+  "entries": [
+    {
+      "weight": 20.0,
+      "items": [
+        {
+		"kind" : "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.AntiqueSet.AntiqueWardrobeSingle",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "weight": 20.0,
+      "items": [
+        {
+		"kind" : "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.AntiqueSet.AntiqueWardrobeDouble",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "weight": 15.0,
+      "items": [
+        {
+          "kind" : "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.AntiqueSet.AntiqueWallLamp3",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "weight": 15.0,
+      "items": [
+        {
+          "kind" : "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.AntiqueSet.AntiqueWallLamp2",
+          "quantity": 1
+        }
+      ]
+    },
+	{
+      "weight": 15.0,
+      "items": [
+        {
+          "kind" : "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.AntiqueSet.AntiqueWallLamp",
+          "quantity": 1
+        }
+      ]
+    },
+		{
+      "weight": 10.0,
+      "items": [
+        {
+          "kind" : "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.AntiqueSet.AntiqueVanity",
+          "quantity": 1
+        }
+      ]
+    },
+	   {
+      "weight": 16.5,
+      "items": [
+        {
+          "kind" : "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.AntiqueSet.AntiqueTVStand",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "weight": 10.0,
+      "items": [
+        {
+          "kind" : "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.AntiqueSet.AntiqueToiletPaper",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "weight": 16.5,
+      "items": [
+        {
+          "kind" : "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.AntiqueSet.AntiqueLoveseat",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "weight": 16.5,
+      "items": [
+        {
+          "kind" : "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.AntiqueSet.AntiqueLamp2",
+          "quantity": 1
+        }
+      ]
+    },
+	{
+      "weight": 16.5,
+      "items": [
+        {
+          "kind" : "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.AntiqueSet.AntiqueDoubleBed(NoDock)",
+          "quantity": 1
+        }
+      ]
+    },
+	{
+      "weight": 16.5,
+      "items": [
+        {
+          "kind" : "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.AntiqueSet.AntiqueSingleBed(NoDock)",
+          "quantity": 1
+        }
+      ]
+    },
+	{
+      "weight": 20.0,
+      "items": [
+        {
+          "kind" : "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.AntiqueSet.AntiqueCoffeeTableLoveseat",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "weight": 20.0,
+      "items": [
+        {
+          "kind" : "staxel.item.Placer",
+          "tile": "staxel.collector.tileObject.furniture.AntiqueDeskNoDock",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "weight": 20.0,
+      "items": [
+        {
+          "kind" : "staxel.item.Placer",
+          "tile": "staxel.collector.tileObject.furniture.AntiqueSideTableNoDock",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "weight": 20.0,
+      "items": [
+        {
+          "kind" : "staxel.item.Placer",
+          "tile": "staxel.collector.tileObject.furniture.AntiqueTableNoDock",
+          "quantity": 1
+        }
+      ]
+    },
+	{
+      "weight": 20.0,
+      "items": [
+        {
+          "kind" : "staxel.item.Placer",
+          "tile": "staxel.collector.tileObject.furniture.AntiqueTableLargeNoDock",
+          "quantity": 1
+        }
+      ]
+    },
+	{
+      "weight": 20.0,
+      "items": [
+        {
+          "kind" : "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.AntiqueSet.AntiqueLongStool",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "weight": 20.0,
+      "items": [
+        {
+          "kind" : "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.AntiqueSet.AntiqueCredenza",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "weight": 20.0,
+      "items": [
+        {
+          "kind" : "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.AntiqueSet.AntiqueChandelier",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "weight": 10.0,
+      "items": [
+        {
+          "kind" : "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.FenceSet.EFAntiqueFenceStraight",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "weight": 10.0,
+      "items": [
+        {
+          "kind" : "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.FenceSet.EFAntiqueFenceDestroyedStraight",
+          "quantity": 10
+        }
+      ]
+    },
+  ]
+}

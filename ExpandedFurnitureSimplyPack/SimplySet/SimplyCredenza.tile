@@ -1,0 +1,37 @@
+{
+  "__inherits": "staxel/tileObject/wardrobe.config",
+  "categories": [
+    "furniture",
+    "basic",
+	"brown",
+    "set",
+    "container",
+    "storage",
+    "cabinet",
+    "closet",
+    "cupboard",
+    "pantry",
+    "wardrobe",
+    "credenza"
+  ],
+  "code": "mods.ExpandedFurniture.SimplySet.SimplyCredenza",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 100,
+    "value": 388
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureSimplyPack/SimplySet/SimplyCredenza.qb",
+  "attachmentDirections": [
+  "yp"
+  ]
+}

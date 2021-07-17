@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "wall",
+    "lamp",
+    "orange",
+    "mushroom"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.MushroomSet.MushroomWallLamp4",
+  "emissiveColor": "D97D14",
+  "light": 7.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureLightingEdition/MushroomSet/MushroomWallLamp4.qb"
+}

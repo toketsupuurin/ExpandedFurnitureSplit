@@ -1,0 +1,33 @@
+{
+  "__inherits": "mods/ExpandedFurniture/ConfigsDocks/SpookyFuton.config",
+  "categories": [
+    "furniture",
+    "brown",
+    "wicker",
+	"white",
+	"pillow",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "futon",
+    "sofa",
+    "couch",
+    "love",
+    "loveseat",
+	"chaise",
+	"chaise longue",
+	"chaise lounge",
+	"lounge",
+    "settee"
+  ],
+  "code": "mods.ExpandedFurniture.WickerSet.WickerFuton",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 630
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureWickerPack/WickerSet/WickerFuton.qb"
+}

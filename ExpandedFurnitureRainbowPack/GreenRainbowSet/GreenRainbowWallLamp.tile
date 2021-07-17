@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "wall",
+    "lamp",
+    "green",
+    "rainbow"
+  ],
+  "code": "mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowWallLamp",
+  "emissiveColor": "56A724",
+  "light": 7.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureRainbowPack/GreenRainbowSet/GreenRainbowWallLamp.qb"
+}

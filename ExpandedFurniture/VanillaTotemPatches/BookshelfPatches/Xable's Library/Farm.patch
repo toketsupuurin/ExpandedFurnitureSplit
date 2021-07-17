@@ -1,0 +1,13 @@
+{
+    "file": "mods/Xable's Library/bookshelves/Farm.tile",
+	"patchIfFileExists": "mods/Xable's Library/bookshelves/Farm.tile",
+    "priority": 999, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch": {
+
+		"categories": [
+			"Bookshelf",
+		],
+
+    }
+}

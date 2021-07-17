@@ -1,0 +1,31 @@
+{
+  "__inherits": "staxel/tileObject/vanity.config",
+  "categories": [
+    "furniture",
+    "red",
+    "white",
+    "mushroom",
+    "set",
+    "vanity",
+    "dressing",
+    "mirror",
+    "table"
+  ],
+  "code": "mods.ExpandedFurniture.MushroomSet.MushroomVanity",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureMushroomPack/MushroomSet/MushroomVanity.qb"
+}

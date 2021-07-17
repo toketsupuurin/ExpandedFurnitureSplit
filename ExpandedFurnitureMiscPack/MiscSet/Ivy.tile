@@ -1,0 +1,399 @@
+{
+  "__inherits": "staxel/tileObject/vines.config",
+  "categories": [
+    "plant",
+    "vine",
+	"EFivy",
+	"ivy",
+	"basic",
+    "vines",
+    "green"
+  ],
+    "autoTileInfo": [
+    {
+      "directionsToLookIn": [
+        {
+		  "direction": "left",
+          "tileCategoriesToLookFor": [
+            "block"
+          ]
+        },
+      ],
+      "results": [
+        {
+          "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy1",
+          "rotation": 1
+        },
+      ]
+    },
+	{
+      "directionsToLookIn": [
+        {
+		  "direction": "back",
+          "tileCategoriesToLookFor": [
+            "block"
+          ]
+        },
+      ],
+      "results": [
+        {
+          "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy2",
+          "rotation": 2
+        },
+      ]
+    },
+	{
+      "directionsToLookIn": [
+        {
+		  "direction": "right",
+          "tileCategoriesToLookFor": [
+            "block"
+          ]
+        },
+      ],
+      "results": [
+        {
+          "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy3",
+          "rotation": 3
+        },
+      ]
+    },
+	{
+      "directionsToLookIn": [
+        {
+		  "direction": "front",
+          "tileCategoriesToLookFor": [
+            "block"
+          ]
+        },
+      ],
+      "results": [
+        {
+          "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy",
+          "rotation": 0
+        },
+      ]
+    },
+	
+////////////Flood Fill Section/////////////////////////////
+	
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "up",
+		  "secondDirection": "up",
+          "tileCategoriesToLookFor": [
+            "EFivy"
+          ]
+        },
+        {
+          "direction": "left",
+          "tileCategoriesToLookFor": [
+            "block"
+          ],
+        },
+		{
+          "direction": "down",
+		  "secondDirection": "down",
+          "tileCategoriesToLookFor": [
+            "EFivy"
+          ]
+        },
+      ],
+      "results": [
+        {
+		  "direction": "none",
+          "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy2",
+          "rotation": 1
+        },
+        {
+		  "direction": "up",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy1",
+          "rotation": 1
+        },
+        {
+		  "direction": "down",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy3",
+          "rotation": 1
+        },
+		{
+		  "direction": "front",
+          "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy",
+          "rotation": 1
+        },
+        {
+		  "direction": "up",
+		  "secondDirection": "front",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy1",
+          "rotation": 1
+        },
+        {
+		  "direction": "down",
+		  "secondDirection": "front",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy2",
+          "rotation": 1
+        },
+		{
+		  "direction": "back",
+          "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy2",
+          "rotation": 1
+        },
+        {
+		  "direction": "up",
+		  "secondDirection": "back",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy3",
+          "rotation": 1
+        },
+        {
+		  "direction": "down",
+		  "secondDirection": "back",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy",
+          "rotation": 1
+        },
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "up",
+		  "secondDirection": "up",
+          "tileCategoriesToLookFor": [
+            "EFivy"
+          ]
+        },
+        {
+          "direction": "back",
+		  "tileCategoriesToLookFor": [
+            "block"
+          ],
+        },
+		{
+          "direction": "down",
+		  "secondDirection": "down",
+          "tileCategoriesToLookFor": [
+            "EFivy"
+          ]
+        },
+      ],
+      "results": [
+        {
+		  "direction": "none",
+          "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy1",
+          "rotation": 2
+        },
+        {
+		  "direction": "up",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy",
+          "rotation": 2
+        },
+        {
+		  "direction": "down",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy2",
+          "rotation": 2
+        },
+		{
+		  "direction": "left",
+          "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy3",
+          "rotation": 2
+        },
+        {
+		  "direction": "up",
+		  "secondDirection": "left",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy",
+          "rotation": 2
+        },
+        {
+		  "direction": "down",
+		  "secondDirection": "left",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy1",
+          "rotation": 2
+        },
+		{
+		  "direction": "right",
+          "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy1",
+          "rotation": 2
+        },
+        {
+		  "direction": "up",
+		  "secondDirection": "right",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy2",
+          "rotation": 2
+        },
+        {
+		  "direction": "down",
+		  "secondDirection": "right",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy3",
+          "rotation": 2
+        },
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "up",
+		  "secondDirection": "up",
+          "tileCategoriesToLookFor": [
+            "EFivy"
+          ]
+        },
+        {
+          "direction": "right",
+          "tileCategoriesToLookFor": [
+            "block"
+          ],
+        },
+		{
+          "direction": "down",
+		  "secondDirection": "down",
+          "tileCategoriesToLookFor": [
+            "EFivy"
+          ]
+        },
+      ],
+      "results": [
+        {
+		  "direction": "none",
+          "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy",
+          "rotation": 3
+        },
+        {
+		  "direction": "up",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy3",
+          "rotation": 3
+        },
+        {
+		  "direction": "down",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy1",
+          "rotation": 3
+        },
+		{
+		  "direction": "back",
+          "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy2",
+          "rotation": 3
+        },
+        {
+		  "direction": "up",
+		  "secondDirection": "back",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy3",
+          "rotation": 3
+        },
+        {
+		  "direction": "down",
+		  "secondDirection": "back",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy",
+          "rotation": 3
+        },
+		{
+		  "direction": "front",
+          "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy",
+          "rotation": 3
+        },
+        {
+		  "direction": "up",
+		  "secondDirection": "front",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy1",
+          "rotation": 3
+        },
+        {
+		  "direction": "down",
+		  "secondDirection": "front",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy2",
+          "rotation": 3
+        },
+      ]
+    },
+	{
+      "directionsToLookIn": [
+        {
+          "direction": "up",
+		  "secondDirection": "up",
+          "tileCategoriesToLookFor": [
+            "EFivy"
+          ]
+        },
+        {
+          "direction": "front",
+          "tileCategoriesToLookFor": [
+            "block"
+          ],
+        },
+		{
+          "direction": "down",
+		  "secondDirection": "down",
+          "tileCategoriesToLookFor": [
+            "EFivy"
+          ]
+        },
+      ],
+      "results": [
+        {
+		  "direction": "none",
+          "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy3",
+          "rotation": 0
+        },
+        {
+		  "direction": "up",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy2",
+          "rotation": 0
+        },
+        {
+		  "direction": "down",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy",
+          "rotation": 0
+        },
+		{
+		  "direction": "right",
+          "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy1",
+          "rotation": 0
+        },
+        {
+		  "direction": "up",
+		  "secondDirection": "right",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy2",
+          "rotation": 0
+        },
+        {
+		  "direction": "down",
+		  "secondDirection": "right",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy3",
+          "rotation": 0
+        },
+		{
+		  "direction": "left",
+          "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy3",
+          "rotation": 0
+        },
+        {
+		  "direction": "up",
+		  "secondDirection": "left",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy",
+          "rotation": 0
+        },
+        {
+		  "direction": "down",
+		  "secondDirection": "left",
+		  "tileToPlace": "mods.ExpandedFurniture.SimplySet.SimplyIvy1",
+          "rotation": 0
+        },
+      ]
+    },
+  ],
+  "code": "mods.ExpandedFurniture.SimplySet.SimplyIvy",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 12,
+    "value": 20
+  },
+  "scytheable": {},
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.GrassFootSteps",
+  "tilePlacement": {
+    "inHandOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.3
+    }
+  },
+  "voxels": "mods/ExpandedFurnitureMiscPack/MiscSet/Ivy.qb"
+}

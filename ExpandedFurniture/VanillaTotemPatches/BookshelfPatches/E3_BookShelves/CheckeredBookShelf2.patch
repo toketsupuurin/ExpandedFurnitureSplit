@@ -1,0 +1,13 @@
+{
+    "file": "mods/E3_BookShelves/Checkered/CheckeredBookShelf2.tile",
+	"patchIfFileExists": "mods/E3_BookShelves/Checkered/CheckeredBookShelf2.tile",
+    "priority": 999, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch": {
+
+		"categories": [
+			"Bookshelf",
+		],
+
+    }
+}

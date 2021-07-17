@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/docks/SideTable.config",
+  "categories": [
+    "furniture",
+    "mushroom",
+    "red",
+    "white",
+    "wood",
+    "set",
+    "table",
+    "surface",
+    "bedside",
+    "side",
+    "nightstand"
+  ],
+  "code": "mods.ExpandedFurniture.MushroomSet.MushroomSideTable",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureMushroomPack/MushroomSet/MushroomSideTable.qb"
+}

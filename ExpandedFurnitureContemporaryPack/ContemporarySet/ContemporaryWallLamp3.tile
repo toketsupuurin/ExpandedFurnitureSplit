@@ -1,0 +1,24 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "wall",
+    "lamp",
+    "green",
+    "pink",
+    "contemporary"
+  ],
+  "code": "mods.ExpandedFurniture.ContemporarySet.ContemporaryWallLamp3",
+  "emissiveColor": "fff7EFCF",
+  "light": 7.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureContemporaryPack/ContemporarySet/ContemporaryWallLamp3.qb"
+}

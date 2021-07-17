@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "pastel",
+	"lamp",
+	"white",
+    "light"
+  ],
+  "code": "mods.ExpandedFurniture.PastelSet.PastelCeilingLamp",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "emissiveColor": "fff7EFCF",
+  "light": 2.2,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurniturePastelPack/PastelSet/PastelCeilingLamp.qb"
+}

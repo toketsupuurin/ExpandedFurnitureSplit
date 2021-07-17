@@ -1,0 +1,22 @@
+{
+  "__inherits": "staxel/docks/OneSeater_TallChair.config",
+  "categories": [
+    "furniture",
+    "brown",
+    "wicker",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "armchair"
+  ],
+  "code": "mods.ExpandedFurniture.WickerSet.WickerChair",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 630
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureWickerPack/WickerSet/WickerChair.qb"
+}

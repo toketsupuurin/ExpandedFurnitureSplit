@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/docks/OneSeater_Stool.config",
+  "categories": [
+    "furniture",
+	"brown",
+    "wicker",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+	"long",
+	"long stool",
+    "stool",
+	"ottoman"
+  ],
+  "code": "mods.ExpandedFurniture.WickerSet.WickerLongStool",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 630
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureWickerPack/WickerSet/WickerLongStool.qb"
+}

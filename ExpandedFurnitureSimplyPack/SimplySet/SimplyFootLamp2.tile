@@ -1,0 +1,35 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "basic",
+    "light",
+    "lightsource",
+    "lighting",
+    "lamp",
+    "floor",
+    "foot",
+	"torchiere",
+	"brown",
+	"black",
+	"orange",
+    "bronze"
+  ],
+  "code": "mods.ExpandedFurniture.SimplySet.SimplyFootLamp2",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 3,
+      "z": 1
+    }
+  },
+  "emissiveColor": "fff7EFCF",
+  "light": 10.0,
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 12,
+    "value": 20
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureSimplyPack/SimplySet/SimplyFootLamp2.qb"
+}

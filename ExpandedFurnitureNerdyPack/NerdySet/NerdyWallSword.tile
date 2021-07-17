@@ -1,0 +1,19 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+    "wall",
+    "black",
+    "white",
+	"green",
+    "nerdy"
+  ],
+  "code": "mods.ExpandedFurniture.NerdySet.NerdyWallSword",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureNerdyPack/NerdySet/NerdyWallSword.qb"
+}

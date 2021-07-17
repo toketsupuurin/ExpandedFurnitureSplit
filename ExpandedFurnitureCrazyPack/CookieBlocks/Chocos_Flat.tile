@@ -1,0 +1,92 @@
+{
+  "__inherits": "staxel/tileObject/roof.config",
+  "aoFloor": false,
+  "attachToBelow": false,
+  "categories": [
+    "roof",
+    "roofing",
+    "block",
+    "tiled",
+    "tile",
+    "tiling",
+    "tiles",
+    "chocolate",
+    "Chocos",
+    "Oreo",
+    "cookie",
+    "black",
+    "candy"
+  ],
+  "autoTileInfo": [
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "up",
+          "rotationToLookFor": 0,
+		  "tileCategoriesToLookFor": [
+            "block",
+            "tile",
+            "stair",
+            "roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.CookieBlocks.Chocos_Flat_Plain",
+        }
+      ]
+    },
+	    {
+      "directionsToLookIn": [
+        {
+          "direction": "up",
+          "rotationToLookFor": 1,
+		  "tileCategoriesToLookFor": [
+            "block",
+            "tile",
+            "stair",
+            "roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.CookieBlocks.Chocos_Flat_Strawberry",
+        }
+      ]
+    },
+	    {
+      "directionsToLookIn": [
+        {
+          "direction": "up",
+          "rotationToLookFor": 2,
+		  "tileCategoriesToLookFor": [
+            "block",
+            "tile",
+            "stair",
+            "roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.CookieBlocks.Chocos_Flat_Apricot",
+        }
+      ]
+    }
+  ],
+  "code": "mods.ExpandedFurniture.CookieBlocks.Chocos_Flat",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 50
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureCrazyPack/CookieBlocks/Chocos_Flat.qb"
+}

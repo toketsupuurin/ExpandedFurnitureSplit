@@ -1,0 +1,13 @@
+{
+    "file": "mods/ExpandedFurniture/PawSet/PawCeilingLamp.tile",
+    "priority": 30, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "appearsInCatalogue": false,
+  },
+
+    }
+}

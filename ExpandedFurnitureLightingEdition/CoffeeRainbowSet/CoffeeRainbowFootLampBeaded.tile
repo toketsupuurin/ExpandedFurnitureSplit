@@ -1,0 +1,33 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "basic",
+    "light",
+    "lightsource",
+    "lighting",
+    "lamp",
+    "floor",
+    "foot",
+	"torchiere",
+    "brown",
+    "coffee"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.CoffeeRainbowSet.CoffeeRainbowFootLampBeaded",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 3,
+      "z": 1
+    }
+  },
+  "emissiveColor": "B06B53",
+  "light": 10.0,
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureLightingEdition/CoffeeRainbowSet/CoffeeRainbowFootLampBeaded.qb"
+}

@@ -1,0 +1,84 @@
+{
+    "patchIfFileExists": "mods/Basic-Staples/treasure/petdrops/TortoiseFurniture.treasure",
+	"file": "mods/Basic-Staples/treasure/petdrops/TortoiseFurniture.treasure",
+    "priority": 30, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+
+		"entries": [
+		
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "",
+          "kind": "staxel.item.Clothing",
+          "accessory": "staxel.accessories.princessdresses.ruffly.RufflyDress",
+          "palette": "staxel.palette.red"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "",
+          "kind": "staxel.item.Clothing",
+          "accessory": "staxel.accessories.coats.LabCoat",
+          "palette": "staxel.palette.grey"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "",
+          "kind": "staxel.item.Clothing",
+          "accessory": "staxel.accessories.characters.accessories.glasses.ASun",
+          "palette": "staxel.palette.orange"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "",
+          "kind": "staxel.item.Clothing",
+          "accessory": "staxel.accessories.shirts.hoodies.WhiteHoodie",
+          "palette": "staxel.palette.red"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawFuton7"
+        }
+      ]
+    },
+	{
+      "weight": 1,
+      "items": [
+        {
+          "code": "staxel.item.gatherable.Acorn",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "staxel.item.gatherable.Wildberry",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },		
+		],
+
+    }
+}

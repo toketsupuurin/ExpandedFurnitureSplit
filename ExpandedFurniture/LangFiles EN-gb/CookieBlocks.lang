@@ -1,0 +1,188 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.CookieBlocks.ButtermintPathway.name=Buttermint Pathway
+mods.ExpandedFurniture.CookieBlocks.ButtermintPathway.description=A delicious walkway.
+
+mods.ExpandedFurniture.CookieBlocks.ChocolateDoor.name=Chocolate Door
+mods.ExpandedFurniture.CookieBlocks.ChocolateDoor.description=Won't it melt in the sun?
+
+mods.ExpandedFurniture.CookieBlocks.Chocos_Flat.name=Chocos Flat Roof Tile
+mods.ExpandedFurniture.CookieBlocks.Chocos_Flat.description=A cookie with intricate icing.
+
+mods.ExpandedFurniture.CookieBlocks.Chocos_Flat_Apricot.name=Chocos Apricot Flat Roof Tile
+mods.ExpandedFurniture.CookieBlocks.Chocos_Flat_Apricot.description=It has a tasty dollop of apricot jam.
+
+mods.ExpandedFurniture.CookieBlocks.Chocos_Flat_Plain.name=Chocos Plain Flat Roof Tile
+mods.ExpandedFurniture.CookieBlocks.Chocos_Flat_Plain.description=It doesn't have fancy frosting.
+
+mods.ExpandedFurniture.CookieBlocks.Chocos_Flat_Strawberry.name=Chocos Strawberry Flat Roof Tile
+mods.ExpandedFurniture.CookieBlocks.Chocos_Flat_Strawberry.description=It has a tasty dollop of strawberry jam.
+
+mods.ExpandedFurniture.CookieBlocks.Chocos_Full.name=Chocos Flat Roof
+mods.ExpandedFurniture.CookieBlocks.Chocos_Full.description=It's a stack of chocolate cookies.
+
+mods.ExpandedFurniture.CookieBlocks.Chocos_InnerCorner.name=Chocos Sloped Roof
+mods.ExpandedFurniture.CookieBlocks.Chocos_InnerCorner.description=It's a stack of chocolate cookies.
+
+mods.ExpandedFurniture.CookieBlocks.Chocos_InnerCorner_Upsidedown.name=Chocos Sloped Roof
+mods.ExpandedFurniture.CookieBlocks.Chocos_InnerCorner_Upsidedown.description=It's a stack of chocolate cookies.
+
+mods.ExpandedFurniture.CookieBlocks.Chocos_Medallion.name=Chocos Wall Medallion
+mods.ExpandedFurniture.CookieBlocks.Chocos_Medallion.description=A cookie with intricate icing.
+
+mods.ExpandedFurniture.CookieBlocks.Chocos_Medallion_Apricot.name=Chocos Apricot Wall Medallion
+mods.ExpandedFurniture.CookieBlocks.Chocos_Medallion_Apricot.description=It has a tasty dollop of apricot jam.
+
+mods.ExpandedFurniture.CookieBlocks.Chocos_Medallion_Plain.name=Chocos Plain Wall Medallion
+mods.ExpandedFurniture.CookieBlocks.Chocos_Medallion_Plain.description=It doesn't have fancy frosting.
+
+mods.ExpandedFurniture.CookieBlocks.Chocos_Medallion_Strawberry.name=Chocos Strawberry Wall Medallion
+mods.ExpandedFurniture.CookieBlocks.Chocos_Medallion_Strawberry.description=It has a tasty dollop of strawberry jam.
+
+mods.ExpandedFurniture.CookieBlocks.Chocos_OuterCorner.name=Chocos Sloped Roof
+mods.ExpandedFurniture.CookieBlocks.Chocos_OuterCorner.description=It's a stack of chocolate cookies.
+
+mods.ExpandedFurniture.CookieBlocks.Chocos_OuterCorner_Upsidedown.name=Chocos Sloped Roof
+mods.ExpandedFurniture.CookieBlocks.Chocos_OuterCorner_Upsidedown.description=It's a stack of chocolate cookies.
+
+mods.ExpandedFurniture.CookieBlocks.Chocos_Ridge.name=Chocos Ridge
+mods.ExpandedFurniture.CookieBlocks.Chocos_Ridge.description=A cookie with intricate icing.
+
+mods.ExpandedFurniture.CookieBlocks.Chocos_Ridge_Apricot.name=Chocos Apricot Ridge
+mods.ExpandedFurniture.CookieBlocks.Chocos_Ridge_Apricot.description=It has a tasty dollop of apricot jam.
+
+mods.ExpandedFurniture.CookieBlocks.Chocos_Ridge_Plain.name=Chocos Plain Ridge
+mods.ExpandedFurniture.CookieBlocks.Chocos_Ridge_Plain.description=It doesn't have fancy frosting.
+
+mods.ExpandedFurniture.CookieBlocks.Chocos_Ridge_Strawberry.name=Chocos Strawberry Ridge
+mods.ExpandedFurniture.CookieBlocks.Chocos_Ridge_Strawberry.description=It has a tasty dollop of strawberry jam.
+
+mods.ExpandedFurniture.CookieBlocks.Chocos_Straight.name=Chocos Sloped Roof
+mods.ExpandedFurniture.CookieBlocks.Chocos_Straight.description=It's a stack of chocolate cookies.
+
+mods.ExpandedFurniture.CookieBlocks.Chocos_Straight_Upsidedown.name=Chocos Sloped Roof
+mods.ExpandedFurniture.CookieBlocks.Chocos_Straight_Upsidedown.description=It's a stack of chocolate cookies.
+
+mods.ExpandedFurniture.CookieBlocks.Gingerbread.name=Gingerbread
+mods.ExpandedFurniture.CookieBlocks.Gingerbread.description=A wall made from gingerbread.
+
+mods.ExpandedFurniture.CookieBlocks.RedCandyCaneGingerbread.name=Red Candy Cane Gingerbread
+mods.ExpandedFurniture.CookieBlocks.RedCandyCaneGingerbread.description=A wall made from gingerbread with green candy canes.
+
+mods.ExpandedFurniture.CookieBlocks.GreenCandyCaneGingerbread.name=Green Candy Cane Gingerbread
+mods.ExpandedFurniture.CookieBlocks.GreenCandyCaneGingerbread.description=A wall made from gingerbread with green candy canes.
+
+mods.ExpandedFurniture.CookieBlocks.GumdropBush_Green.name=Green Gumdrop Bush
+mods.ExpandedFurniture.CookieBlocks.GumdropBush_Green.description=A giant green gumdrop.
+
+mods.ExpandedFurniture.CookieBlocks.GumdropBush_Orange.name=Orange Gumdrop Bush
+mods.ExpandedFurniture.CookieBlocks.GumdropBush_Orange.description=A giant orange gumdrop.
+
+mods.ExpandedFurniture.CookieBlocks.GumdropBush_Purple.name=Purple Gumdrop Bush
+mods.ExpandedFurniture.CookieBlocks.GumdropBush_Purple.description=A giant purple gumdrop.
+
+mods.ExpandedFurniture.CookieBlocks.GumdropBush_Red.name=Red Gumdrop Bush
+mods.ExpandedFurniture.CookieBlocks.GumdropBush_Red.description=A giant red gumdrop.
+
+mods.ExpandedFurniture.CookieBlocks.GumdropBush_Yellow.name=Yellow Gumdrop Bush
+mods.ExpandedFurniture.CookieBlocks.GumdropBush_Yellow.description=A giant yellow gumdrop.
+
+mods.ExpandedFurniture.CookieBlocks.Nilla_Flat.name=Nilla Flat Roof Tile
+mods.ExpandedFurniture.CookieBlocks.Nilla_Flat.description=A cookie with intricate icing.
+
+mods.ExpandedFurniture.CookieBlocks.Nilla_Flat_Apricot.name=Nilla Apricot Flat Roof Tile
+mods.ExpandedFurniture.CookieBlocks.Nilla_Flat_Apricot.description=It has a tasty dollop of apricot jam.
+
+mods.ExpandedFurniture.CookieBlocks.Nilla_Flat_Plain.name=Nilla Plain Flat Roof Tile
+mods.ExpandedFurniture.CookieBlocks.Nilla_Flat_Plain.description=It doesn't have fancy frosting.
+
+mods.ExpandedFurniture.CookieBlocks.Nilla_Flat_Strawberry.name=Nilla Strawberry Flat Roof Tile
+mods.ExpandedFurniture.CookieBlocks.Nilla_Flat_Strawberry.description=It has a tasty dollop of strawberry jam.
+
+mods.ExpandedFurniture.CookieBlocks.Nilla_Full.name=Nilla Flat Roof
+mods.ExpandedFurniture.CookieBlocks.Nilla_Full.description=It's a stack of vanilla cookies.
+
+mods.ExpandedFurniture.CookieBlocks.Nilla_InnerCorner.name=Nilla Sloped Roof
+mods.ExpandedFurniture.CookieBlocks.Nilla_InnerCorner.description=It's a stack of vanilla cookies.
+
+mods.ExpandedFurniture.CookieBlocks.Nilla_InnerCorner_Upsidedown.name=Nilla Sloped Roof
+mods.ExpandedFurniture.CookieBlocks.Nilla_InnerCorner_Upsidedown.description=It's a stack of vanilla cookies.
+
+mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion.name=Nilla Wall Medallion
+mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion.description=A cookie with intricate icing.
+
+mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion_Apricot.name=Nilla Apricot Wall Medallion
+mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion_Apricot.description=It has a tasty dollop of apricot jam.
+
+mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion_Plain.name=Nilla Plain Wall Medallion
+mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion_Plain.description=It doesn't have fancy frosting.
+
+mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion_Strawberry.name=Nilla Strawberry Wall Medallion
+mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion_Strawberry.description=It has a tasty dollop of strawberry jam.
+
+mods.ExpandedFurniture.CookieBlocks.Nilla_OuterCorner.name=Nilla Sloped Roof
+mods.ExpandedFurniture.CookieBlocks.Nilla_OuterCorner.description=It's a stack of vanilla cookies.
+
+mods.ExpandedFurniture.CookieBlocks.Nilla_OuterCorner_Upsidedown.name=Nilla Sloped Roof
+mods.ExpandedFurniture.CookieBlocks.Nilla_OuterCorner_Upsidedown.description=It's a stack of vanilla cookies.
+
+mods.ExpandedFurniture.CookieBlocks.Nilla_Ridge.name=Nilla Ridge
+mods.ExpandedFurniture.CookieBlocks.Nilla_Ridge.description=A cookie with intricate icing.
+
+mods.ExpandedFurniture.CookieBlocks.Nilla_Ridge_Apricot.name=Nilla Apricot Ridge
+mods.ExpandedFurniture.CookieBlocks.Nilla_Ridge_Apricot.description=It has a tasty dollop of apricot jam.
+
+mods.ExpandedFurniture.CookieBlocks.Nilla_Ridge_Plain.name=Nilla Plain Ridge
+mods.ExpandedFurniture.CookieBlocks.Nilla_Ridge_Plain.description=It doesn't have fancy frosting.
+
+mods.ExpandedFurniture.CookieBlocks.Nilla_Ridge_Strawberry.name=Nilla Strawberry Ridge
+mods.ExpandedFurniture.CookieBlocks.Nilla_Ridge_Strawberry.description=It has a tasty dollop of strawberry jam.
+
+mods.ExpandedFurniture.CookieBlocks.Nilla_Straight.name=Nilla Sloped Roof
+mods.ExpandedFurniture.CookieBlocks.Nilla_Straight.description=It's a stack of vanilla cookies.
+
+mods.ExpandedFurniture.CookieBlocks.Nilla_Straight_Upsidedown.name=Nilla Sloped Roof
+mods.ExpandedFurniture.CookieBlocks.Nilla_Straight_Upsidedown.description=It's a stack of vanilla cookies.
+
+mods.ExpandedFurniture.CookieBlocks.OrangeLollipop.name=Orange Lollipop
+mods.ExpandedFurniture.CookieBlocks.OrangeLollipop.description=It's huge and looks so tasty...
+
+mods.ExpandedFurniture.CookieBlocks.PeppermintPillar.name=Peppermint Pillar
+mods.ExpandedFurniture.CookieBlocks.PeppermintPillar.description=Just a nibble won't hurt...
+
+mods.ExpandedFurniture.CookieBlocks.Peppermint_Medallion.name=Peppermint_Medallion
+mods.ExpandedFurniture.CookieBlocks.Peppermint_Medallion.description=You could choke a horse with that.
+
+mods.ExpandedFurniture.CookieBlocks.PezBrick.name=Pez Brick
+mods.ExpandedFurniture.CookieBlocks.PezBrick.description=Something looks funny about these...
+
+mods.ExpandedFurniture.CookieBlocks.SugarWindow.name=Sugar Window
+mods.ExpandedFurniture.CookieBlocks.SugarWindow.description=Tastes like lemons and comfort.
+
+mods.ExpandedFurniture.CookieBlocks.SwirlLollipop1.name=Peppermint Swirl Lollipop
+mods.ExpandedFurniture.CookieBlocks.SwirlLollipop1.description=It's a tree. Really.
+
+mods.ExpandedFurniture.CookieBlocks.SwirlLollipop2.name=Tutti Frutti Swirl Lollipop
+mods.ExpandedFurniture.CookieBlocks.SwirlLollipop2.description=It's a tree. Really.
+
+mods.ExpandedFurniture.CookieBlocks.SwirlLollipop3.name=Blueberry Cream Swirl Lollipop
+mods.ExpandedFurniture.CookieBlocks.SwirlLollipop3.description=It's a tree. Really.
+
+mods.ExpandedFurniture.CookieBlocks.TruffleBush_Chocolate.name=Chocolate Truffle Bush
+mods.ExpandedFurniture.CookieBlocks.TruffleBush_Chocolate.description=What flavor is inside?
+
+mods.ExpandedFurniture.CookieBlocks.TruffleBush_White.name=White Chocolate Truffle Bush
+mods.ExpandedFurniture.CookieBlocks.TruffleBush_White.description=What flavor is inside?
+
+mods.ExpandedFurniture.CookieBlocks.WaferShutter.name=Strawberry Wafer Shutter
+mods.ExpandedFurniture.CookieBlocks.WaferShutter.description=Strawberry, probably...might just be pink.
+
+mods.ExpandedFurniture.CookieBlocks.WaferStairs.name=Chocolate Wafer Stairs
+mods.ExpandedFurniture.CookieBlocks.WaferStairs.description=Probably chocolate.
+
+mods.ExpandedFurniture.CookieBlocks.WaferStairs_Upsidedown.name=Chocolate Wafer Stairs
+mods.ExpandedFurniture.CookieBlocks.WaferStairs_Upsidedown.description=Probably chocolate.
+
+mods.ExpandedFurniture.CookieBlocks.WaffleFloor.name=Waffle Floor
+mods.ExpandedFurniture.CookieBlocks.WaffleFloor.description=A crunchy gold floor.

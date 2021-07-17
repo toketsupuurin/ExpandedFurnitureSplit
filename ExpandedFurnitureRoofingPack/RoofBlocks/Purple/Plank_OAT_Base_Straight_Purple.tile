@@ -1,0 +1,467 @@
+{
+  "__inherits": "staxel/tileObject/roof.config",
+  "aoFloor": false,
+  "attachToBelow": false,
+  "autoTileInfo": [
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "up",
+          "tileCategoriesToLookFor": [
+            "block",
+            "tile",
+            "stair",
+            "roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 2,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_Straight_Upsidedown_Purple",
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "left",
+          "tileCategoriesToLookFor": [
+            "upside down straight roof",
+            "upside down outer roof",
+            "upside down inner roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_Straight_Upsidedown_Purple",
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "left",
+          "tileCategoriesToLookFor": [
+            "straight roof",
+            "outer roof",
+            "inner roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_Straight_Purple",
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "right",
+          "tileCategoriesToLookFor": [
+            "upside down straight roof",
+            "upside down outer roof",
+            "upside down inner roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_Straight_Upsidedown_Purple",
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "right",
+          "tileCategoriesToLookFor": [
+            "straight roof",
+            "outer roof",
+            "inner roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_Straight_Purple",
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 1,
+          "tileCategoriesToLookFor": [
+            "upside down straight roof",
+            "upside down outer roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_OuterCorner_Upsidedown_Purple"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 1,
+          "tileCategoriesToLookFor": [
+            "straight roof",
+            "outer roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_OuterCorner_Purple"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 2,
+          "tileCategoriesToLookFor": [
+            "upside down inner roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_OuterCorner_Upsidedown_Purple"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 2,
+          "tileCategoriesToLookFor": [
+            "inner roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_OuterCorner_Purple"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 2,
+          "tileCategoriesToLookFor": [
+            "upside down outer roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 3,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_OuterCorner_Upsidedown_Purple"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 2,
+          "tileCategoriesToLookFor": [
+            "outer roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 3,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_OuterCorner_Purple"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 3,
+          "tileCategoriesToLookFor": [
+            "upside down straight roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 3,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_OuterCorner_Upsidedown_Purple"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 3,
+          "tileCategoriesToLookFor": [
+            "straight roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 3,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_OuterCorner_Purple"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 1,
+          "tileCategoriesToLookFor": [
+            "upside down inner roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 3,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_OuterCorner_Upsidedown_Purple"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 1,
+          "tileCategoriesToLookFor": [
+            "inner roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 3,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_OuterCorner_Purple"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 1,
+          "tileCategoriesToLookFor": [
+            "upside down straight roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 2,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_InnerCorner_Upsidedown_Purple"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 1,
+          "tileCategoriesToLookFor": [
+            "straight roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 2,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_InnerCorner_Purple"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 3,
+          "tileCategoriesToLookFor": [
+            "upside down straight roof",
+            "upside down outer roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 1,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_InnerCorner_Upsidedown_Purple"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 3,
+          "tileCategoriesToLookFor": [
+            "straight roof",
+            "outer roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 1,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_InnerCorner_Purple"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 0,
+          "tileCategoriesToLookFor": [
+            "upside down outer roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 2,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_InnerCorner_Upsidedown_Purple"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 0,
+          "tileCategoriesToLookFor": [
+            "outer roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 2,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_InnerCorner_Purple"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 3,
+          "tileCategoriesToLookFor": [
+            "upside down inner roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 2,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_InnerCorner_Upsidedown_Purple"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 3,
+          "tileCategoriesToLookFor": [
+            "inner roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 2,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_InnerCorner_Purple"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 0,
+          "tileCategoriesToLookFor": [
+            "upside down inner roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 1,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_InnerCorner_Upsidedown_Purple"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 0,
+          "tileCategoriesToLookFor": [
+            "inner roof"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 1,
+          "tileToPlace": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_InnerCorner_Purple"
+        }
+      ]
+    },
+  ],
+  "categories": [
+    "roof",
+    "roofing",
+    "block",
+    "tiled",
+    "tile",
+    "tiling",
+    "tiles",
+    "OAT",
+    "Plank",
+    "OATBase",
+    "base",
+    "straight roof",
+	"Purple"
+  ],
+  "code": "mods.ExpandedFurniture.RoofBlocks.Plank_OAT_Base_Straight_Purple",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 6,
+    "value": 10
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureRoofingPack/RoofBlocks/Purple/Plank_OAT_Base_Straight_Purple.qb"
+}

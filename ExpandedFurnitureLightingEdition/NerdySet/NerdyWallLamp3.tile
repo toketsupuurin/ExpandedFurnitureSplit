@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "wall",
+    "lamp",
+    "blue",
+    "nerdy"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.NerdySet.NerdyWallLamp3",
+  "emissiveColor": "1089BD",
+  "light": 7.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureLightingEdition/NerdySet/NerdyWallLamp3.qb"
+}

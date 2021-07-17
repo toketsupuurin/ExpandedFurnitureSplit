@@ -1,0 +1,120 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalArmchair.name=Black Metal Armchair
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalArmchair.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalArmChair2.name=Black Metal Wide Armchair
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalArmChair2.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalBookshelf.name=Black Metal Bookshelf
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalBookshelf.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalCandle.name=Black Metal Candle
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalCandle.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalCandle2.name=Black Metal Tower Candle
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalCandle2.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalCarpet1x3.name=Black Metal Carpet
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalCarpet1x3.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalCeilingLamp.name=Black Metal Ceiling Lamp
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalCeilingLamp.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalChair.name=Black Metal Chair
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalChair.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalChandelier.name=Black Metal Chandelier
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalChandelier.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalCoffeeTable(NoDock).name=Black Metal Coffee Table (No Dock)
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalCoffeeTable(NoDock).description=A dockless sturdy piece in the Mackintosh style.(NoDock)
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalCoffeeTable.name=Black Metal Coffee Table (Loveseat)
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalCoffeeTable.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalCoffeeTableSofa.name=Black Metal Coffee Table (Sofa)
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalCoffeeTableSofa.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalCredenza.name=Black Metal Credenza
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalCredenza.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalDesk(NoDock).name=Black Metal Desk (No Dock)
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalDesk(NoDock).description=A dockless sturdy piece in the Mackintosh style.(NoDock)
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalDesk.name=Black Metal Desk
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalDesk.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalDoubleBed(NoDock).name=Black Metal Double Bed (No Dock)
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalDoubleBed(NoDock).description=A dockless sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalDoubleBed.name=Black Metal Double Bed
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalDoubleBed.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalDresser.name=Black Metal Dresser
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalDresser.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalFootLamp.name=Black Metal Foot Lamp
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalFootLamp.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalFuton.name=Black Metal Futon
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalFuton.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalLamp.name=Black Metal Rose Lamp
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalLamp.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalLamp2.name=Black Metal Lamp
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalLamp2.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalLongStool.name=Black Metal Long Stool
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalLongStool.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalLoveseat.name=Black Metal Loveseat
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalLoveseat.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalSideTable(NoDock).name=Black Metal Side Table (No Dock)
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalSideTable(NoDock).description=A dockless sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalSideTable.name=Black Metal Side Table
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalSideTable.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalSingleBed(NoDock).name=Black Metal Single Bed (No Dock)
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalSingleBed(NoDock).description=A dockless sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalSingleBed.name=Black Metal Single Bed
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalSingleBed.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalSofa.name=Black Metal Sofa
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalSofa.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalStool.name=Black Metal Stool
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalStool.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalTableLarge.name=Black Metal Large Table
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalTableLarge.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalTable(NoDock).name=Black Metal Table (No Dock)
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalTable(NoDock).description=A dockless sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalTableLarge(NoDock).name=Black Metal Large Table (No Dock)
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalTableLarge(NoDock).description=A dockless sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalTVStand.name=Black Metal TV Stand
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalTVStand.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalVanity.name=Black Metal Vanity
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalVanity.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalWallLamp.name=Black Metal Wall Lamp
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalWallLamp.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalWallShelf.name=Black Metal Shelf
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalWallShelf.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalWardrobeDouble.name=Black Metal Double Wardrobe
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalWardrobeDouble.description=A sturdy piece in the Mackintosh style.
+
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalWardrobeSingle.name=Black Metal Single Wardrobe
+mods.ExpandedFurniture.BlackMetalSet.BlackMetalWardrobeSingle.description=A sturdy piece in the Mackintosh style.
+

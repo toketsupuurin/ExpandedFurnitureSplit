@@ -1,0 +1,22 @@
+{
+  "__inherits": "staxel/docks/OneSeater_Stool.config",
+  "categories": [
+    "furniture",
+    "brown",
+    "basic",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "stool"
+  ],
+  "code": "mods.ExpandedFurniture.SimplySet.SimplyStool",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 64
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureSimplyPack/SimplySet/SimplyStool.qb"
+}

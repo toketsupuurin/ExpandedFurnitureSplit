@@ -1,0 +1,131 @@
+{
+    "file": "staxel/totems/CaithWitch.totem",
+    "priority": 500, 
+	//If you are a Modder: If you have to change this patch then set your priority number higher than mine in this file. If you want to use this patch as-is then set the number lower than I have it set here.
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch": {
+
+  "requiredCategories": {
+    "tier0": [
+      {
+        "category": "bed",
+        "count": 1
+      },
+      {
+        "category": "door",
+        "count": 2
+      },
+      {
+        "category": "table",
+        "count": 1
+      },
+      {
+        "category": "lamp",
+        "count": 2
+      },
+      {
+        "category": "wardrobe",
+        "count": 2
+      },
+      {
+        "category": "chair",
+        "count": 2
+      },
+      {
+        "category": "Bookshelf",
+        "count": 1
+      }
+    ],
+    "tier1": [
+      {
+        "category": "table",
+        "count": 2
+      },
+      {
+        "category": "lamp",
+        "count": 2
+      },
+      {
+        "category": "chair",
+        "count": 2
+      },
+      {
+        "category": "sofa",
+        "count": 1
+      }
+    ],
+    "tier2": [
+      {
+        "category": "table",
+        "count": 1
+      },
+      {
+        "category": "lamp",
+        "count": 1
+      },
+      {
+        "category": "chair",
+        "count": 1
+      }
+    ]
+  },
+  "requiredObjects": {
+    "tier0": [
+      {
+        "code": "staxel.tileObject.magic.Cauldron",
+        "count": 1
+      },
+    ],
+    "tier1": [
+      {
+        "code": "staxel.tileObject.potionShop.HerbRack",
+        "count": 3,
+        "questGate": "staxel.mainQuest.Cirahna.TheHundredFarmer"
+      },
+      {
+        "code": "staxel.tileObject.potionShop.MagicPotions",
+        "count": 2,
+        "questGate": "staxel.mainQuest.Cirahna.TheHundredFarmer"
+      },
+      {
+        "code": "staxel.tileObject.potionShop.MushroomBasket",
+        "count": 2,
+        "questGate": "staxel.mainQuest.Cirahna.TheHundredFarmer"
+      },
+      {
+        "code": "staxel.tileObject.potionShop.PotionShelf",
+        "count": 3,
+        "questGate": "staxel.mainQuest.Cirahna.TheHundredFarmer"
+      }
+    ],
+    "tier2": [
+      {
+        "code": "staxel.tileObject.potionShop.HerbRack",
+        "count": 1,
+        "questGate": "staxel.mainQuest.Cirahna.TheHundredFarmer"
+      },
+      {
+        "code": "staxel.tileObject.potionShop.MagicPotions",
+        "count": 1,
+        "questGate": "staxel.mainQuest.Cirahna.TheHundredFarmer"
+      },
+      {
+        "code": "staxel.tileObject.potionShop.MushroomBasket",
+        "count": 1,
+        "questGate": "staxel.mainQuest.Cirahna.TheHundredFarmer"
+      },
+      {
+        "code": "staxel.tileObject.potionShop.PotionShelf",
+        "count": 1,
+        "questGate": "staxel.mainQuest.Cirahna.TheHundredFarmer"
+      },
+      {
+        "code": "staxel.tileObject.crafting.MagicStation",
+        "count": 1,
+        "questGate": "staxel.mainQuest.Cirahna.TheHundredFarmer"
+      }
+    ]
+  },
+
+    }
+}

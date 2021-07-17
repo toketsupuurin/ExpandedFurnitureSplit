@@ -1,0 +1,28 @@
+{
+  "__inherits": "staxel/tileObject/decorativewall.config",
+  "categories": [
+    "wood",
+    "garden",
+    "gazebo",
+    "white",
+    "Simply",
+    "decoration"
+  ],
+  "code": "mods.ExpandedFurniture.SimplySet.SimplyGazeboBack",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 4,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 48,
+    "value": 120
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.LongGrassFootSteps",
+  "voxels": "mods/ExpandedFurnitureMiscPack/MiscSet/SimplyGazeboBack.qb"
+}

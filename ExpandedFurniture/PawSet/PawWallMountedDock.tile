@@ -1,0 +1,22 @@
+{
+  "__inherits": "staxel/docks/WallMountedShelf.config",
+  "categories": [
+    "container",
+    "storage",
+    "pet",
+    "furniture",
+    "shelf",
+    "yellow",
+    "brown"
+  ],
+  "code": "mods.ExpandedFurniture.PawSet.PawWallShelf",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurniture/PawSet/PawWallMountedDock.qb"
+}

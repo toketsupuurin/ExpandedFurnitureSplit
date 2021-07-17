@@ -1,0 +1,27 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "orange",
+    "vegetable",
+    "fruit",
+    "basic"
+  ],
+  "code": "mods.ExpandedFurniture.SimplySet.SimplyPumpkin",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 12,
+    "value": 20
+  },
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "staxel/tileObject/serverVillage/exterior/Pumpkin.qb"
+}

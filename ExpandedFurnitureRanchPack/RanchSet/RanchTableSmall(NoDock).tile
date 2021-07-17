@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/tileObject/noDock.config",
+  "categories": [
+    "furniture",
+    "brown",
+    "ranch",
+    "set",
+    "table",
+    "surface",
+    "dining",
+    "dinner",
+    "room"
+  ],
+  "code": "mods.ExpandedFurniture.RanchSet.RanchTableSmall(NoDock)",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 1,
+      "z": 2
+    },
+    "specification": "XC CC"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 250
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureRanchPack/RanchSet/RanchTableSmall.qb"
+}

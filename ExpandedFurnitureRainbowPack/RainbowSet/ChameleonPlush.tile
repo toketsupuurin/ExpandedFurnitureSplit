@@ -1,0 +1,232 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+	"grey",
+	"gray",
+	"chameleon",
+	"color",
+	"change",
+    "toy",
+    "misc"
+  ],
+  "code": "mods.ExpandedFurniture.RainbowSet.ChameleonPlush",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 1000,
+    "value": 10000
+  },
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureRainbowPack/RainbowSet/ChameleonGrey.qb",
+  "interactActionTrigger": "staxel.entityAction.BreakAndPickupAction",
+  "autoTileInfo": [
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "tileCategoriesToLookFor": [
+            "Red"
+          ]
+        },
+      ],
+      "results": [
+        {
+          "direction": "none",
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.RainbowSet.ChameleonPlushRed"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "tileCategoriesToLookFor": [
+            "Orange"
+          ]
+        },
+      ],
+      "results": [
+        {
+          "direction": "none",
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.RainbowSet.ChameleonPlushOrange"
+        }
+      ]
+    },
+	    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "tileCategoriesToLookFor": [
+            "Yellow"
+          ]
+        },
+      ],
+      "results": [
+        {
+          "direction": "none",
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.RainbowSet.ChameleonPlushYellow"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "tileCategoriesToLookFor": [
+            "Green"
+          ]
+        },
+      ],
+      "results": [
+        {
+          "direction": "none",
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.RainbowSet.ChameleonPlushGreen"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "tileCategoriesToLookFor": [
+            "Blue"
+          ]
+        },
+      ],
+      "results": [
+        {
+          "direction": "none",
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.RainbowSet.ChameleonPlushBlue"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "tileCategoriesToLookFor": [
+            "Purple"
+          ]
+        },
+      ],
+      "results": [
+        {
+          "direction": "none",
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.RainbowSet.ChameleonPlushPurple"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "tileCategoriesToLookFor": [
+            "Pink"
+          ]
+        },
+      ],
+      "results": [
+        {
+          "direction": "none",
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.RainbowSet.ChameleonPlushPink"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "tileCategoriesToLookFor": [
+            "Brown"
+          ]
+        },
+      ],
+      "results": [
+        {
+          "direction": "none",
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.RainbowSet.ChameleonPlushBrown"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "tileCategoriesToLookFor": [
+            "Black"
+          ]
+        },
+      ],
+      "results": [
+        {
+          "direction": "none",
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.RainbowSet.ChameleonPlushBlack"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "tileCategoriesToLookFor": [
+            "White"
+          ]
+        },
+      ],
+      "results": [
+        {
+          "direction": "none",
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.RainbowSet.ChameleonPlushWhite"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "tileCategoriesToLookFor": [
+            "grey",
+			"gray"
+          ]
+        },
+      ],
+      "results": [
+        {
+          "direction": "none",
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.RainbowSet.ChameleonPlush"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "tileCategoriesToLookFor": [
+            "Rainbow",
+            "rainbow"
+          ]
+        },
+      ],
+      "results": [
+        {
+          "direction": "none",
+          "rotation": 0,
+          "tileToPlace": "mods.ExpandedFurniture.RainbowSet.ChameleonPlushRainbow"
+        }
+      ]
+    },	
+  ],
+}

@@ -1,0 +1,14 @@
+{
+    "file": "staxel/tile/magic/Cloud.tile",
+    "priority": 100, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch": {
+		
+		"pricing": {
+			"catalogueUnlockedFromStart": false,
+			"appearsInCatalogue": true,
+			"buyable": true,
+		},
+		"searchable": true,
+    }
+}

@@ -1,0 +1,31 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "furniture",
+    "Groovy",
+    "orange",
+    "yellow",
+	"pink",
+    "set",
+    "carpet",
+	"rug",
+  ],
+  "code": "mods.ExpandedFurniture.GroovySet.GroovyCarpet3x3",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 1,
+      "z": 3
+    },
+    "specification": "EEE EXE EEE"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureGroovyPack/GroovySet/GroovyCarpet3x3.qb"
+}

@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/docks/ThreeSeater_Thick.config",
+  "categories": [
+    "furniture",
+    "brown",
+    "wicker",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "sofa",
+    "couch",
+    "love",
+    "loveseat",
+    "settee"
+  ],
+  "code": "mods.ExpandedFurniture.WickerSet.WickerSofa",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 630
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureWickerPack/WickerSet/WickerSofa.qb"
+}

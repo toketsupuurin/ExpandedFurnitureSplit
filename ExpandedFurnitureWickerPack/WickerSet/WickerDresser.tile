@@ -1,0 +1,33 @@
+{
+  "__inherits": "staxel/tileObject/wardrobe.config",
+  "categories": [
+    "furniture",
+    "brown",
+    "wicker",
+    "set",
+    "container",
+    "storage",
+    "chest",
+    "drawers",
+    "dresser",
+    "yorkshire"
+  ],
+  "code": "mods.ExpandedFurniture.WickerSet.WickerDresser",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 2,
+      "z": 1
+    },
+    "specification": "CC XC"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 630
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureWickerPack/WickerSet/WickerDresser.qb"
+}

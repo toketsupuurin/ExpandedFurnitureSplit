@@ -1,0 +1,35 @@
+{
+  "__inherits": "staxel/tileObject/noDock.config",
+  "categories": [
+    "furniture",
+    "black",
+    "spooky",
+    "set",
+    "table",
+    "surface",
+    "dining",
+    "dinner",
+    "room",
+	"silver",
+	"grey",
+	"gray"
+  ],
+  "code": "mods.ExpandedFurniture.SpookySet.SpookySilverTable(NoDock)",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 1,
+      "z": 2
+    },
+    "specification": "XC CC"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookySilverTable.qb"
+}

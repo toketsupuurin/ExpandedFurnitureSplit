@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "rainbow",
+	"lamp",
+	"purple",
+    "light"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.PurpleRainbowSet.PurpleRainbowCeilingLampBeaded",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "emissiveColor": "7E53BB",
+  "light": 2.2,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureLightingEdition/PurpleRainbowSet/PurpleRainbowCeilingLampBeaded.qb"
+}

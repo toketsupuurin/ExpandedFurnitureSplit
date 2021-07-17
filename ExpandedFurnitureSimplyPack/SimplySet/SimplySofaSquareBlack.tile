@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/docks/TwoSeater_Thick.config",
+  "categories": [
+    "basic",
+    "chair",
+    "seat",
+    "sit",
+    "furniture",
+    "sofa",
+    "couch",
+    "love",
+    "loveseat",
+    "settee",
+    "round",
+    "black"
+  ],
+  "code": "mods.ExpandedFurniture.SimplySet.SimplySofaSquareBlack.",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 5,
+    "value": 240
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureSimplyPack/SimplySet/SimplySofaSquareBlack.qb"
+}

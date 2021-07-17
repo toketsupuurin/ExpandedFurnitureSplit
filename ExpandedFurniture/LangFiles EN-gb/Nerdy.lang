@@ -1,0 +1,317 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.NerdySet.NerdyArmChair.name=Nerdy Arm Chair
+mods.ExpandedFurniture.NerdySet.NerdyArmChair.description=It's clicky.
+
+mods.ExpandedFurniture.NerdySet.NerdyBookshelf.name=Nerdy Bookshelf
+mods.ExpandedFurniture.NerdySet.NerdyBookshelf.description=Take control.
+
+mods.ExpandedFurniture.NerdySet.NerdyCandle.name=Nerdy Bug Candle
+mods.ExpandedFurniture.NerdySet.NerdyCandle.description=Virtual bug. Real candle.
+
+mods.ExpandedFurniture.NerdySet.NerdyCandle2.name=Nerdy Fish Candle
+mods.ExpandedFurniture.NerdySet.NerdyCandle2.description=Virtual fish. Real candle.
+
+mods.ExpandedFurniture.NerdySet.NerdyCarpet3x3.name=Nerdy Green Carpet
+mods.ExpandedFurniture.NerdySet.NerdyCarpet3x3.description=Virtually perfect.
+
+mods.ExpandedFurniture.NerdySet.NerdyCarpet23x3.name=Nerdy Red Carpet
+mods.ExpandedFurniture.NerdySet.NerdyCarpet23x3.description=Virtually perfect.
+
+mods.ExpandedFurniture.NerdySet.NerdyCarpet33x3.name=Nerdy Blue Carpet
+mods.ExpandedFurniture.NerdySet.NerdyCarpet33x3.description=Virtually perfect.
+
+mods.ExpandedFurniture.NerdySet.NerdyCarpet43x3.name=Nerdy Yellow Carpet
+mods.ExpandedFurniture.NerdySet.NerdyCarpet43x3.description=Virtually perfect.
+
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp.name=Nerdy VR Green Bug Ceiling Lamp
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp10.name=Nerdy Red Button Ceiling Lamp
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp10.description=Subtle lighting.
+
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp11.name=Nerdy Blue Button Ceiling Lamp
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp11.description=Subtle lighting.
+
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp12.name=Nerdy Yellow Button Ceiling Lamp
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp12.description=Subtle lighting.
+
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp13.name=Nerdy White Button Ceiling Lamp
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp13.description=Subtle lighting.
+
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp2.name=Nerdy VR Red Bug Ceiling Lamp
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp2.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp3.name=Nerdy VR Blue Bug Ceiling Lamp
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp3.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp4.name=Nerdy VR Yellow Bug Ceiling Lamp
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp4.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp5.name=Nerdy VR Green Fish Ceiling Lamp
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp5.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp6.name=Nerdy VR Red Fish Ceiling Lamp
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp6.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp7.name=Nerdy VR Blue Fish Ceiling Lamp
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp7.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp8.name=Nerdy VR Yellow Fish Ceiling Lamp
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp8.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp9.name=Nerdy Green Button Ceiling Lamp
+mods.ExpandedFurniture.NerdySet.NerdyCeilingLamp9.description=Subtle lighting.
+
+mods.ExpandedFurniture.NerdySet.NerdyChair.name=Nerdy Chair
+mods.ExpandedFurniture.NerdySet.NerdyChair.description=It's clicky.
+
+mods.ExpandedFurniture.NerdySet.NerdyChandelier.name=Nerdy Bug Chandelier
+mods.ExpandedFurniture.NerdySet.NerdyChandelier.description=Gotta catch 'em all!
+
+mods.ExpandedFurniture.NerdySet.NerdyChandelier2.name=Nerdy Fish Chandelier
+mods.ExpandedFurniture.NerdySet.NerdyChandelier2.description=Gotta catch 'em all!
+
+mods.ExpandedFurniture.NerdySet.NerdyChandelier3.name=Nerdy Chandelier
+mods.ExpandedFurniture.NerdySet.NerdyChandelier3.description=Gotta catch 'em all!
+
+mods.ExpandedFurniture.NerdySet.NerdyCoffeeTable(NoDock).name=Nerdy Coffee Table (No Dock)
+mods.ExpandedFurniture.NerdySet.NerdyCoffeeTable(NoDock).description=Dockless. Get control.
+
+mods.ExpandedFurniture.NerdySet.NerdyCoffeeTableLoveseat.name=Nerdy Coffee Table (Loveseat)
+mods.ExpandedFurniture.NerdySet.NerdyCoffeeTableLoveseat.description=Take control.
+
+mods.ExpandedFurniture.NerdySet.NerdyCoffeeTable.name=Nerdy Coffee Table (Sofa)
+mods.ExpandedFurniture.NerdySet.NerdyCoffeeTable.description=Take control.
+
+mods.ExpandedFurniture.NerdySet.NerdyCredenza.name=Nerdy Credenza
+mods.ExpandedFurniture.NerdySet.NerdyCredenza.description=Take control.
+
+mods.ExpandedFurniture.NerdySet.NerdyDesk(NoDock).name=Nerdy Desk (No Dock)
+mods.ExpandedFurniture.NerdySet.NerdyDesk(NoDock).description=Dockless. Take control.
+
+mods.ExpandedFurniture.NerdySet.NerdyDesk.name=Nerdy Desk
+mods.ExpandedFurniture.NerdySet.NerdyDesk.description=Take control.
+
+mods.ExpandedFurniture.NerdySet.NerdyDisplay.name=Nerdy Green Display
+mods.ExpandedFurniture.NerdySet.NerdyDisplay.description=Show off your achievements.
+
+mods.ExpandedFurniture.NerdySet.NerdyDisplay2.name=Nerdy Red Display
+mods.ExpandedFurniture.NerdySet.NerdyDisplay2.description=Show off your achievements.
+
+mods.ExpandedFurniture.NerdySet.NerdyDisplay3.name=Nerdy White Display
+mods.ExpandedFurniture.NerdySet.NerdyDisplay3.description=Show off your achievements.
+
+mods.ExpandedFurniture.NerdySet.NerdyTableSword.name=Nerdy Table Display Sword
+mods.ExpandedFurniture.NerdySet.NerdyTableSword.description=The Master Blade. (It's a replica.)
+
+mods.ExpandedFurniture.NerdySet.NerdyDoubleBed(NoDock).name=Nerdy Green Double Bed (No Dock)
+mods.ExpandedFurniture.NerdySet.NerdyDoubleBed(NoDock).description=Dockless. Virtually perfect.
+
+mods.ExpandedFurniture.NerdySet.NerdyDoubleBed.name=Nerdy Green Double Bed
+mods.ExpandedFurniture.NerdySet.NerdyDoubleBed.description=Virtually perfect.
+
+mods.ExpandedFurniture.NerdySet.NerdyDoubleBed2(NoDock).name=Nerdy Red Double Bed (No Dock)
+mods.ExpandedFurniture.NerdySet.NerdyDoubleBed2(NoDock).description=Dockless. Virtually perfect.
+
+mods.ExpandedFurniture.NerdySet.NerdyDoubleBed2.name=Nerdy Red Double Bed
+mods.ExpandedFurniture.NerdySet.NerdyDoubleBed2.description=Virtually perfect.
+
+mods.ExpandedFurniture.NerdySet.NerdyDoubleBed3(NoDock).name=Nerdy Blue Double Bed (No Dock)
+mods.ExpandedFurniture.NerdySet.NerdyDoubleBed3(NoDock).description=Dockless. Virtually perfect.
+
+mods.ExpandedFurniture.NerdySet.NerdyDoubleBed3.name=Nerdy Blue Double Bed
+mods.ExpandedFurniture.NerdySet.NerdyDoubleBed3.description=Virtually perfect.
+
+mods.ExpandedFurniture.NerdySet.NerdyDoubleBed4(NoDock).name=Nerdy Yellow Double Bed (No Dock)
+mods.ExpandedFurniture.NerdySet.NerdyDoubleBed4(NoDock).description=Dockless. Virtually perfect.
+
+mods.ExpandedFurniture.NerdySet.NerdyDoubleBed4.name=Nerdy Yellow Double Bed
+mods.ExpandedFurniture.NerdySet.NerdyDoubleBed4.description=Virtually perfect.
+
+mods.ExpandedFurniture.NerdySet.NerdyDresser.name=Nerdy Dresser
+mods.ExpandedFurniture.NerdySet.NerdyDresser.description=Take control.
+
+mods.ExpandedFurniture.NerdySet.NerdyFootLamp.name=Nerdy Green Bug Foot Lamp
+mods.ExpandedFurniture.NerdySet.NerdyFootLamp.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyFootLamp2.name=Nerdy Red Bug Foot Lamp
+mods.ExpandedFurniture.NerdySet.NerdyFootLamp2.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyFootLamp3.name=Nerdy Blue Bug Foot Lamp
+mods.ExpandedFurniture.NerdySet.NerdyFootLamp3.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyFootLamp4.name=Nerdy Yellow Bug Foot Lamp
+mods.ExpandedFurniture.NerdySet.NerdyFootLamp4.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyFootLamp5.name=Nerdy Green Fish Foot Lamp
+mods.ExpandedFurniture.NerdySet.NerdyFootLamp5.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyFootLamp6.name=Nerdy Red Fish Foot Lamp
+mods.ExpandedFurniture.NerdySet.NerdyFootLamp6.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyFootLamp7.name=Nerdy Blue Fish Foot Lamp
+mods.ExpandedFurniture.NerdySet.NerdyFootLamp7.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyFootLamp8.name=Nerdy Yellow Fish Foot Lamp
+mods.ExpandedFurniture.NerdySet.NerdyFootLamp8.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyFuton.name=Nerdy Futon
+mods.ExpandedFurniture.NerdySet.NerdyFuton.description=It's clicky.
+
+mods.ExpandedFurniture.NerdySet.NerdyLamp.name=Nerdy Green Bug Lamp
+mods.ExpandedFurniture.NerdySet.NerdyLamp.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyLamp2.name=Nerdy Red Bug Lamp
+mods.ExpandedFurniture.NerdySet.NerdyLamp2.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyLamp3.name=Nerdy Blue Bug Lamp
+mods.ExpandedFurniture.NerdySet.NerdyLamp3.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyLamp4.name=Nerdy Yellow Bug Lamp
+mods.ExpandedFurniture.NerdySet.NerdyLamp4.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyLamp5.name=Nerdy Green Fish Lamp
+mods.ExpandedFurniture.NerdySet.NerdyLamp5.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyLamp6.name=Nerdy Red Fish Lamp
+mods.ExpandedFurniture.NerdySet.NerdyLamp6.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyLamp7.name=Nerdy Blue Fish Lamp
+mods.ExpandedFurniture.NerdySet.NerdyLamp7.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyLamp8.name=Nerdy Yellow Fish Lamp
+mods.ExpandedFurniture.NerdySet.NerdyLamp8.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyLongStool.name=Nerdy Long Stool
+mods.ExpandedFurniture.NerdySet.NerdyLongStool.description=It's clicky.
+
+mods.ExpandedFurniture.NerdySet.NerdyLoveseat.name=Nerdy Loveseat
+mods.ExpandedFurniture.NerdySet.NerdyLoveseat.description=It's clicky.
+
+mods.ExpandedFurniture.NerdySet.NerdyMagicItem.name=Nerdy Air Magic Item
+mods.ExpandedFurniture.NerdySet.NerdyMagicItem.description=It's a replica.
+
+mods.ExpandedFurniture.NerdySet.NerdyMagicItem2.name=Nerdy Fire Magic Item
+mods.ExpandedFurniture.NerdySet.NerdyMagicItem2.description=It's a replica.
+
+mods.ExpandedFurniture.NerdySet.NerdyMagicItem3.name=Nerdy Water Magic Item
+mods.ExpandedFurniture.NerdySet.NerdyMagicItem3.description=It's a replica.
+
+mods.ExpandedFurniture.NerdySet.NerdyMagicItem4.name=Nerdy Earth Magic Item
+mods.ExpandedFurniture.NerdySet.NerdyMagicItem4.description=It's a replica.
+
+mods.ExpandedFurniture.NerdySet.NerdyMagicItem5.name=Nerdy Air Sigil
+mods.ExpandedFurniture.NerdySet.NerdyMagicItem5.description=It's a replica.
+
+mods.ExpandedFurniture.NerdySet.NerdyMagicItem6.name=Nerdy Fire Sigil
+mods.ExpandedFurniture.NerdySet.NerdyMagicItem6.description=It's a replica.
+
+mods.ExpandedFurniture.NerdySet.NerdyMagicItem7.name=Nerdy Water Sigil
+mods.ExpandedFurniture.NerdySet.NerdyMagicItem7.description=It's a replica.
+
+mods.ExpandedFurniture.NerdySet.NerdyMagicItem8.name=Nerdy Earth Sigil.
+mods.ExpandedFurniture.NerdySet.NerdyMagicItem8.description=It's a replica.
+
+mods.ExpandedFurniture.NerdySet.NerdyShortDisplay.name=Nerdy Short Green Display
+mods.ExpandedFurniture.NerdySet.NerdyShortDisplay.description=Show off your achievements.
+
+mods.ExpandedFurniture.NerdySet.NerdyShortDisplay2.name=Nerdy Short Red Display
+mods.ExpandedFurniture.NerdySet.NerdyShortDisplay2.description=Show off your achievements.
+
+mods.ExpandedFurniture.NerdySet.NerdyShortDisplay3.name=Nerdy Short White Display
+mods.ExpandedFurniture.NerdySet.NerdyShortDisplay3.description=Show off your achievements.
+
+mods.ExpandedFurniture.NerdySet.NerdySideTable(NoDock).name=Nerdy Directional Side Table (No Dock)
+mods.ExpandedFurniture.NerdySet.NerdySideTable(NoDock).description=Dockless. Take control.
+
+mods.ExpandedFurniture.NerdySet.NerdySideTable.name=Nerdy Directional Side Table
+mods.ExpandedFurniture.NerdySet.NerdySideTable.description=Take control.
+
+mods.ExpandedFurniture.NerdySet.NerdySideTable2(NoDock).name=Nerdy Button Side Table (NoDock)
+mods.ExpandedFurniture.NerdySet.NerdySideTable2(NoDock).description=Dockless. Take control.
+
+mods.ExpandedFurniture.NerdySet.NerdySideTable2.name=Nerdy Button Side Table
+mods.ExpandedFurniture.NerdySet.NerdySideTable2.description=Take control.
+
+mods.ExpandedFurniture.NerdySet.NerdySingleBed(NoDock).name=Nerdy Green Single Bed (No Dock)
+mods.ExpandedFurniture.NerdySet.NerdySingleBed(NoDock).description=Dockless. Virtually perfect.
+
+mods.ExpandedFurniture.NerdySet.NerdySingleBed.name=Nerdy Green Single Bed
+mods.ExpandedFurniture.NerdySet.NerdySingleBed.description=Virtually perfect.
+
+mods.ExpandedFurniture.NerdySet.NerdySingleBed2(NoDock).name=Nerdy Red Single Bed (No Dock)
+mods.ExpandedFurniture.NerdySet.NerdySingleBed2(NoDock).description=Dockless. Virtually perfect.
+
+mods.ExpandedFurniture.NerdySet.NerdySingleBed2.name=Nerdy Red Single Bed
+mods.ExpandedFurniture.NerdySet.NerdySingleBed2.description=Virtually perfect.
+
+mods.ExpandedFurniture.NerdySet.NerdySingleBed3(NoDock).name=Nerdy Blue Single Bed (No Dock)
+mods.ExpandedFurniture.NerdySet.NerdySingleBed3(NoDock).description=Dockless. Virtually perfect.
+
+mods.ExpandedFurniture.NerdySet.NerdySingleBed3.name=Nerdy Blue Single Bed
+mods.ExpandedFurniture.NerdySet.NerdySingleBed3.description=Virtually perfect.
+
+mods.ExpandedFurniture.NerdySet.NerdySingleBed4(NoDock).name=Nerdy Yellow Single Bed (No Dock)
+mods.ExpandedFurniture.NerdySet.NerdySingleBed4(NoDock).description=Dockless. Virtually perfect.
+
+mods.ExpandedFurniture.NerdySet.NerdySingleBed4.name=Nerdy Yellow Single Bed
+mods.ExpandedFurniture.NerdySet.NerdySingleBed4.description=Virtually perfect.
+
+mods.ExpandedFurniture.NerdySet.NerdySofa.name=Nerdy Sofa
+mods.ExpandedFurniture.NerdySet.NerdySofa.description=It's clicky.
+
+mods.ExpandedFurniture.NerdySet.NerdyStool.name=Nerdy Stool
+mods.ExpandedFurniture.NerdySet.NerdyStool.description=Directly nerdy.
+
+mods.ExpandedFurniture.NerdySet.NerdyTableLarge.name=Nerdy Large Table
+mods.ExpandedFurniture.NerdySet.NerdyTableLarge.description=Take control.
+
+mods.ExpandedFurniture.NerdySet.NerdyTableLarge(NoDock).name=Nerdy Large Table (No Dock)
+mods.ExpandedFurniture.NerdySet.NerdyTableLarge(NoDock).description=Dockless. Take control.
+
+mods.ExpandedFurniture.NerdySet.NerdyTable(NoDock).name=Nerdy Table (No Dock)
+mods.ExpandedFurniture.NerdySet.NerdyTable(NoDock).description=Dockless. Take control.
+
+mods.ExpandedFurniture.NerdySet.NerdyTVStand.name=Nerdy TV Stand
+mods.ExpandedFurniture.NerdySet.NerdyTVStand.description=Take control.
+
+mods.ExpandedFurniture.NerdySet.NerdyVanity.name=Nerdy Vanity
+mods.ExpandedFurniture.NerdySet.NerdyVanity.description=Take control.
+
+mods.ExpandedFurniture.NerdySet.NerdyWallLamp.name=Nerdy Green Bug Wall Lamp
+mods.ExpandedFurniture.NerdySet.NerdyWallLamp.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyWallLamp2.name=Nerdy Red Bug Wall Lamp
+mods.ExpandedFurniture.NerdySet.NerdyWallLamp2.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyWallLamp3.name=Nerdy Blue Bug Wall Lamp
+mods.ExpandedFurniture.NerdySet.NerdyWallLamp3.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyWallLamp4.name=Nerdy Yellow Bug Wall Lamp
+mods.ExpandedFurniture.NerdySet.NerdyWallLamp4.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyWallLamp5.name=Nerdy Green Fish Wall Lamp
+mods.ExpandedFurniture.NerdySet.NerdyWallLamp5.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyWallLamp6.name=Nerdy Red Fish Wall Lamp
+mods.ExpandedFurniture.NerdySet.NerdyWallLamp6.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyWallLamp7.name=Nerdy Blue Fish Wall Lamp
+mods.ExpandedFurniture.NerdySet.NerdyWallLamp7.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyWallLamp8.name=Nerdy Yellow Fish Wall Lamp
+mods.ExpandedFurniture.NerdySet.NerdyWallLamp8.description=Bring VR into your life.
+
+mods.ExpandedFurniture.NerdySet.NerdyWallShelf.name=Nerdy Shelf
+mods.ExpandedFurniture.NerdySet.NerdyWallShelf.description=Take control.
+
+mods.ExpandedFurniture.NerdySet.NerdyWallSword.name=Nerdy Wall Display Sword
+mods.ExpandedFurniture.NerdySet.NerdyWallSword.description=The Master Blade. (It's a replica.)
+
+mods.ExpandedFurniture.NerdySet.NerdyWardrobeDouble.name=Nerdy Double Wardrobe
+mods.ExpandedFurniture.NerdySet.NerdyWardrobeDouble.description=Take control.
+
+mods.ExpandedFurniture.NerdySet.NerdyWardrobeSingle.name=Nerdy Single Wardrobe
+mods.ExpandedFurniture.NerdySet.NerdyWardrobeSingle.description=Take control.

@@ -1,0 +1,34 @@
+{
+  "__inherits": "mods/ExpandedFurniture/ConfigsDocks/PawFuton.config",
+  "categories": [
+    "furniture",
+    "yellow",
+    "brown",
+    "pet",
+	"pillow",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "futon",
+    "sofa",
+    "couch",
+	"carrot",
+    "love",
+    "loveseat",
+	"chaise",
+	"chaise longue",
+	"chaise lounge",
+	"lounge",
+    "settee"
+  ],
+  "code": "mods.ExpandedFurniture.PawSet.PawFuton3",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurniture/PawSet/PawFuton3.qb"
+}

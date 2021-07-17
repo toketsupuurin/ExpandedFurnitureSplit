@@ -1,0 +1,24 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "wall",
+    "lamp",
+    "yellow",
+    "brown",
+    "pet"
+  ],
+  "code": "mods.ExpandedFurniture.PawSet.PawWallLamp",
+  "emissiveColor": "fff7EFCF",
+  "light": 7.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurniture/PawSet/PawWallLamp.qb"
+}

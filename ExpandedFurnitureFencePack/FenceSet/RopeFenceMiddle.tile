@@ -1,0 +1,39 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "xp",
+    "xn"
+  ],
+  "categories": [
+    "fence",
+    "misc",
+    "brown",
+    "rope",
+    "EF",
+    "EFMiddle",
+    "middle"
+  ],
+  "code": "mods.ExpandedFurniture.FenceSet.EFRopeFenceMiddle",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "placementDirections": [
+    "xp",
+    "xn"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 2,
+    "value": 20
+  },
+  "randomizePosition": false,
+  "representativeTile": "mods.ExpandedFurniture.FenceSet.EFRopeFenceStraight",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureFencePack/FenceSet/RopeFenceMiddle.qb"
+}

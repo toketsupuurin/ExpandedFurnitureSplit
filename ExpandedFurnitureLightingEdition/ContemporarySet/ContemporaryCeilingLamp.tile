@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "contemporary",
+	"lamp",
+    "silver",
+    "grey",
+    "gray",
+    "light"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.ContemporarySet.ContemporaryCeilingLamp",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "emissiveColor": "fff7EFCF",
+  "light": 2.2,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureLightingEdition/ContemporarySet/ContemporaryCeilingLamp.qb"
+}

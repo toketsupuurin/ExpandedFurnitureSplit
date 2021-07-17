@@ -1,0 +1,31 @@
+{
+  "__inherits": "staxel/tileObject/vanity.config",
+  "categories": [
+    "furniture",
+    "white",
+    "belle",
+    "epoche",
+    "set",
+    "vanity",
+    "dressing",
+    "mirror",
+    "table"
+  ],
+  "code": "mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheVanity",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureBelleEpochePack/BelleEpocheSet/BelleEpocheVanity.qb"
+}

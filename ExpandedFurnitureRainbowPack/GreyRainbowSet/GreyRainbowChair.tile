@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/docks/OneSeater_TallChair.config",
+  "categories": [
+    "furniture",
+    "grey",
+    "gray",
+    "rainbow",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "dining",
+    "dinner",
+    "room"
+  ],
+  "code": "mods.ExpandedFurniture.GreyRainbowSet.GreyRainbowChair",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureRainbowPack/GreyRainbowSet/GreyRainbowChair.qb"
+}

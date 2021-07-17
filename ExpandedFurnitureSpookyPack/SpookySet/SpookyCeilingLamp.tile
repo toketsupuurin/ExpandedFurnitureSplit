@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "spooky",
+	"lamp",
+	"purple",
+	"silver",
+	"grey",
+	"gray",
+    "light"
+  ],
+  "code": "mods.ExpandedFurniture.SpookySet.SpookyCeilingLamp",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "emissiveColor": "7242B3",
+  "light": 2.2,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookyCeilingLamp.qb"
+}

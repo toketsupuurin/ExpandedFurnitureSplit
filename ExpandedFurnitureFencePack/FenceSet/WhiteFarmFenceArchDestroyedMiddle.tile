@@ -1,0 +1,41 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "xp",
+    "xn"
+  ],
+  "categories": [
+    "fence",
+    "misc",
+    "white",
+    "farm",
+    "gate",
+    "destroyed",
+    "EF",
+    "EFMiddle",
+    "middle"
+  ],
+  "code": "mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchDestroyedMiddle",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "placementDirections": [
+    "xp",
+    "xn"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 12,
+    "value": 20
+  },
+  "randomizePosition": false,
+  "representativeTile": "mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchDestroyedStraight",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureFencePack/FenceSet/WhiteFarmFenceArchDestroyedMiddle.qb"
+}

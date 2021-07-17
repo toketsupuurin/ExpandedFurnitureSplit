@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/docks/SingleBed.config",
+  "categories": [
+    "furniture",
+    "green",
+    "white",
+    "fey",
+    "set",
+    "bed",
+    "bunk",
+    "sleep",
+    "single"
+  ],
+  "code": "mods.ExpandedFurniture.FeySet.FeySingleBed",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 3,
+      "z": 3
+    },
+    "specification": "CCC CCC CCCCCC CCC CCCCCC CXC CCC"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 2280,
+    "value": 3800
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureFestivalPack/FeySet/FeySingleBed.qb"
+}

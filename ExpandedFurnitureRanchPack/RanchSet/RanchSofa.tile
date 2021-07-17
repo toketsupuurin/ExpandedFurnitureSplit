@@ -1,0 +1,29 @@
+{
+  "__inherits": "staxel/docks/ThreeSeater_Thick.config",
+  "categories": [
+    "furniture",
+    "white",
+    "red",
+    "green",
+	"pillow",
+    "ranch",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "sofa",
+    "couch",
+    "love",
+    "loveseat",
+    "settee"
+  ],
+  "code": "mods.ExpandedFurniture.RanchSet.RanchSofa",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 250
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureRanchPack/RanchSet/RanchSofa.qb"
+}

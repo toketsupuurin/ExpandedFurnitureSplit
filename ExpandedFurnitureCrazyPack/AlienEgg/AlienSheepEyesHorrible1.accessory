@@ -1,0 +1,11 @@
+{
+  "availableInChargen": false,
+  "bodyType": [
+    "staxel.bodyType.Sheep"
+  ],
+  "code": "mods.ExpandedFurniture.AlienEgg.eyes.Sheep.horrible.1",
+  "kind": "Eyes",
+  "model": "mods/ExpandedFurnitureCrazyPack/AlienEgg/AlienSheepEyesHorrible1.qb",
+  "palettes": [],
+  "searchable": false
+}

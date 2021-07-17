@@ -1,0 +1,30 @@
+{
+  "__inherits": "staxel/tileObject/noDock.config",
+   "categories": [
+    "furniture",
+    "victorian",
+    "red",
+    "wood",
+    "set",
+    "bed",
+    "sleep",
+    "single"
+  ],
+  "code": "mods.ExpandedFurniture.VictorianSet.VictorianSingleBed(NoDock)",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 3,
+      "z": 3
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "staxel/tileObject/themedfurniture/victorian/VictorianSingleBed.qb"
+}

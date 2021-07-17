@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/tileObject/noDock.config",
+  "categories": [
+    "furniture",
+    "brown",
+    "wicker",
+    "set",
+    "bed",
+    "sleep",
+    "double",
+	"queen",
+	"king",
+  ],
+  "code": "mods.ExpandedFurniture.WickerSet.WickerDoubleBed(NoDock)",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 1,
+      "z": 3
+    },
+    "specification": "CCC CXC CCC"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 630
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureWickerPack/WickerSet/WickerDoubleBed.qb"
+}

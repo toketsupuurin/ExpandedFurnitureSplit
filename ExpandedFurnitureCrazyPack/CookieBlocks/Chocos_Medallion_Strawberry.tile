@@ -1,0 +1,24 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+
+
+    "medallion",
+    "chocolate",
+    "Chocos",
+    "Oreo",
+    "cookie",
+    "black",
+    "candy"
+  ],
+  "code": "mods.ExpandedFurniture.CookieBlocks.Chocos_Medallion_Strawberry",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 500
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureCrazyPack/CookieBlocks/Chocos_Medallion_Strawberry.qb"
+}

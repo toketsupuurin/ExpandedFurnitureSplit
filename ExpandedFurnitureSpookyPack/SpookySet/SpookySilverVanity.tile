@@ -1,0 +1,33 @@
+{
+  "__inherits": "staxel/tileObject/vanity.config",
+  "categories": [
+    "furniture",
+    "black",
+    "spooky",
+    "set",
+    "vanity",
+    "dressing",
+    "mirror",
+    "table",
+	"silver",
+	"grey",
+	"gray"
+  ],
+  "code": "mods.ExpandedFurniture.SpookySet.SpookySilverVanity",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookySilverVanity.qb"
+}

@@ -1,0 +1,40 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "yp"
+  ],
+  "categories": [
+    "furniture",
+	"Paw",
+	"carpet",
+	"rug",
+    "brown",
+	"yellow"
+  ],
+  "code": "mods.ExpandedFurniture.PawSet.PawCarpet1x3",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 1,
+      "z": 1
+    },
+    "specification": "EXE"
+  },
+  "placementDirections": [
+    "yn",
+    "yp",
+    "xp",
+    "xn",
+    "zp",
+    "zn"
+  ],
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurniture/PawSet/PawCarpet1x3.qb"
+}

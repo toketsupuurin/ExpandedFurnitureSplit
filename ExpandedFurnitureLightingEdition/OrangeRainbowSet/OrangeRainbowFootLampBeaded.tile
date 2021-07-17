@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "basic",
+    "light",
+    "lightsource",
+    "lighting",
+    "lamp",
+    "floor",
+    "foot",
+	"torchiere",
+    "orange"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.OrangeRainbowSet.OrangeRainbowFootLampBeaded",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 3,
+      "z": 1
+    }
+  },
+  "emissiveColor": "7C7F4F",
+  "light": 10.0,
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureLightingEdition/OrangeRainbowSet/OrangeRainbowFootLampBeaded.qb"
+}

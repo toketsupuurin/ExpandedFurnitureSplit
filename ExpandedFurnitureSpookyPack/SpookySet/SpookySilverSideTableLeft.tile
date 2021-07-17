@@ -1,0 +1,34 @@
+{
+  "__inherits": "staxel/docks/SideTable.config",
+  "categories": [
+    "furniture",
+    "black",
+    "spooky",
+    "set",
+    "table",
+    "surface",
+    "bedside",
+    "side",
+ 	"silver",
+	"grey",
+	"gray",
+   "nightstand"
+  ],
+  "code": "mods.ExpandedFurniture.SpookySet.SpookySilverSideTableLeft",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 3,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureSpookyPack/SpookySet/SpookySilverSideTableLeft.qb"
+}

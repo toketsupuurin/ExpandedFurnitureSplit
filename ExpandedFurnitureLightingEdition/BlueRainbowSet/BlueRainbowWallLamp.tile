@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "wall",
+    "lamp",
+    "blue",
+    "rainbow"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.BlueRainbowSet.BlueRainbowWallLamp",
+  "emissiveColor": "559FCA",
+  "light": 7.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureLightingEdition/BlueRainbowSet/BlueRainbowWallLamp.qb"
+}

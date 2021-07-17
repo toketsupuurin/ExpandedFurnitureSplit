@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "mushroom",
+	"lamp",
+	"orange",
+    "light",
+	"chandelier"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.MushroomSet.MushroomChandelier4",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "emissiveColor": "D97D14",
+  "light": 20,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureLightingEdition/MushroomSet/MushroomChandelier4.qb",
+  "compound": {
+  "size": {
+    "x": 3,
+    "y": 1,
+    "z": 3
+  },
+  "specification": "CCC CXC CCC"
+  },
+}

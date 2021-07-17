@@ -1,0 +1,47 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachToBelow": false,
+  "attachmentDirections": [
+    "yp",
+    "yn",
+    "zp",
+    "zn"
+  ],
+  "categories": [
+    "cookie",
+    "window",
+    "frame",
+    "lollipop",
+    "red",
+    "green",
+    "white",
+    "yellow",
+    "candycane",
+    "candy",
+    "cane"
+  ],
+  "code": "mods.ExpandedFurniture.CookieBlocks.SugarWindow",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 2
+    },
+    "specification": "CCXC"
+  },
+  "placementDirections": [
+    "yp",
+    "yn",
+    "zp",
+    "zn"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 500
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureCrazyPack/CookieBlocks/SugarWindow.qb"
+}

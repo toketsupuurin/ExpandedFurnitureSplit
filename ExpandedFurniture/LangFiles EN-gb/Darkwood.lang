@@ -1,0 +1,104 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodBed(NoDock).name=Darkwood Bed (No Dock)
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodBed(NoDock).description=A dockless, homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodBookshelf.name=Darkwood Bookshelf
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodBookshelf.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodCandle.name=Darkwood Brass Candle
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodCandle.description=An elegant candle with an aged brass stand.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodCandle2.name=Darkwood Glass Candle
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodCandle2.description=An elegant candle with rippled glass.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodCarpet3x3.name=Darkwood Carpet
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodCarpet3x3.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodCeilingLamp.name=Darkwood Ceiling Lamp
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodCeilingLamp.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodCeilingLamp2.name=Darkwood White Ceiling Lamp
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodCeilingLamp2.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodChandelier.name=Darkwood Chandelier
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodChandelier.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodChandelier2.name=Darkwood White Chandelier
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodChandelier2.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodCoffeeTable(NoDock).name=Darkwood Coffee Table (No Dock)
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodCoffeeTable(NoDock).description=A dockless, homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodCoffeeTableLoveseat.name=Darkwood Coffee Table (Loveseat)
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodCoffeeTableLoveseat.description=A homey yet elegant piece.
+
+staxel.tileObject.villagers.rewards.Emilia.DarkwoodCoffeeTable.name=Darkwood Coffee Table (Sofa)
+staxel.tileObject.villagers.rewards.Emilia.DarkwoodCoffeeTable.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodDesk(NoDock).name=Darkwood Desk (No Dock)
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodDesk(NoDock).description=A dockless, homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodDoubleBed(NoDock).name=Darkwood Double Bed (No Dock)
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodDoubleBed(NoDock).description=A dockless, homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodDoubleBed.name=Darkwood Double Bed
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodDoubleBed.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodDresser.name=Darkwood Dresser
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodDresser.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodFootLamp.name=Darkwood Foot Lamp
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodFootLamp.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodFootLamp2.name=Darkwood White Foot Lamp
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodFootLamp2.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodFuton.name=Darkwood Futon
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodFuton.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodLamp.name=Darkwood Lamp
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodLamp.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodLamp2.name=Darkwood White Lamp
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodLamp2.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodLongStool.name=Darkwood Long Stool
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodLongStool.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodSideTable(NoDock).name=Darkwood Side Table (No Dock)
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodSideTable(NoDock).description=A dockless, homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodSofa.name=Darkwood Sofa
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodSofa.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodTableLarge.name=Darkwood Large Table
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodTableLarge.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodTableLarge(NoDock).name=Darkwood Large Table (No Dock)
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodTableLarge(NoDock).description=A dockless homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodTable(NoDock).name=Darkwood Table (No Dock)
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodTable(NoDock).description=A dockless homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodTVStand.name=Darkwood TV Stand
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodTVStand.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodVanity.name=Darkwood Vanity
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodVanity.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodWallLamp.name=Darkwood Single Wall Lamp
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodWallLamp.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodWallLamp2.name=Darkwood Double Wall Lamp
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodWallLamp2.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodWallShelf.name=Darkwood Shelf
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodWallShelf.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodWardrobeDouble.name=Darkwood Double Wardrobe
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodWardrobeDouble.description=A homey yet elegant piece.
+
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodWardrobeSingle.name=Darkwood Single Wardrobe
+mods.ExpandedFurniture.DarkwoodSet.DarkwoodWardrobeSingle.description=A homey yet elegant piece.

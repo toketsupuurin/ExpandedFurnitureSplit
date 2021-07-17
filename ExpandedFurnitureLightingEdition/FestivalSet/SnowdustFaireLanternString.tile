@@ -1,0 +1,38 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "festival",
+	"lamp",
+	"lantern",
+    "light",
+    "lightsource",
+    "lighting",
+	"snow",
+	"dust",
+	"snowdust",
+	"yellow",
+	"red"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.FestivalSet.SnowdustFaireLanternString",
+  "compound": {
+    "size": {
+      "x": 6,
+      "y": 1,
+      "z": 1
+    },
+    "specification": "CCCXCC"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "emissiveColor": "ffE6B626",
+  "light": 1.5,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureLightingEdition/FestivalSet/SnowdustFaireLanternString.qb"
+}

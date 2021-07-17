@@ -1,0 +1,13 @@
+{
+    "file": "mods/EvenMoreShelves/SeasonalShelves/SummerBookShelf.tile",
+	"patchIfFileExists": "mods/EvenMoreShelves/SeasonalShelves/SummerBookShelf.tile",
+    "priority": 999, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch": {
+
+		"categories": [
+			"Bookshelf",
+		],
+
+    }
+}

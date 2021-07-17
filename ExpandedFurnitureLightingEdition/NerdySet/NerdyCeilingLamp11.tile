@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "nerdy",
+	"lamp",
+	"blue",
+    "light"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.NerdySet.NerdyCeilingLamp11",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "emissiveColor": "1089BD",
+  "light": 2.2,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureLightingEdition/NerdySet/NerdyCeilingLamp11.qb"
+}

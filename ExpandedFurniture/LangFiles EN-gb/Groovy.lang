@@ -1,0 +1,89 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.GroovySet.GroovyBookshelf.name=Groovy Bookshelf
+mods.ExpandedFurniture.GroovySet.GroovyBookshelf.description=Sunny and happy!
+
+mods.ExpandedFurniture.GroovySet.GroovyCandle.name=Groovy Round Candle
+mods.ExpandedFurniture.GroovySet.GroovyCandle.description=Little wax spheres.
+
+mods.ExpandedFurniture.GroovySet.GroovyCandle2.name=Groovy Square Candle
+mods.ExpandedFurniture.GroovySet.GroovyCandle2.description=Little wax cubes.
+
+mods.ExpandedFurniture.GroovySet.GroovyCarpet3x3.name=Groovy Carpet
+mods.ExpandedFurniture.GroovySet.GroovyCarpet3x3.description=Psychadelic.
+
+mods.ExpandedFurniture.GroovySet.GroovyCeilingLamp.name=Groovy Square Ceiling Lamp
+mods.ExpandedFurniture.GroovySet.GroovyCeilingLamp.description=So retro.
+
+mods.ExpandedFurniture.GroovySet.GroovyCeilingLamp2.name=Groovy Round Ceiling Lamp
+mods.ExpandedFurniture.GroovySet.GroovyCeilingLamp2.description=So retro.
+
+mods.ExpandedFurniture.GroovySet.GroovyChandelier.name=Groovy Chandelier
+mods.ExpandedFurniture.GroovySet.GroovyChandelier.description=So retro.
+
+mods.ExpandedFurniture.GroovySet.GroovyCoffeeTable(NoDock).name=Groovy Coffee Table (No Dock)
+mods.ExpandedFurniture.GroovySet.GroovyCoffeeTable(NoDock).description=Dockless, sunny and happy!
+
+mods.ExpandedFurniture.GroovySet.GroovyCoffeeTableLoveseat.name=Groovy Coffee Table (Loveseat)
+mods.ExpandedFurniture.GroovySet.GroovyCoffeeTableLoveseat.description=Sunny and happy!
+
+staxel.tileObject.themedfurniture.groovy.GroovyCoffeeTable.name=Groovy Coffee Table (Sofa)
+staxel.tileObject.themedfurniture.groovy.GroovyCoffeeTable.description=Sunny and happy!
+
+mods.ExpandedFurniture.GroovySet.GroovyDesk(NoDock).name=Groovy Desk (No Dock)
+mods.ExpandedFurniture.GroovySet.GroovyDesk(NoDock).description=Dockless, sunny and happy!
+
+mods.ExpandedFurniture.GroovySet.GroovyDesk.name=Groovy Desk
+mods.ExpandedFurniture.GroovySet.GroovyDesk.description=Sunny and happy!
+
+mods.ExpandedFurniture.GroovySet.GroovyDoubleBed(NoDock).name=Groovy Double Bed (No Dock)
+mods.ExpandedFurniture.GroovySet.GroovyDoubleBed(NoDock).description=Dockless, sunny and happy!
+
+mods.ExpandedFurniture.GroovySet.GroovyFootLamp2.name=Groovy Round Foot Lamp
+mods.ExpandedFurniture.GroovySet.GroovyFootLamp2.description=So retro.
+
+mods.ExpandedFurniture.GroovySet.GroovyFuton.name=Groovy Futon
+mods.ExpandedFurniture.GroovySet.GroovyFuton.description=The perfect place to zone.
+
+mods.ExpandedFurniture.GroovySet.GroovyLamp2.name=Groovy Round Lamp
+mods.ExpandedFurniture.GroovySet.GroovyLamp2.description=So retro.
+
+mods.ExpandedFurniture.GroovySet.GroovyLongStool.name=Groovy Long Stool
+mods.ExpandedFurniture.GroovySet.GroovyLongStool.description=Sunny and happy!
+
+mods.ExpandedFurniture.GroovySet.GroovySideTable(NoDock).name=GroovySideTable(NoDock)
+mods.ExpandedFurniture.GroovySet.GroovySideTable(NoDock).description=Dockless, sunny and happy!
+
+mods.ExpandedFurniture.GroovySet.GroovySingleBed(NoDock).name=GroovySingleBed(NoDock)
+mods.ExpandedFurniture.GroovySet.GroovySingleBed(NoDock).description=Dockless, sunny and happy!
+
+mods.ExpandedFurniture.GroovySet.GroovySofa.name=Groovy Sofa
+mods.ExpandedFurniture.GroovySet.GroovySofa.description=The perfect place to zone.
+
+mods.ExpandedFurniture.GroovySet.GroovyTableLarge.name=Groovy Large Table
+mods.ExpandedFurniture.GroovySet.GroovyTableLarge.description=Sunny and happy!
+
+mods.ExpandedFurniture.GroovySet.GroovyTableLarge(NoDock).name=Groovy Large Table (No Dock)
+mods.ExpandedFurniture.GroovySet.GroovyTableLarge(NoDock).description=Dockless, sunny and happy!
+
+mods.ExpandedFurniture.GroovySet.GroovyTable(NoDock).name=Groovy Table (No Dock)
+mods.ExpandedFurniture.GroovySet.GroovyTable(NoDock).description=Dockless, sunny and happy!
+
+mods.ExpandedFurniture.GroovySet.GroovyTVStand.name=Groovy TV Stand
+mods.ExpandedFurniture.GroovySet.GroovyTVStand.description=Sunny and happy!
+
+mods.ExpandedFurniture.GroovySet.GroovyVanity.name=Groovy Vanity
+mods.ExpandedFurniture.GroovySet.GroovyVanity.description=Sunny and happy!
+
+mods.ExpandedFurniture.GroovySet.GroovyWallLamp.name=Groovy Square Wall Lamp
+mods.ExpandedFurniture.GroovySet.GroovyWallLamp.description=So retro.
+
+mods.ExpandedFurniture.GroovySet.GroovyWallLamp2.name=Groovy Round Wall Lamp
+mods.ExpandedFurniture.GroovySet.GroovyWallLamp2.description=So retro.
+
+mods.ExpandedFurniture.GroovySet.GroovyWallShelf.name=Groovy Shelf
+mods.ExpandedFurniture.GroovySet.GroovyWallShelf.description=Sunny and happy!
+
+mods.ExpandedFurniture.GroovySet.GroovyWardrobeSingle.name=Groovy Single Wardrobe
+mods.ExpandedFurniture.GroovySet.GroovyWardrobeSingle.description=Sunny and happy!

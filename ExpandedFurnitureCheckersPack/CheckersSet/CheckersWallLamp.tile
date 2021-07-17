@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "wall",
+    "lamp",
+    "brown",
+    "checkers"
+  ],
+  "code": "mods.ExpandedFurniture.CheckersSet.CheckersWallLamp",
+  "emissiveColor": "fff7EFCF",
+  "light": 7.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 1300
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureCheckersPack/CheckersSet/CheckersWallLamp.qb"
+}

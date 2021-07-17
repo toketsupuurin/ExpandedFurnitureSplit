@@ -1,0 +1,43 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "furniture",
+	"yellow",
+    "nerdy",
+    "set",
+    "light",
+    "lightsource",
+    "lighting",
+    "lamp",
+    "bedside"
+  ],
+  "code": "mods.ExpandedFurniture.NerdySet.NerdyLamp4",
+  "emissiveColor": "FFC335",
+  "light": 10.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureNerdyPack/NerdySet/NerdyLamp4.qb",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "frameAnimatedTile": {
+    "frameTime": 0.13
+  },
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "variants": [
+    "mods/ExpandedFurnitureNerdyPack/NerdySet/NerdyLamp4.qb?size={16,16,16}?offset={0,0,0}",
+    "mods/ExpandedFurnitureNerdyPack/NerdySet/NerdyLamp4.qb?size={16,16,16}?offset={16,0,0}",
+    "mods/ExpandedFurnitureNerdyPack/NerdySet/NerdyLamp4.qb?size={16,16,16}?offset={32,0,0}",
+    "mods/ExpandedFurnitureNerdyPack/NerdySet/NerdyLamp4.qb?size={16,16,16}?offset={48,0,0}"
+  ]
+}

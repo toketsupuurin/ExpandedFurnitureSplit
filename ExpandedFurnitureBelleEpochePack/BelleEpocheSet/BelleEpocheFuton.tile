@@ -1,0 +1,33 @@
+{
+  "__inherits": "mods/ExpandedFurniture/ConfigsDocks/SpookyFuton.config",
+  "categories": [
+    "furniture",
+    "white",
+    "belle",
+    "epoche",
+	"pillow",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "futon",
+    "sofa",
+    "couch",
+    "love",
+    "loveseat",
+	"chaise",
+	"chaise longue",
+	"chaise lounge",
+	"lounge",
+    "settee"
+  ],
+  "code": "mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheFuton",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureBelleEpochePack/BelleEpocheSet/BelleEpocheFuton.qb"
+}

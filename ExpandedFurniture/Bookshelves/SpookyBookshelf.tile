@@ -1,0 +1,40 @@
+{
+  "__inherits": "staxel/docks/dockBase.config",
+  "categories": [
+    "container",
+	"Bookshelf",
+    "storage",
+    "spooky",
+    "black",
+	"candle",
+	"book",
+    "furniture",
+    "cabinet",
+    "closet",
+    "cupboard",
+    "pantry",
+    "credenza",
+    "double",
+  ],
+  "code": "mods.ExpandedFurniture.SpookySet.SpookyBookshelf",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 3,
+      "z": 1
+    },
+    "specification": "CCCCXC"
+  },
+  "dockDefinition": "mods.ExpandedFurniture.SpookySet.SpookyBookshelf.dock",
+  "prefetchTileState": true,
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurniture/Bookshelves/SpookyBookshelf.qb",
+  "wallPushOut": true
+}

@@ -1,0 +1,38 @@
+{
+  "__inherits": "staxel/docks/Desk.config",
+  "categories": [
+    "furniture",
+    "blue",
+    "yellow",
+    "straw",
+    "hay",
+    "farm",
+    "set",
+    "container",
+    "storage",
+    "cabinet",
+    "closet",
+    "cupboard",
+    "pantry",
+    "wardrobe",
+    "desk"
+  ],
+  "code": "mods.ExpandedFurniture.FarmSet.FarmDesk",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    },
+    "specification": "XC"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureFarmPack/FarmSet/FarmDesk.qb"
+}

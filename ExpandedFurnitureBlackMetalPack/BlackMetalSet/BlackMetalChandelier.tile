@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "metal",
+	"lamp",
+	"black",
+    "light",
+	"chandelier"
+  ],
+  "code": "mods.ExpandedFurniture.BlackMetalSet.BlackMetalChandelier",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "emissiveColor": "fff7EFCF",
+  "light": 20,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureBlackMetalPack/BlackMetalSet/BlackMetalChandelier.qb",
+  "compound": {
+  "size": {
+    "x": 3,
+    "y": 2,
+    "z": 3
+  },
+  "specification": "CCC CXC CCC CCC CCC CCC"
+  },
+}

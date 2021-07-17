@@ -1,0 +1,50 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "torch",
+    "candle",
+	"wicker",
+    "fire"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.WickerSet.TikiCandle",
+  "emissiveColor": "fff57317",
+  "frameAnimatedTile": {
+    "frameTime": 0.13,
+    "particles": "staxel.particle.lighting.TikiTorchFire",
+    "sounds": "staxel.sound.night.Torch.loop"
+  },
+  "light": 5.2,
+  "prefetchTileState": true,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 6,
+    "value": 10
+  },
+  "searchable": true,
+  "tilePlacement": {
+    "inHandRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "variants": [
+    "mods/ExpandedFurnitureLightingEdition/WickerSet/TikiCandle.qb?size={16,16,16}?offset={0,0,0}",
+    "mods/ExpandedFurnitureLightingEdition/WickerSet/TikiCandle.qb?size={16,16,16}?offset={16,0,0}",
+    "mods/ExpandedFurnitureLightingEdition/WickerSet/TikiCandle.qb?size={16,16,16}?offset={32,0,0}",
+    "mods/ExpandedFurnitureLightingEdition/WickerSet/TikiCandle.qb?size={16,16,16}?offset={48,0,0}"
+  ]
+}

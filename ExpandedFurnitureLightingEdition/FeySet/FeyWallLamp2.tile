@@ -1,0 +1,24 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "wall",
+    "lamp",
+    "green",
+    "pink",
+    "fey"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.FeySet.FeyWallLamp2",
+  "emissiveColor": "ff94c2",
+  "light": 7.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 3000,
+    "value": 5000
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureLightingEdition/FeySet/FeyWallLamp2.qb"
+}

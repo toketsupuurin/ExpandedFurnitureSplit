@@ -1,0 +1,21 @@
+{
+  "__inherits": "mods/ExpandedFurniture/ConfigsDocks/SpookyWallMountedShelf.config",
+  "categories": [
+    "container",
+    "storage",
+    "victorian",
+    "furniture",
+    "shelf",
+    "red"
+  ],
+  "code": "mods.ExpandedFurniture.VictorianSet.VictorianWallShelf",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurniture/WallShelves/VictorianWallMountedDock.qb"
+}

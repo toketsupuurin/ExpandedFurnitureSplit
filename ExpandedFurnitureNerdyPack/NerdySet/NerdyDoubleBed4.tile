@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/docks/DoubleBed.config",
+  "categories": [
+    "furniture",
+    "nerdy",
+    "black",
+    "white",	
+    "yellow",
+    "set",
+    "bed",
+    "sleep",
+    "double",
+	"queen",
+	"king",
+  ],
+  "code": "mods.ExpandedFurniture.NerdySet.NerdyDoubleBed4",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureNerdyPack/NerdySet/NerdyDoubleBed4.qb"
+}

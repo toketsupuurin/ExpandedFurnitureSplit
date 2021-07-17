@@ -1,0 +1,131 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowArmChair.name=Purple Rainbow Arm Chair
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowArmChair.description=A casual purple slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowBed(NoDock).name=Purple Rainbow Single Bed (No Dock)
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowBed(NoDock).description=A casual dockless purple slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowBed.name=Purple Rainbow Single Bed
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowBed.description=A casual purple slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowBookshelf.name=Purple Rainbow Bookshelf
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowBookshelf.description=A casual purple slatted piece.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowCandle.name=Purple Rainbow Candle
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowCandle.description=A casual purple candle.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowCandle2.name=PurpleRainbow Melted Candle
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowCandle2.description=A used purple candle.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowCarpet1x3.name=Purple Rainbow Carpet
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowCarpet1x3.description=A casual piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowCeilingLamp.name=Purple Rainbow Ceiling Lamp
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowCeilingLamp.description=A casual purple lamp.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowCeilingLampBeaded.name=Purple Rainbow Beaded Ceiling Lamp
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowCeilingLampBeaded.description=A beaded purple lamp.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowChair.name=Purple Rainbow Chair
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowChair.description=A casual purple slatted piece.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowChandelier.name=PurpleRainbowChandelier
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowChandelier.description=A casual purple chandelier.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowChandelierBeaded.name=Purple Rainbow Beaded Chandelier
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowChandelierBeaded.description=A beaded purple chandelier.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowCoffeeTable(NoDock).name=Purple Rainbow Coffee Table (No Dock)
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowCoffeeTable(NoDock).description=A dockless casual purple slatted piece.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowCoffeeTableSofa.name=Purple Rainbow Coffee Table (Sofa)
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowCoffeeTableSofa.description=A casual purple slatted piece.
+
+staxel.tileObject.themedfurniture.rainbow.PurpleRainbowCoffeeTable.name=Purple Rainbow Coffee Table (Loveseat)
+staxel.tileObject.themedfurniture.rainbow.PurpleRainbowCoffeeTable.description=A casual purple slatted piece.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowCredenza.name=Purple Rainbow Credenza
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowCredenza.description=A casual purple slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowDesk(NoDock).name=Purple Rainbow Desk (No Dock)
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowDesk(NoDock).description=A dockless casual purple slatted piece.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowDesk.name=Purple Rainbow Desk
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowDesk.description=A casual purple slatted piece.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowDoubleBed(NoDock).name=Purple Rainbow Double Bed (No Dock)
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowDoubleBed(NoDock).description=A dockless casual purple slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowDoubleBed.name=Purple Rainbow Double Bed
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowDoubleBed.description=A casual purple slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowDresser.name=Purple Rainbow Dresser
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowDresser.description=A casual purple slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowFootLamp.name=Purple Rainbow Foot Lamp
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowFootLamp.description=A casual purple lamp.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowFootLampBeaded.name=Purple Rainbow Beaded Foot Lamp
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowFootLampBeaded.description=A beaded purple lamp.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowFuton.name=Purple Rainbow Futon
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowFuton.description=A casual purple slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowLamp.name=Purple Rainbow Lamp
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowLamp.description=A casual purple lamp.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowLampBeaded.name=Purple Rainbow Beaded Lamp
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowLampBeaded.description=A beaded purple lamp.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowLongStool.name=Purple Rainbow Long Stool
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowLongStool.description=A casual purple slatted piece.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowLoveseat.name=Purple Rainbow Loveseat
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowLoveseat.description=A casual purple slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowSideTable(NoDock).name=Purple Rainbow Side Table (No Dock)
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowSideTable(NoDock).description=A dockless casual purple slatted piece.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowSideTable.name=Purple Rainbow Side Table
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowSideTable.description=A casual purple slatted piece.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowSofa.name=Purple Rainbow Sofa
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowSofa.description=A casual purple slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowStool.name=Purple Rainbow Stool
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowStool.description=A casual purple slatted piece.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowTable.name=Purple Rainbow Table
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowTable.description=A casual purple slatted piece.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowTable(NoDock).name=Purple Rainbow Table (No Dock)
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowTable(NoDock).description=A dockless casual purple slatted piece.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowTableLarge(NoDock).name=Purple Rainbow Large Table (No Dock)
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowTableLarge(NoDock).description=A dockless casual purple slatted piece.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowTableLarge.name=Purple Rainbow Large Table
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowTableLarge.description=A casual purple slatted piece.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowTVStand.name=Purple Rainbow TV Stand
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowTVStand.description=A casual purple slatted piece.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowVanity.name=Purple Rainbow Vanity
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowVanity.description=A casual purple slatted piece.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowWallLamp.name=Purple Rainbow Wall Lamp
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowWallLamp.description=A casual purple lamp.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowWallLampBeaded.name=Purple Rainbow Beaded Wall Lamp
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowWallLampBeaded.description=A beaded purple lamp.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowWallShelf.name=Purple Rainbow Shelf
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowWallShelf.description=A casual purple slatted piece.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowWardrobeDouble.name=Purple Rainbow Double Wardrobe
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowWardrobeDouble.description=A casual purple slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowWardrobeSingle.name=Purple Rainbow Single Wardrobe
+mods.ExpandedFurniture.PurpleRainbowSet.PurpleRainbowWardrobeSingle.description=A casual purple slatted piece with cheerful rainbow stripes.

@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/docks/TwoSeater_Thick.config",
+  "categories": [
+    "furniture",
+    "black",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "sofa",
+    "couch",
+    "love",
+    "loveseat",
+    "settee"
+  ],
+  "code": "mods.ExpandedFurniture.NerdySet.NerdyLoveseat",
+
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureNerdyPack/NerdySet/NerdyLoveseat.qb"
+}

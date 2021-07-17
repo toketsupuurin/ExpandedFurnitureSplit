@@ -1,0 +1,30 @@
+{
+  "__inherits": "staxel/tileObject/roof.config",
+  "aoFloor": false,
+  "attachToBelow": false,
+  "categories": [
+    "roof",
+    "roofing",
+    "block",
+    "tiled",
+    "tile",
+    "tiling",
+    "tiles",
+    "TAO",
+    "TAOTip",
+    "tip",
+    "upside down outer roof",
+	"Red"
+  ],
+  "code": "mods.ExpandedFurniture.RoofBlocks.TAO_Tip_OuterCorner_Upsidedown_Red",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 6,
+    "value": 10
+  },
+  "representativeTile": "mods.ExpandedFurniture.RoofBlocks.TAO_Tip_Straight_Red",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureRoofingPack/RoofBlocks/Red/TAO_Tip_OuterCorner_Upsidedown_Red.qb"
+}

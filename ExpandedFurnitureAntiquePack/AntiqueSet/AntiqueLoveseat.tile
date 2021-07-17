@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/docks/TwoSeater_Thick.config",
+  "categories": [
+    "antique",
+    "chair",
+    "seat",
+    "sit",
+    "furniture",
+    "sofa",
+    "couch",
+    "love",
+    "loveseat",
+    "settee",
+    "round",
+    "brown"
+  ],
+  "code": "mods.ExpandedFurniture.AntiqueSet.AntiqueLoveseat",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 100,
+    "value": 300
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureAntiquePack/AntiqueSet/AntiqueLoveseat.qb"
+}

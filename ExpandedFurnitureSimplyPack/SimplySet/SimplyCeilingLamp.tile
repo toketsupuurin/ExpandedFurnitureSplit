@@ -1,0 +1,33 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "basic",
+    "light",
+    "lightsource",
+    "lighting",
+    "ceiling",
+    "lamp",
+    "black",
+    "yellow"
+  ],
+  "code": "mods.ExpandedFurniture.SimplySet.SimplyCeilingLamp",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    },
+  "specification": "XC"
+  },
+
+  "emissiveColor": "ffffff96",
+  "light": 2.2,
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 5,
+    "value": 30
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureSimplyPack/SimplySet/SimplyCeilingLamp.qb"
+}

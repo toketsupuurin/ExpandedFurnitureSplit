@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "mushroom",
+	"lamp",
+	"green",
+    "light",
+	"chandelier"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.MushroomSet.MushroomChandelier3",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "emissiveColor": "70E594",
+  "light": 20,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureLightingEdition/MushroomSet/MushroomChandelier3.qb",
+  "compound": {
+  "size": {
+    "x": 3,
+    "y": 1,
+    "z": 3
+  },
+  "specification": "CCC CXC CCC"
+  },
+}

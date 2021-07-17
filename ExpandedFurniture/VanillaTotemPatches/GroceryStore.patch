@@ -1,0 +1,91 @@
+{
+    "file": "staxel/totems/workplace/GroceryStore.totem",
+    "priority": 500, 
+	//If you are a Modder: If you have to change this patch then set your priority number higher than mine in this file. If you want to use this patch as-is then set the number lower than I have it set here.
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch": {
+
+  "requiredCategories": {
+    "tier0": [
+      {
+        "category": "counter",
+        "count": 3
+      },
+      {
+        "category": "awning",
+        "count": 2
+      },
+      {
+        "category": "chair",
+        "count": 1
+      }
+    ],
+    "tier1": [
+      {
+        "category": "counter",
+        "count": 3
+      },
+      {
+        "category": "box",
+        "count": 15
+      },
+      {
+        "category": "bin",
+        "count": 2
+      },
+      {
+        "category": "Bookshelf",
+        "count": 3
+      },
+    ]
+  },
+  "requiredObjects": {
+    "tier0": [
+      {
+        "code": "staxel.tileObject.shop.CashRegister",
+        "count": 1
+      },
+      {
+        "code": "staxel.tileObject.shop.ShopShelfMerchant",
+        "count": 15,
+        "requirePlaced": true
+      }
+    ],
+    "tier1": [
+      {
+        "code": "staxel.tileObject.shop.DisplayCaseLeft",
+        "count": 2
+      },
+      {
+        "code": "staxel.tileObject.shop.DisplayCaseRight",
+        "count": 2
+      },
+      {
+        "code": "staxel.tileObject.shop.DisplayCaseStandalone",
+        "count": 3
+      }
+    ],
+    "tier2": [
+      {
+        "code": "staxel.tileObject.postbox.HandlingPost",
+        "count": 1,
+        "questGate": "staxel.mainQuest.Leif.Liked",
+        "requirePlaced": true
+      },
+      {
+        "code": "staxel.tileObject.postbox.PostCounter",
+        "count": 1,
+        "questGate": "staxel.mainQuest.Leif.Liked",
+        "requirePlaced": true
+      },
+      {
+        "code": "staxel.tileObject.postbox.PostOfficePostbox",
+        "count": 1,
+        "questGate": "staxel.mainQuest.Leif.Liked",
+        "requirePlaced": true
+      }
+    ]
+  },
+
+    }
+}

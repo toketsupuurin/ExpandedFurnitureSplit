@@ -1,0 +1,50 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "misc",
+    "fountain",
+    "water",
+    "statue",
+    "white",
+	"fey",
+	"fairy",
+	"flower",
+	"festival"
+  ],
+  "code": "mods.ExpandedFurniture.FestivalSet.FeyMasqueradeFountain",
+  "compound": {
+    "size": {
+      "x": 4,
+      "y": 4,
+      "z": 4
+    },
+    "specification": " EEEE EEEE EEEE EEEE EEEE EEEE EEEE ECCE EEEE ECCE CCCC ECEE CCCC CXCC CCCC CCCC"
+  },
+  "frameAnimatedTile": {
+    "frameTime": 0.13,
+    "sounds": "staxel.sound.item.Fountain.loop"
+  },
+  "pathFindingPenalty": 500,
+  "prefetchTileState": true,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 3000,
+    "value": 5000
+  },
+  "dispenser": {
+    "dispenserType": "WaterFaucet",
+    "interactAction": "staxel.entityAction.FillPotWater",
+    "effect": "staxel.effect.cooking.BathroomSink",
+    "offset": { "x": 0.0, "y": 0.0, "z": 0.0}
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.PuddleFootSteps",
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "variants": [
+    "staxel/tileObject/festival/feymasquerade/FeyMasqueradeFountain.qb?size={64,64,64}?offset={0,0,0}",
+    "staxel/tileObject/festival/feymasquerade/FeyMasqueradeFountain.qb?size={64,64,64}?offset={64,0,0}",
+    "staxel/tileObject/festival/feymasquerade/FeyMasqueradeFountain.qb?size={64,64,64}?offset={128,0,0}"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "wall",
+    "lamp",
+    "purple",
+    "Antique"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.AntiqueSet.AntiqueWallLamp3",
+  "emissiveColor": "ffD8A8A2",
+  "light": 7.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 150
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureLightingEdition/AntiqueSet/AntiqueWallLamp3.qb"
+}

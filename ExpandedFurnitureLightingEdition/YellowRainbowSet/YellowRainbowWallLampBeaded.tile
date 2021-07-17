@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "wall",
+    "lamp",
+    "yellow",
+    "rainbow"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.YellowRainbowSet.YellowRainbowWallLampBeaded",
+  "emissiveColor": "FFEA72",
+  "light": 7.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureLightingEdition/YellowRainbowSet/YellowRainbowWallLampBeaded.qb"
+}

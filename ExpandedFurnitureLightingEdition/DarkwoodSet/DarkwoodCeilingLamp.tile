@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "darkwood",
+	"lamp",
+	"black",
+    "brown",
+    "bronze",
+    "light"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.DarkwoodSet.DarkwoodCeilingLamp",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "emissiveColor": "fff7EFCF",
+  "light": 2.2,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureLightingEdition/DarkwoodSet/DarkwoodCeilingLamp.qb"
+}

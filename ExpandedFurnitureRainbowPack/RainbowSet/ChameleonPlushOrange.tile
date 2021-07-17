@@ -1,0 +1,24 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+	"Orange",
+	"chameleon",
+	"color",
+	"change",
+    "toy",
+    "misc"
+  ],
+  "code": "mods.ExpandedFurniture.RainbowSet.ChameleonPlushOrange",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 1000,
+    "value": 10000
+  },
+  "randomizePosition": false,
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "representativeTile": "mods.ExpandedFurniture.RainbowSet.ChameleonPlush",
+  "voxels": "mods/ExpandedFurnitureRainbowPack/RainbowSet/ChameleonOrange.qb",
+  "interactActionTrigger": "staxel.entityAction.BreakAndPickupAction"
+}

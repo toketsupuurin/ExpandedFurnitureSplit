@@ -1,0 +1,47 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "xp",
+    "xn"
+  ],
+  "categories": [
+    "fence",
+    "misc",
+    "stone",
+    "cobblestone",
+    "brown",
+    "EF",
+    "EFMiddle",
+    "middle"
+  ],
+  "code": "mods.ExpandedFurniture.FenceSet.EFDungeonRailingMiddle",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "placementDirections": [
+    "xp",
+    "xn"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 12,
+    "value": 20
+  },
+  "randomizePosition": false,
+  "representativeTile": "mods.ExpandedFurniture.FenceSet.EFDungeonRailingStraight",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureFencePack/FenceSet/DungeonRailingMiddle.qb",
+  "variants": [
+    "mods/ExpandedFurnitureFencePack/FenceSet/DungeonRailingMiddle.qb",
+    "mods/ExpandedFurnitureFencePack/FenceSet/DungeonRailingMiddle_Alt01.qb",
+    "mods/ExpandedFurnitureFencePack/FenceSet/DungeonRailingMiddle_Alt02.qb",
+    "mods/ExpandedFurnitureFencePack/FenceSet/DungeonRailingMiddle_Alt03.qb"
+  ],
+  "altsCount": 4,
+}

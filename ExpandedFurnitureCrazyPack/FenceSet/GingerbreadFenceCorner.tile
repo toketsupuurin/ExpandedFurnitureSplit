@@ -1,0 +1,45 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "yn",
+    "yp",
+    "xp",
+    "zp"
+  ],
+  "categories": [
+    "fence",
+    "misc",
+    "brown",
+    "gingerbread",
+    "icing",
+    "cookie",
+    "snow",
+    "EF",
+    "EFCorner",
+    "corner"
+  ],
+  "code": "mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceCorner",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "placementDirections": [
+    "yn",
+    "xn",
+    "zp"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 18,
+    "value": 30
+  },
+  "randomizePosition": false,
+  "representativeTile": "mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceStraight",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureCrazyPack/FenceSet/GingerbreadFenceCorner.qb"
+}

@@ -1,0 +1,31 @@
+{
+  "__inherits": "staxel/docks/LargeTable.config",
+  "categories": [
+    "furniture",
+    "pink",
+    "rainbow",
+    "set",
+    "table",
+    "surface",
+    "dining",
+    "dinner",
+    "room"
+  ],
+  "code": "mods.ExpandedFurniture.PinkRainbowSet.PinkRainbowTableLarge",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 3,
+      "z": 3
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureRainbowPack/PinkRainbowSet/PinkRainbowTableLarge.qb"
+}

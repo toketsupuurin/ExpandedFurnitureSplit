@@ -1,0 +1,80 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.VictorianSet.VictorianBookshelf.name=Victorian Bookshelf
+mods.ExpandedFurniture.VictorianSet.VictorianBookshelf.description=Old fashioned, but refined and beautiful.
+
+mods.ExpandedFurniture.VictorianSet.VictorianCandle.name=Victorian Candelabra
+mods.ExpandedFurniture.VictorianSet.VictorianCandle.description=Three stately tapers, perfect for any dining table.
+
+mods.ExpandedFurniture.VictorianSet.VictorianCandle2.name=Victorian Candle
+mods.ExpandedFurniture.VictorianSet.VictorianCandle2.description=A lone candle to keep you safe at night. Don't hurt anyone!
+
+mods.ExpandedFurniture.VictorianSet.VictorianCarpet3x3.name=Victorian Carpet
+mods.ExpandedFurniture.VictorianSet.VictorianCarpet3x3.description=Plush, velvet. The height of decadence.
+
+mods.ExpandedFurniture.VictorianSet.VictorianCeilingLamp.name=Victorian Brass Ceiling Lamp
+mods.ExpandedFurniture.VictorianSet.VictorianCeilingLamp.description=Magic runs these better than gas ever did.
+
+mods.ExpandedFurniture.VictorianSet.VictorianCeilingLamp2.name=Victorian Red Ceiling Lamp
+mods.ExpandedFurniture.VictorianSet.VictorianCeilingLamp2.description=Magic runs these better than gas ever did.
+
+mods.ExpandedFurniture.VictorianSet.VictorianChandelier.name=Victorian Chandelier
+mods.ExpandedFurniture.VictorianSet.VictorianChandelier.description=They really had some crazy styles back then.
+
+mods.ExpandedFurniture.VictorianSet.VictorianCoffeeTable(NoDock).name=Victorian Coffee Table (No Dock)
+mods.ExpandedFurniture.VictorianSet.VictorianCoffeeTable(NoDock).description=Dockless and old fashioned, but refined and beautiful.
+
+mods.ExpandedFurniture.VictorianSet.VictorianCoffeeTableLoveseat.name=Victorian Coffee Table (Loveseat)
+mods.ExpandedFurniture.VictorianSet.VictorianCoffeeTableLoveseat.description=Old fashioned, but refined and beautiful.
+
+staxel.tileObject.themedfurniture.victorian.VictorianCoffeeTable.name=Victorian Coffee Table (Sofa)
+staxel.tileObject.themedfurniture.victorian.VictorianCoffeeTable.description=Old fashioned, but refined and beautiful.
+
+mods.ExpandedFurniture.VictorianSet.VictorianDesk(NoDock).name=Victorian Desk (No Dock)
+mods.ExpandedFurniture.VictorianSet.VictorianDesk(NoDock).description=Dockless and old fashioned, but refined and beautiful.
+
+mods.ExpandedFurniture.VictorianSet.VictorianDoubleBed(NoDock).name=Victorian Double Bed (No Dock)
+mods.ExpandedFurniture.VictorianSet.VictorianDoubleBed(NoDock).description=Dockless and old fashioned, but refined and beautiful.
+
+mods.ExpandedFurniture.VictorianSet.VictorianFootLamp.name=Victorian Brass Foot Lamp
+mods.ExpandedFurniture.VictorianSet.VictorianFootLamp.description=Magic runs these better than gas ever did.
+
+mods.ExpandedFurniture.VictorianSet.VictorianFootLamp2.name=Victorian Red Foot Lamp
+mods.ExpandedFurniture.VictorianSet.VictorianFootLamp2.description=Magic runs these better than gas ever did.
+
+mods.ExpandedFurniture.VictorianSet.VictorianFutonLeft.name=Victorian Left Fainting Couch
+mods.ExpandedFurniture.VictorianSet.VictorianFutonLeft.description=Old fashioned, but refined and beautiful.
+
+mods.ExpandedFurniture.VictorianSet.VictorianFutonRight.name=Victorian Right Fainting Couch
+mods.ExpandedFurniture.VictorianSet.VictorianFutonRight.description=Old fashioned, but refined and beautiful.
+
+mods.ExpandedFurniture.VictorianSet.VictorianLamp2.name=Victorian Red Lamp
+mods.ExpandedFurniture.VictorianSet.VictorianLamp2.description=Magic runs these better than gas ever did.
+
+mods.ExpandedFurniture.VictorianSet.VictorianLongStool.name=VictorianLongStool
+mods.ExpandedFurniture.VictorianSet.VictorianLongStool.description=Old fashioned, but refined and beautiful.
+
+mods.ExpandedFurniture.VictorianSet.VictorianSingleBed(NoDock).name=VictorianSingleBed(NoDock)
+mods.ExpandedFurniture.VictorianSet.VictorianSingleBed(NoDock).description=Dockless and old fashioned, but refined and beautiful.
+
+mods.ExpandedFurniture.VictorianSet.VictorianTable(NoDock).name=Victorian Table (No Dock)
+mods.ExpandedFurniture.VictorianSet.VictorianTable(NoDock).description=Dockless and old fashioned, but refined and beautiful.
+
+mods.ExpandedFurniture.VictorianSet.VictorianTableLarge(NoDock).name=Victorian Large Table (No Dock)
+mods.ExpandedFurniture.VictorianSet.VictorianTableLarge(NoDock).description=Dockless and old fashioned, but refined and beautiful.
+
+mods.ExpandedFurniture.VictorianSet.VictorianTVStand.name=Victorian TV Stand
+mods.ExpandedFurniture.VictorianSet.VictorianTVStand.description=Old fashioned, but refined and beautiful.
+
+mods.ExpandedFurniture.VictorianSet.VictorianWallLamp.name=Victorian Brass Wall Lamp
+mods.ExpandedFurniture.VictorianSet.VictorianWallLamp.description=Magic runs these better than gas ever did.
+
+mods.ExpandedFurniture.VictorianSet.VictorianWallLamp2.name=Victorian Red Wall Lamp
+mods.ExpandedFurniture.VictorianSet.VictorianWallLamp2.description=Magic runs these better than gas ever did.
+
+mods.ExpandedFurniture.VictorianSet.VictorianWallShelf.name=Victorian Shelf
+mods.ExpandedFurniture.VictorianSet.VictorianWallShelf.description=Old fashioned, but refined and beautiful.
+
+mods.ExpandedFurniture.VictorianSet.VictorianWardrobeSingle.name=Victorian Single Wardrobe
+mods.ExpandedFurniture.VictorianSet.VictorianWardrobeSingle.description=Old fashioned, but refined and beautiful.

@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachToBelow": true,
+  "categories": [
+    "decoration",
+	"ToiletPaper",
+	"Antique",
+    "set",
+    "bathroom",
+    "white"
+  ],
+  "code": "mods.ExpandedFurniture.AntiqueSet.AntiqueToiletPaper",
+  "placementDirections": [
+    "zn"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 2,
+    "value": 40
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "voxels": "mods/ExpandedFurnitureAntiquePack/AntiqueSet/AntiqueToiletPaper.qb"
+}

@@ -1,0 +1,36 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "festival",
+	"lamp",
+	"lantern",
+    "light",
+    "lightsource",
+    "lighting",
+	"snow",
+	"dust",
+	"snowdust",
+	"red"
+  ],
+  "code": "mods.ExpandedFurniture.FestivalSet.RedCeilingLantern",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "emissiveColor": "ffE6B626",
+  "light": 1.5,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureFestivalPack/FestivalSet/RedCeilingLantern.qb"
+}

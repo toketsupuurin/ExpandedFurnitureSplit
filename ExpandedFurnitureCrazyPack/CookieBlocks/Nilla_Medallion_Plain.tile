@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+
+
+    "medallion",
+    "Nilla",
+    "vanilla",
+    "cookie",
+    "brown",
+    "candy"
+  ],
+  "code": "mods.ExpandedFurniture.CookieBlocks.Nilla_Medallion_Plain",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 500
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureCrazyPack/CookieBlocks/Nilla_Medallion_Plain.qb"
+}

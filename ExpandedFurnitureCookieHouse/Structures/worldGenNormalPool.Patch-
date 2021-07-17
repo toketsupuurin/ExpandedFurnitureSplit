@@ -1,0 +1,41 @@
+{
+    "file": "worldGen.config", //Case sensitive
+    "priority": 100, //Higher priority leads to this patch being applied later than others.
+    "mergeLists": true, 
+    "patch": {
+		"structures": {
+			"features": [
+				{
+					"kind": "feature",
+					"pool": "staxel.structurePool.ForestShacks",
+					"allowSurfaceAlts": true,
+					"allowGatherables": true,
+					"countRange": {
+						"x": 3,
+						"y": 5
+					},
+					"constraints": {
+						"biomes": [
+							"forest"
+					]
+					}
+				},
+				{
+					"kind": "feature",
+					"pool":	"mods.ExpandedFurniture.CookieHouse.structurePool.MountainShacks",
+					"allowSurfaceAlts": true,
+					"allowGatherables": true,
+					"countRange": {
+						"x": 2,
+						"y": 10
+					},
+					"constraints": {
+						"biomes": [
+							"mountains"
+						],
+					}
+				},
+			]
+		}
+	}
+}

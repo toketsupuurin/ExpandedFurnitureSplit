@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/tileObject/noDock.config",
+  "categories": [
+    "furniture",
+    "basic",
+    "brown",
+    "set",
+    "table",
+    "surface",
+    "bedside",
+    "side",
+	"coffee",
+    "nightstand"
+  ],
+  "code": "mods.ExpandedFurniture.SimplySet.SimplySideTable(NoDock)",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 190
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureSimplyPack/SimplySet/SimplySideTable.qb"
+}

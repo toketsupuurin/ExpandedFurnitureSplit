@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/docks/OneSeater_Stool.config",
+  "categories": [
+    "furniture",
+	"brown",
+    "Antique",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+	"long",
+	"long stool",
+    "stool",
+	"ottoman"
+  ],
+  "code": "mods.ExpandedFurniture.AntiqueSet.AntiqueLongStool",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 40,
+    "value": 120
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureAntiquePack/AntiqueSet/AntiqueLongStool.qb"
+}

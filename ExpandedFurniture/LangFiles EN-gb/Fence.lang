@@ -1,0 +1,659 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceCorner.name=Antique Fence
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceCorner.description=Elegant but shabby.
+
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceCross.name=Antique Fence
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceCross.description=Elegant but shabby.
+
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceDestroyedCorner.name=Antique Damaged Fence
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceDestroyedCorner.description=Needs some TLC.
+
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceDestroyedCross.name=Antique Damaged Fence
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceDestroyedCross.description=Needs some TLC.
+
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceDestroyedEnd.name=Antique Damaged Fence
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceDestroyedEnd.description=Needs some TLC.
+
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceDestroyedMiddle.name=Antique Damaged Fence
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceDestroyedMiddle.description=Needs some TLC.
+
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceDestroyedStraight.name=Antique Damaged Fence
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceDestroyedStraight.description=Needs some TLC.
+
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceDestroyedTSection.name=Antique Damaged Fence
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceDestroyedTSection.description=Needs some TLC.
+
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceEnd.name=Antique Fence
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceEnd.description=Elegant but shabby.
+
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceMiddle.name=Antique Fence
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceMiddle.description=Elegant but shabby.
+
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceStraight.name=Antique Fence
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceStraight.description=Elegant but shabby.
+
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceTSection.name=Antique Fence
+mods.ExpandedFurniture.FenceSet.EFAntiqueFenceTSection.description=Elegant but shabby.
+
+mods.ExpandedFurniture.FenceSet.EFBlackFenceCorner.name=Black Iron Fence
+mods.ExpandedFurniture.FenceSet.EFBlackFenceCorner.description=A forbidding, stately fence.
+
+mods.ExpandedFurniture.FenceSet.EFBlackFenceCross.name=Black Iron Fence
+mods.ExpandedFurniture.FenceSet.EFBlackFenceCross.description=A forbidding, stately fence.
+
+mods.ExpandedFurniture.FenceSet.EFBlackFenceDestroyedCorner.name=Black Iron Bent Fence
+mods.ExpandedFurniture.FenceSet.EFBlackFenceDestroyedCorner.description=A broken, creepy fence.
+
+mods.ExpandedFurniture.FenceSet.EFBlackFenceDestroyedCross.name=Black Iron Bent Fence
+mods.ExpandedFurniture.FenceSet.EFBlackFenceDestroyedCross.description=A broken, creepy fence.
+
+mods.ExpandedFurniture.FenceSet.EFBlackFenceDestroyedEnd.name=Black Iron Bent Fence
+mods.ExpandedFurniture.FenceSet.EFBlackFenceDestroyedEnd.description=A broken, creepy fence.
+
+mods.ExpandedFurniture.FenceSet.EFBlackFenceDestroyedMiddle.name=Black Iron Bent Fence
+mods.ExpandedFurniture.FenceSet.EFBlackFenceDestroyedMiddle.description=A broken, creepy fence.
+
+mods.ExpandedFurniture.FenceSet.EFBlackFenceDestroyedStraight.name=Black Iron Bent Fence
+mods.ExpandedFurniture.FenceSet.EFBlackFenceDestroyedStraight.description=A broken, creepy fence.
+
+mods.ExpandedFurniture.FenceSet.EFBlackFenceDestroyedTSection.name=Black Iron Bent Fence
+mods.ExpandedFurniture.FenceSet.EFBlackFenceDestroyedTSection.description=A broken, creepy fence.
+
+mods.ExpandedFurniture.FenceSet.EFBlackFenceEnd.name=Black Iron Fence
+mods.ExpandedFurniture.FenceSet.EFBlackFenceEnd.description=A forbidding, stately fence.
+
+mods.ExpandedFurniture.FenceSet.EFBlackFenceMiddle.name=Black Iron Fence
+mods.ExpandedFurniture.FenceSet.EFBlackFenceMiddle.description=A forbidding, stately fence.
+
+mods.ExpandedFurniture.FenceSet.EFBlackFenceStraight.name=Black Iron Fence
+mods.ExpandedFurniture.FenceSet.EFBlackFenceStraight.description=A forbidding, stately fence.
+
+mods.ExpandedFurniture.FenceSet.EFBlackFenceTSection.name=Black Iron Fence
+mods.ExpandedFurniture.FenceSet.EFBlackFenceTSection.description=A forbidding, stately fence.
+
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceCorner.name=Bridge Fence
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceCorner.description=A delicate, carved fence.
+
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceCross.name=Bridge Fence
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceCross.description=A delicate, carved fence.
+
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceDestroyedCorner.name=Bridge Fence Broken
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceDestroyedCorner.description=A badly damaged fence.
+
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceDestroyedCross.name=Bridge Fence Broken
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceDestroyedCross.description=A badly damaged fence.
+
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceDestroyedEnd.name=Bridge Fence Broken
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceDestroyedEnd.description=A badly damaged fence.
+
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceDestroyedMiddle.name=Bridge Fence Broken
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceDestroyedMiddle.description=A badly damaged fence.
+
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceDestroyedStraight.name=Bridge Fence Broken
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceDestroyedStraight.description=A badly damaged fence.
+
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceDestroyedTSection.name=Bridge Fence Broken
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceDestroyedTSection.description=A badly damaged fence.
+
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceEnd.name=Bridge Fence
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceEnd.description=A delicate, carved fence.
+
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceMiddle.name=Bridge Fence
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceMiddle.description=A delicate, carved fence.
+
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceStraight.name=Bridge Fence
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceStraight.description=A delicate, carved fence.
+
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceTSection.name=Bridge Fence
+mods.ExpandedFurniture.FenceSet.EFBridgeFenceTSection.description=A delicate, carved fence.
+
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingCorner.name=Dungeon Railing
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingCorner.description=A sturdy stone railing.
+
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingCross.name=Dungeon Railing
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingCross.description=A sturdy stone railing.
+
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingDestroyedCorner.name=Dungeon Railing Ruined
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingDestroyedCorner.description=A weak, crumbling railing.
+
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingDestroyedCross.name=Dungeon Railing Ruined
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingDestroyedCross.description=A weak, crumbling railing.
+
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingDestroyedEnd.name=Dungeon Railing Ruined
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingDestroyedEnd.description=A weak, crumbling railing.
+
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingDestroyedMiddle.name=Dungeon Railing Ruined
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingDestroyedMiddle.description=A weak, crumbling railing.
+
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingDestroyedStraight.name=Dungeon Railing Ruined
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingDestroyedStraight.description=A weak, crumbling railing.
+
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingDestroyedTSection.name=Dungeon Railing Ruined
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingDestroyedTSection.description=A weak, crumbling railing.
+
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingEnd.name=Dungeon Railing
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingEnd.description=A sturdy stone railing.
+
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingMiddle.name=Dungeon Railing
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingMiddle.description=A sturdy stone railing.
+
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingStraight.name=Dungeon Railing
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingStraight.description=A sturdy stone railing.
+
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingTSection.name=Dungeon Railing
+mods.ExpandedFurniture.FenceSet.EFDungeonRailingTSection.description=A sturdy stone railing.
+
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceCorner.name=Gingerbread Fence
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceCorner.description=It looks tasty.
+
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceCross.name=Gingerbread Fence
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceCross.description=It looks tasty.
+
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceDestroyedCorner.name=Gingerbread Fence Bitten
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceDestroyedCorner.description=Someone's been nibbling.
+
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceDestroyedCross.name=Gingerbread Fence Bitten
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceDestroyedCross.description=Someone's been nibbling.
+
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceDestroyedEnd.name=Gingerbread Fence Bitten
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceDestroyedEnd.description=Someone's been nibbling.
+
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceDestroyedMiddle.name=Gingerbread Fence Bitten
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceDestroyedMiddle.description=Someone's been nibbling.
+
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceDestroyedStraight.name=Gingerbread Fence Bitten
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceDestroyedStraight.description=Someone's been nibbling.
+
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceDestroyedTSection.name=Gingerbread Fence Bitten
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceDestroyedTSection.description=Someone's been nibbling.
+
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceEnd.name=Gingerbread Fence
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceEnd.description=It looks tasty.
+
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceMiddle.name=Gingerbread Fence
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceMiddle.description=It looks tasty.
+
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceStraight.name=Gingerbread Fence
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceStraight.description=It looks tasty.
+
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceTSection.name=Gingerbread Fence
+mods.ExpandedFurniture.FenceSet.EFGingerbreadFenceTSection.description=It looks tasty.
+
+mods.ExpandedFurniture.FenceSet.EFHedgeCorner.name=Hedge
+mods.ExpandedFurniture.FenceSet.EFHedgeCorner.description=A tall hedge.
+
+mods.ExpandedFurniture.FenceSet.EFHedgeCross.name=Hedge
+mods.ExpandedFurniture.FenceSet.EFHedgeCross.description=A tall hedge.
+
+mods.ExpandedFurniture.FenceSet.EFHedgeDestroyedCorner.name=Shaggy Hedge
+mods.ExpandedFurniture.FenceSet.EFHedgeDestroyedCorner.description=It needs a trim.
+
+mods.ExpandedFurniture.FenceSet.EFHedgeDestroyedCross.name=Shaggy Hedge
+mods.ExpandedFurniture.FenceSet.EFHedgeDestroyedCross.description=It needs a trim.
+
+mods.ExpandedFurniture.FenceSet.EFHedgeDestroyedEnd.name=Shaggy Hedge
+mods.ExpandedFurniture.FenceSet.EFHedgeDestroyedEnd.description=It needs a trim.
+
+mods.ExpandedFurniture.FenceSet.EFHedgeDestroyedMiddle.name=Shaggy Hedge
+mods.ExpandedFurniture.FenceSet.EFHedgeDestroyedMiddle.description=It needs a trim.
+
+mods.ExpandedFurniture.FenceSet.EFHedgeDestroyedStraight.name=Shaggy Hedge
+mods.ExpandedFurniture.FenceSet.EFHedgeDestroyedStraight.description=It needs a trim.
+
+mods.ExpandedFurniture.FenceSet.EFHedgeDestroyedTSection.name=Shaggy Hedge
+mods.ExpandedFurniture.FenceSet.EFHedgeDestroyedTSection.description=It needs a trim.
+
+mods.ExpandedFurniture.FenceSet.EFHedgeEnd.name=Hedge
+mods.ExpandedFurniture.FenceSet.EFHedgeEnd.description=A tall hedge.
+
+mods.ExpandedFurniture.FenceSet.EFHedgeMiddle.name=Hedge
+mods.ExpandedFurniture.FenceSet.EFHedgeMiddle.description=A tall hedge.
+
+mods.ExpandedFurniture.FenceSet.EFHedgeStraight.name=Hedge
+mods.ExpandedFurniture.FenceSet.EFHedgeStraight.description=A tall hedge.
+
+mods.ExpandedFurniture.FenceSet.EFHedgeTSection.name=Hedge
+mods.ExpandedFurniture.FenceSet.EFHedgeTSection.description=A tall hedge.
+
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallCorner.name=Mushroom Maze Wall
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallCorner.description=A fungal wall.
+
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallCross.name=Mushroom Maze Wall
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallCross.description=A fungal wall.
+
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallDestroyedCorner.name=Mushroom Maze Wall Rotten
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallDestroyedCorner.description=A rotting wall of fungus.
+
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallDestroyedCross.name=Mushroom Maze Wall Rotten
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallDestroyedCross.description=A rotting wall of fungus.
+
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallDestroyedEnd.name=Mushroom Maze Wall Rotten
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallDestroyedEnd.description=A rotting wall of fungus.
+
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallDestroyedMiddle.name=Mushroom Maze Wall Rotten
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallDestroyedMiddle.description=A rotting wall of fungus.
+
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallDestroyedStraight.name=Mushroom Maze Wall Rotten
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallDestroyedStraight.description=A rotting wall of fungus.
+
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallDestroyedTSection.name=Mushroom Maze Wall Rotten
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallDestroyedTSection.description=A rotting wall of fungus.
+
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallEnd.name=Mushroom Maze Wall
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallEnd.description=A fungal wall.
+
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallMiddle.name=Mushroom Maze Wall
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallMiddle.description=A fungal wall.
+
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallStraight.name=Mushroom Maze Wall
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallStraight.description=A fungal wall.
+
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallTSection.name=Mushroom Maze Wall
+mods.ExpandedFurniture.FenceSet.EFMushroomMazeWallTSection.description=A fungal wall.
+
+mods.ExpandedFurniture.FenceSet.EFPicketFenceCorner.name=Picket Fence
+mods.ExpandedFurniture.FenceSet.EFPicketFenceCorner.description=The classic fence.
+
+mods.ExpandedFurniture.FenceSet.EFPicketFenceCross.name=Picket Fence
+mods.ExpandedFurniture.FenceSet.EFPicketFenceCross.description=The classic fence.
+
+mods.ExpandedFurniture.FenceSet.EFPicketFenceDestroyedCorner.name=Picket Fence Damaged
+mods.ExpandedFurniture.FenceSet.EFPicketFenceDestroyedCorner.description=Needs repairs.
+
+mods.ExpandedFurniture.FenceSet.EFPicketFenceDestroyedCross.name=Picket Fence Damaged
+mods.ExpandedFurniture.FenceSet.EFPicketFenceDestroyedCross.description=Needs repairs.
+
+mods.ExpandedFurniture.FenceSet.EFPicketFenceDestroyedEnd.name=Picket Fence Damaged
+mods.ExpandedFurniture.FenceSet.EFPicketFenceDestroyedEnd.description=Needs repairs.
+
+mods.ExpandedFurniture.FenceSet.EFPicketFenceDestroyedMiddle.name=Picket Fence Damaged
+mods.ExpandedFurniture.FenceSet.EFPicketFenceDestroyedMiddle.description=Needs repairs.
+
+mods.ExpandedFurniture.FenceSet.EFPicketFenceDestroyedStraight.name=Picket Fence Damaged
+mods.ExpandedFurniture.FenceSet.EFPicketFenceDestroyedStraight.description=Needs repairs.
+
+mods.ExpandedFurniture.FenceSet.EFPicketFenceDestroyedTSection.name=Picket Fence Damaged
+mods.ExpandedFurniture.FenceSet.EFPicketFenceDestroyedTSection.description=Needs repairs.
+
+mods.ExpandedFurniture.FenceSet.EFPicketFenceEnd.name=Picket Fence
+mods.ExpandedFurniture.FenceSet.EFPicketFenceEnd.description=The classic fence.
+
+mods.ExpandedFurniture.FenceSet.EFPicketFenceMiddle.name=Picket Fence
+mods.ExpandedFurniture.FenceSet.EFPicketFenceMiddle.description=The classic fence.
+
+mods.ExpandedFurniture.FenceSet.EFPicketFenceStraight.name=Picket Fence
+mods.ExpandedFurniture.FenceSet.EFPicketFenceStraight.description=The classic fence.
+
+mods.ExpandedFurniture.FenceSet.EFPicketFenceTSection.name=Picket Fence
+mods.ExpandedFurniture.FenceSet.EFPicketFenceTSection.description=The classic fence.
+
+mods.ExpandedFurniture.FenceSet.EFRopeFenceCorner.name=Rope Fence
+mods.ExpandedFurniture.FenceSet.EFRopeFenceCorner.description=It's nautical!
+
+mods.ExpandedFurniture.FenceSet.EFRopeFenceCross.name=Rope Fence
+mods.ExpandedFurniture.FenceSet.EFRopeFenceCross.description=It's nautical!
+
+mods.ExpandedFurniture.FenceSet.EFRopeFenceDestroyedCorner.name=Rope Fence Broken
+mods.ExpandedFurniture.FenceSet.EFRopeFenceDestroyedCorner.description=It's in drydock.
+
+mods.ExpandedFurniture.FenceSet.EFRopeFenceDestroyedCross.name=Rope Fence Broken
+mods.ExpandedFurniture.FenceSet.EFRopeFenceDestroyedCross.description=It's in drydock.
+
+mods.ExpandedFurniture.FenceSet.EFRopeFenceDestroyedEnd.name=Rope Fence Broken
+mods.ExpandedFurniture.FenceSet.EFRopeFenceDestroyedEnd.description=It's in drydock.
+
+mods.ExpandedFurniture.FenceSet.EFRopeFenceDestroyedMiddle.name=Rope Fence Broken
+mods.ExpandedFurniture.FenceSet.EFRopeFenceDestroyedMiddle.description=It's in drydock.
+
+mods.ExpandedFurniture.FenceSet.EFRopeFenceDestroyedStraight.name=Rope Fence Broken
+mods.ExpandedFurniture.FenceSet.EFRopeFenceDestroyedStraight.description=It's in drydock.
+
+mods.ExpandedFurniture.FenceSet.EFRopeFenceDestroyedTSection.name=Rope Fence Broken
+mods.ExpandedFurniture.FenceSet.EFRopeFenceDestroyedTSection.description=It's in drydock.
+
+mods.ExpandedFurniture.FenceSet.EFRopeFenceEnd.name=Rope Fence
+mods.ExpandedFurniture.FenceSet.EFRopeFenceEnd.description=It's nautical!
+
+mods.ExpandedFurniture.FenceSet.EFRopeFenceMiddle.name=Rope Fence
+mods.ExpandedFurniture.FenceSet.EFRopeFenceMiddle.description=It's nautical!
+
+mods.ExpandedFurniture.FenceSet.EFRopeFenceStraight.name=Rope Fence
+mods.ExpandedFurniture.FenceSet.EFRopeFenceStraight.description=It's nautical!
+
+mods.ExpandedFurniture.FenceSet.EFRopeFenceTSection.name=Rope Fence
+mods.ExpandedFurniture.FenceSet.EFRopeFenceTSection.description=It's nautical!
+
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceCorner.name=Rough Wooden Fence
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceCorner.description=A shabby, slapped together thing.
+
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceCross.name=Rough Wooden Fence
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceCross.description=A shabby, slapped together thing.
+
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceDestroyedCorner.name=Rough Wooden Fence Splintered
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceDestroyedCorner.description=No one cares about this poor fence.
+
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceDestroyedCross.name=Rough Wooden Fence Splintered
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceDestroyedCross.description=No one cares about this poor fence.
+
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceDestroyedEnd.name=Rough Wooden Fence Splintered
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceDestroyedEnd.description=No one cares about this poor fence.
+
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceDestroyedMiddle.name=Rough Wooden Fence Splintered
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceDestroyedMiddle.description=No one cares about this poor fence.
+
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceDestroyedStraight.name=Rough Wooden Fence Splintered
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceDestroyedStraight.description=No one cares about this poor fence.
+
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceDestroyedTSection.name=Rough Wooden Fence Splintered
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceDestroyedTSection.description=No one cares about this poor fence.
+
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceEnd.name=Rough Wooden Fence
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceEnd.description=A shabby, slapped together thing.
+
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceMiddle.name=Rough Wooden Fence
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceMiddle.description=A shabby, slapped together thing.
+
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceStraight.name=Rough Wooden Fence
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceStraight.description=A shabby, slapped together thing.
+
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceTSection.name=Rough Wooden Fence
+mods.ExpandedFurniture.FenceSet.EFRoughWoodenFenceTSection.description=A shabby, slapped together thing.
+
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeCorner.name=Small Hedge
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeCorner.description=A neat little hedge.
+
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeCross.name=Small Hedge
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeCross.description=A neat little hedge.
+
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeDestroyedCorner.name=Small Shagggy Hedge
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeDestroyedCorner.description=It needs a trim.
+
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeDestroyedCross.name=Small Shagggy Hedge
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeDestroyedCross.description=It needs a trim.
+
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeDestroyedEnd.name=Small Shagggy Hedge
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeDestroyedEnd.description=It needs a trim.
+
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeDestroyedMiddle.name=Small Shagggy Hedge
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeDestroyedMiddle.description=It needs a trim.
+
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeDestroyedStraight.name=Small Shagggy Hedge
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeDestroyedStraight.description=It needs a trim.
+
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeDestroyedTSection.name=Small Shagggy Hedge
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeDestroyedTSection.description=It needs a trim.
+
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeEnd.name=Small Hedge
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeEnd.description=A neat little hedge.
+
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeMiddle.name=Small Hedge
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeMiddle.description=A neat little hedge.
+
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeStraight.name=Small Hedge
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeStraight.description=A neat little hedge.
+
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeTSection.name=Small Hedge
+mods.ExpandedFurniture.FenceSet.EFSmallHedgeTSection.description=A neat little hedge.
+
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceCorner.name=Small Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceCorner.description=It's a fence.
+
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceCross.name=Small Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceCross.description=It's a fence.
+
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceDestroyedCorner.name=Small Broken Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceDestroyedCorner.description=Time to get out the hammer.
+
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceDestroyedCross.name=Small Broken Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceDestroyedCross.description=Time to get out the hammer.
+
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceDestroyedEnd.name=Small Broken Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceDestroyedEnd.description=Time to get out the hammer.
+
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceDestroyedMiddle.name=Small Broken Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceDestroyedMiddle.description=Time to get out the hammer.
+
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceDestroyedStraight.name=Small Broken Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceDestroyedStraight.description=Time to get out the hammer.
+
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceDestroyedTSection.name=Small Broken Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceDestroyedTSection.description=Time to get out the hammer.
+
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceEnd.name=Small Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceEnd.description=It's a fence.
+
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceMiddle.name=Small Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceMiddle.description=It's a fence.
+
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceStraight.name=Small Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceStraight.description=It's a fence.
+
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceTSection.name=Small Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFSmallWoodenPoleFenceTSection.description=It's a fence.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceCorner.name=Stone Fence
+mods.ExpandedFurniture.FenceSet.EFStoneFenceCorner.description=Classic and expensive looking.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceCross.name=Stone Fence
+mods.ExpandedFurniture.FenceSet.EFStoneFenceCross.description=Classic and expensive looking.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceDestroyedCorner.name=Stone Fence Overgrown
+mods.ExpandedFurniture.FenceSet.EFStoneFenceDestroyedCorner.description=It needs some trimming.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceDestroyedCross.name=Stone Fence Overgrown
+mods.ExpandedFurniture.FenceSet.EFStoneFenceDestroyedCross.description=It needs some trimming.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceDestroyedEnd.name=Stone Fence Overgrown
+mods.ExpandedFurniture.FenceSet.EFStoneFenceDestroyedEnd.description=It needs some trimming.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceDestroyedMiddle.name=Stone Fence Overgrown
+mods.ExpandedFurniture.FenceSet.EFStoneFenceDestroyedMiddle.description=It needs some trimming.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceDestroyedMiddle2.name=Stone Fence Overgrown
+mods.ExpandedFurniture.FenceSet.EFStoneFenceDestroyedMiddle2.description=It needs some trimming.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceDestroyedStraight.name=Stone Fence Overgrown
+mods.ExpandedFurniture.FenceSet.EFStoneFenceDestroyedStraight.description=It needs some trimming.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceDestroyedTSection.name=Stone Fence Overgrown
+mods.ExpandedFurniture.FenceSet.EFStoneFenceDestroyedTSection.description=It needs some trimming.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceEnd.name=Stone Fence
+mods.ExpandedFurniture.FenceSet.EFStoneFenceEnd.description=Classic and expensive looking.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceMiddle.name=Stone Fence
+mods.ExpandedFurniture.FenceSet.EFStoneFenceMiddle.description=Classic and expensive looking.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceMiddle2.name=Stone Fence
+mods.ExpandedFurniture.FenceSet.EFStoneFenceMiddle2.description=Classic and expensive looking.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortCorner.name=Short Stone Fence
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortCorner.description=Classic and expensive looking.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortCross.name=Short Stone Fence
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortCross.description=Classic and expensive looking.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortDestroyedCorner.name=Short Stone Fence Overgrown
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortDestroyedCorner.description=It needs some trimming.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortDestroyedCross.name=Short Stone Fence Overgrown
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortDestroyedCross.description=It needs some trimming.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortDestroyedEnd.name=Short Stone Fence Overgrown
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortDestroyedEnd.description=It needs some trimming.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortDestroyedMiddle.name=Short Stone Fence Overgrown
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortDestroyedMiddle.description=It needs some trimming.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortDestroyedStraight.name=Short Stone Fence Overgrown
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortDestroyedStraight.description=It needs some trimming.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortDestroyedTSection.name=Short Stone Fence Overgrown
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortDestroyedTSection.description=It needs some trimming.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortEnd.name=Short Stone Fence
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortEnd.description=Classic and expensive looking.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortMiddle.name=Short Stone Fence
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortMiddle.description=Classic and expensive looking.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortStraight.name=Short Stone Fence
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortStraight.description=Classic and expensive looking.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortTSection.name=Short Stone Fence
+mods.ExpandedFurniture.FenceSet.EFStoneFenceShortTSection.description=Classic and expensive looking.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceStraight.name=Stone Fence
+mods.ExpandedFurniture.FenceSet.EFStoneFenceStraight.description=Classic and expensive looking.
+
+mods.ExpandedFurniture.FenceSet.EFStoneFenceTSection.name=Stone Fence
+mods.ExpandedFurniture.FenceSet.EFStoneFenceTSection.description=Classic and expensive looking.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchCorner.name=Arched White Farm Fence
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchCorner.description=Cozy and elegant.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchCross.name=Arched White Farm Fence
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchCross.description=Cozy and elegant.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchDestroyedCorner.name=Arched White Farm Fence Flowers
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchDestroyedCorner.description=A profusion of flowers.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchDestroyedCross.name=Arched White Farm Fence Flowers
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchDestroyedCross.description=A profusion of flowers.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchDestroyedEnd.name=Arched White Farm Fence Flowers
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchDestroyedEnd.description=A profusion of flowers.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchDestroyedMiddle.name=Arched White Farm Fence Flowers
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchDestroyedMiddle.description=A profusion of flowers.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchDestroyedStraight.name=Arched White Farm Fence Flowers
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchDestroyedStraight.description=A profusion of flowers.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchDestroyedTSection.name=Arched White Farm Fence Flowers
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchDestroyedTSection.description=A profusion of flowers.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchEnd.name=Arched White Farm Fence
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchEnd.description=Cozy and elegant.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchMiddle.name=Arched White Farm Fence
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchMiddle.description=Cozy and elegant.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchStraight.name=Arched White Farm Fence
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchStraight.description=Cozy and elegant.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchTSection.name=Arched White Farm Fence
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceArchTSection.description=Cozy and elegant.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatCorner.name=White Farm Fence
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatCorner.description=Cozy and elegant.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatCross.name=White Farm Fence
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatCross.description=Cozy and elegant.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatDestroyedCorner.name=White Farm Fence Flowers
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatDestroyedCorner.description=A profusion of flowers.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatDestroyedCross.name=White Farm Fence Flowers
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatDestroyedCross.description=A profusion of flowers.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatDestroyedEnd.name=White Farm Fence Flowers
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatDestroyedEnd.description=A profusion of flowers.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatDestroyedMiddle.name=White Farm Fence Flowers
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatDestroyedMiddle.description=A profusion of flowers.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatDestroyedStraight.name=White Farm Fence Flowers
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatDestroyedStraight.description=A profusion of flowers.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatDestroyedTSection.name=White Farm Fence Flowers
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatDestroyedTSection.description=A profusion of flowers.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatEnd.name=White Farm Fence
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatEnd.description=Cozy and elegant.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatMiddle.name=White Farm Fence
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatMiddle.description=Cozy and elegant.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatStraight.name=White Farm Fence
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatStraight.description=Cozy and elegant.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatTSection.name=White Farm Fence
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceFlatTSection.description=Cozy and elegant.
+
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceGate.name=White Farm Fence Gate
+mods.ExpandedFurniture.FenceSet.EFWhiteFarmFenceGate.description=A cozy and elegant gate.
+
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingCorner.name=Wooden Decking Railing
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingCorner.description=A tall railing so you don't fall.
+
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingCross.name=Wooden Decking Railing
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingCross.description=A tall railing so you don't fall.
+
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingDestroyedCorner.name=Splintered Wooden Decking Railing
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingDestroyedCorner.description=Don't lean on it!
+
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingDestroyedCross.name=Splintered Wooden Decking Railing
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingDestroyedCross.description=Don't lean on it!
+
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingDestroyedEnd.name=Splintered Wooden Decking Railing
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingDestroyedEnd.description=Don't lean on it!
+
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingDestroyedMiddle.name=Splintered Wooden Decking Railing
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingDestroyedMiddle.description=Don't lean on it!
+
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingDestroyedStraight.name=Splintered Wooden Decking Railing
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingDestroyedStraight.description=Don't lean on it!
+
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingDestroyedTSection.name=Splintered Wooden Decking Railing
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingDestroyedTSection.description=Don't lean on it!
+
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingEnd.name=Wooden Decking Railing
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingEnd.description=A tall railing so you don't fall.
+
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingMiddle.name=Wooden Decking Railing
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingMiddle.description=A tall railing so you don't fall.
+
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingStraight.name=Wooden Decking Railing
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingStraight.description=A tall railing so you don't fall.
+
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingTSection.name=Wooden Decking Railing
+mods.ExpandedFurniture.FenceSet.EFWoodenDeckingRailingTSection.description=A tall railing so you don't fall.
+
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceCorner.name=Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceCorner.description=It's a tall fence.
+
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceCross.name=Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceCross.description=It's a tall fence.
+
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceDestroyedCorner.name=Broken Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceDestroyedCorner.description=Time to get out the hammer.
+
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceDestroyedCross.name=Broken Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceDestroyedCross.description=Time to get out the hammer.
+
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceDestroyedEnd.name=Broken Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceDestroyedEnd.description=Time to get out the hammer.
+
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceDestroyedMiddle.name=Broken Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceDestroyedMiddle.description=Time to get out the hammer.
+
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceDestroyedStraight.name=Broken Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceDestroyedStraight.description=Time to get out the hammer.
+
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceDestroyedTSection.name=Broken Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceDestroyedTSection.description=Time to get out the hammer.
+
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceEnd.name=Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceEnd.description=It's a tall fence.
+
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceMiddle.name=Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceMiddle.description=It's a tall fence.
+
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceStraight.name=Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceStraight.description=It's a tall fence.
+
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceTSection.name=Wooden Pole Fence
+mods.ExpandedFurniture.FenceSet.EFWoodenPoleFenceTSection.description=It's a tall fence.

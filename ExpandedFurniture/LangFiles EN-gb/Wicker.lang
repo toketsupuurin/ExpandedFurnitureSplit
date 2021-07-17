@@ -1,0 +1,116 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.WickerSet.TikiCandle.name=Wicker Tiki Candle
+mods.ExpandedFurniture.WickerSet.TikiCandle.description=A table sized tiki torch!
+
+mods.ExpandedFurniture.WickerSet.WickerCarpet1x3.name=Wicker Tatami Mat
+mods.ExpandedFurniture.WickerSet.WickerCarpet1x3.description=Woven to the perfect living size.
+
+mods.ExpandedFurniture.WickerSet.WickerArmChairLeft.name=Wicker Arm Chair Left
+mods.ExpandedFurniture.WickerSet.WickerArmChairLeft.description=Dramatic but with a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerArmChairRight.name=Wicker Arm Chair Right
+mods.ExpandedFurniture.WickerSet.WickerArmChairRight.description=Dramatic but with a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerBed(NoDock).name=Wicker Single Bed (No Dock)
+mods.ExpandedFurniture.WickerSet.WickerBed(NoDock).description=It has a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerBench.name=Wicker Bench
+mods.ExpandedFurniture.WickerSet.WickerBench.description=It has a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerBookshelf.name=Wicker Bookshelf
+mods.ExpandedFurniture.WickerSet.WickerBookshelf.description=It has a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerCeilingLamp.name=Wicker Ceiling Lamp
+mods.ExpandedFurniture.WickerSet.WickerCeilingLamp.description=A paper and bamboo lamp.
+
+mods.ExpandedFurniture.WickerSet.WickerChair.name=Wicker Chair
+mods.ExpandedFurniture.WickerSet.WickerChair.description=It has a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerChandelier.name=Wicker Chandelier
+mods.ExpandedFurniture.WickerSet.WickerChandelier.description=A paper and bamboo chandelier.
+
+mods.ExpandedFurniture.WickerSet.WickerCoffeeTable(NoDock).name=Wicker Coffee Table (No Dock)
+mods.ExpandedFurniture.WickerSet.WickerCoffeeTable(NoDock).description=Dockless, with a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerCoffeeTableLoveseat.name=Wicker Coffee Table (Loveseat)
+mods.ExpandedFurniture.WickerSet.WickerCoffeeTableLoveseat.description=It has a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerCoffeeTable.name=Wicker Coffee Table (Sofa)
+mods.ExpandedFurniture.WickerSet.WickerCoffeeTable.description=It has a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerCredenza.name=Wicker Credenza
+mods.ExpandedFurniture.WickerSet.WickerCredenza.description=It has a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerDesk(NoDock).name=Wicker Desk (No Dock)
+mods.ExpandedFurniture.WickerSet.WickerDesk(NoDock).description=Dockless, with a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerDesk.name=Wicker Desk
+mods.ExpandedFurniture.WickerSet.WickerDesk.description=It has a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerDoubleBed(NoDock).name=Wicker Double Bed (No Dock)
+mods.ExpandedFurniture.WickerSet.WickerDoubleBed(NoDock).description=Dockless, with a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerDoubleBed.name=Wicker Double Bed
+mods.ExpandedFurniture.WickerSet.WickerDoubleBed.description=It has a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerDresser.name=Wicker Dresser
+mods.ExpandedFurniture.WickerSet.WickerDresser.description=It has a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerFootLamp.name=Wicker Foot Lamp
+mods.ExpandedFurniture.WickerSet.WickerFootLamp.description=A paper and bamboo lamp.
+
+mods.ExpandedFurniture.WickerSet.WickerFuton.name=Wicker Futon
+mods.ExpandedFurniture.WickerSet.WickerFuton.description=Dramatic but with a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerLamp.name=Wicker Lamp
+mods.ExpandedFurniture.WickerSet.WickerLamp.description=A paper and bamboo lamp.
+
+mods.ExpandedFurniture.WickerSet.WickerLamp2.name=Short Wicker Lamp
+mods.ExpandedFurniture.WickerSet.WickerLamp2.description=A short paper and bamboo lamp.
+
+mods.ExpandedFurniture.WickerSet.WickerLongStool.name=Wicker Long Stool
+mods.ExpandedFurniture.WickerSet.WickerLongStool.description=It has a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerLoveseat.name=Wicker Loveseat
+mods.ExpandedFurniture.WickerSet.WickerLoveseat.description=Dramatic but with a casual island flavor.
+
+staxel.tileObject.wicker.WickerSideTable(NoDock).name=Wicker Side Table (No Dock)
+staxel.tileObject.wicker.WickerSideTable(NoDock).description=Dockless, with a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerSofa.name=Wicker Sofa
+mods.ExpandedFurniture.WickerSet.WickerSofa.description=Dramatic but with a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerTableLarge.name=Wicker Large Table
+mods.ExpandedFurniture.WickerSet.WickerTableLarge.description=It has a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerTable(NoDock).name=Wicker Table (No Dock)
+mods.ExpandedFurniture.WickerSet.WickerTable(NoDock).description=Dockless, with a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerTableLarge(NoDock).name=Wicker Large Table (No Dock)
+mods.ExpandedFurniture.WickerSet.WickerTableLarge(NoDock).description=Dockless, with a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerTropicalPlant.name=Bird of Paradise Plant
+mods.ExpandedFurniture.WickerSet.WickerTropicalPlant.description=A beautiful flower that goes well with wicker furniture.
+
+mods.ExpandedFurniture.WickerSet.WickerTropicalPlant2.name=Hibiscus Plant
+mods.ExpandedFurniture.WickerSet.WickerTropicalPlant2.description=A beautiful flower that goes well with wicker furniture.
+
+mods.ExpandedFurniture.WickerSet.WickerTropicalPlant3.name=Tropical Grass Planter
+mods.ExpandedFurniture.WickerSet.WickerTropicalPlant3.description=Pretty tropical grass that goes well with wicker furniture.
+
+mods.ExpandedFurniture.WickerSet.WickerTVStand.name=Wicker TV Stand
+mods.ExpandedFurniture.WickerSet.WickerTVStand.description=It has a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerVanity.name=WickerVanity
+mods.ExpandedFurniture.WickerSet.WickerVanity.description=It has a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerWallLamp.name=Wicker Wall Lamp
+mods.ExpandedFurniture.WickerSet.WickerWallLamp.description=A paper and bamboo lamp.
+
+mods.ExpandedFurniture.WickerSet.WickerWallShelf.name=Wicker Shelf
+mods.ExpandedFurniture.WickerSet.WickerWallShelf.description=It has a casual island flavor.
+
+mods.ExpandedFurniture.WickerSet.WickerWardrobeDouble.name=Wicker Double Wardrobe
+mods.ExpandedFurniture.WickerSet.WickerWardrobeDouble.description=It has a casual island flavor.

@@ -1,0 +1,44 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "ranch",
+	"lamp",
+	"brown",
+    "light",
+	"firefly",
+	"chandelier"
+  ],
+  "code": "mods.ExpandedFurniture.RanchSet.RanchChandelier",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 250
+  },
+  "emissiveColor": "ffFFF88F",
+  "light": 20,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureRanchPack/RanchSet/RanchChandelier.qb",
+  "compound": {
+  "size": {
+    "x": 3,
+    "y": 2,
+    "z": 3
+  },
+  "specification": "CCC CXC CCC EEE EEE EEE"
+  },
+    "frameAnimatedTile": {
+    "frameTime": 0.13
+  },
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "variants": [
+    "mods/ExpandedFurnitureRanchPack/RanchSet/RanchChandelier.qb?size={48,32,48}?offset={0,0,0}",
+    "mods/ExpandedFurnitureRanchPack/RanchSet/RanchChandelier.qb?size={48,32,48}?offset={48,0,0}",
+    "mods/ExpandedFurnitureRanchPack/RanchSet/RanchChandelier.qb?size={48,32,48}?offset={96,0,0}",
+    "mods/ExpandedFurnitureRanchPack/RanchSet/RanchChandelier.qb?size={48,32,48}?offset={144,0,0}"
+  ],
+}

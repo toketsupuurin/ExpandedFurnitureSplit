@@ -1,0 +1,170 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "sundial",
+    "sculpture",
+	"fey",
+	"white",
+	"yellow"
+	],
+    "autoTileInfo": [
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "rotationToLookFor": 0,
+          "tileCategoriesToLookFor": [
+            "block", "brick", "dirt", "grass", "tile", "tiling", 
+            "floor", "flooring", "path", "pathing", "carpet", 
+            "sand", "walls", "cobblestone"
+          ],
+          "tilesToLookFor": [
+            "staxel.tile.Cloud"
+          ],
+          "tileCategoriesToReject": [
+            "pallet", "present", "station", "counter", "surface", "countertop", 
+            "furniture", "craftingStation", "decoration", "door", "window", 
+            "building", "container", "storage", "crate", "box", "display", 
+            "ore", " shelf", "post", "table", "bed", "oven", "chair", "statue", 
+            "fountain", "stairs", "frame", "fence", "bridge", " stall", "stand", 
+            "sign", "totem", "roof", "roofing"
+          ],
+          "tilesToReject": [
+            "staxel.tileObject.serverVillage.UpperWoodenFloor",
+            "staxel.tileObject.serverVillage.WoodBeamHorizontal",
+            "staxel.tileObject.serverVillage.exterior.LooseBricks"
+          ],
+        }
+      ],
+      "results": [
+        {
+          "tileToPlace": "ExpandedFurniture.FeySet.FeySundial",
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "rotationToLookFor": 1,
+          "tileCategoriesToLookFor": [
+            "block", "brick", "dirt", "grass", "tile", "tiling", 
+            "floor", "flooring", "path", "pathing", "carpet", 
+            "sand", "walls", "cobblestone"
+          ],
+          "tilesToLookFor": [
+            "staxel.tile.Cloud"
+          ],
+          "tileCategoriesToReject": [
+            "pallet", "present", "station", "counter", "surface", "countertop", 
+            "furniture", "craftingStation", "decoration", "door", "window", 
+            "building", "container", "storage", "crate", "box", "display", 
+            "ore", " shelf", "post", "table", "bed", "oven", "chair", "statue", 
+            "fountain", "stairs", "frame", "fence", "bridge", " stall", "stand", 
+            "sign", "totem", "roof", "roofing"
+          ],
+          "tilesToReject": [
+            "staxel.tileObject.serverVillage.UpperWoodenFloor",
+            "staxel.tileObject.serverVillage.WoodBeamHorizontal",
+            "staxel.tileObject.serverVillage.exterior.LooseBricks"
+          ],
+        }
+      ],
+      "results": [
+        {
+          "tileToPlace": "ExpandedFurniture.FeySet.FeySundial",
+          "rotation": 1
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "rotationToLookFor": 2,
+          "tileCategoriesToLookFor": [
+            "block", "brick", "dirt", "grass", "tile", "tiling", 
+            "floor", "flooring", "path", "pathing", "carpet", 
+            "sand", "walls", "cobblestone"
+          ],
+          "tilesToLookFor": [
+            "staxel.tile.Cloud"
+          ],
+          "tileCategoriesToReject": [
+            "pallet", "present", "station", "counter", "surface", "countertop", 
+            "furniture", "craftingStation", "decoration", "door", "window", 
+            "building", "container", "storage", "crate", "box", "display", 
+            "ore", " shelf", "post", "table", "bed", "oven", "chair", "statue", 
+            "fountain", "stairs", "frame", "fence", "bridge", " stall", "stand", 
+            "sign", "totem", "roof", "roofing"
+          ],
+          "tilesToReject": [
+            "staxel.tileObject.serverVillage.UpperWoodenFloor",
+            "staxel.tileObject.serverVillage.WoodBeamHorizontal",
+            "staxel.tileObject.serverVillage.exterior.LooseBricks"
+          ],
+        }
+      ],
+      "results": [
+        {
+          "tileToPlace": "ExpandedFurniture.FeySet.FeySundial",
+          "rotation": 2
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "rotationToLookFor": 3,
+          "tileCategoriesToLookFor": [
+            "block", "brick", "dirt", "grass", "tile", "tiling", 
+            "floor", "flooring", "path", "pathing", "carpet", 
+            "sand", "walls", "cobblestone"
+          ],
+          "tilesToLookFor": [
+            "staxel.tile.Cloud"
+          ],
+          "tileCategoriesToReject": [
+            "pallet", "present", "station", "counter", "surface", "countertop", 
+            "furniture", "craftingStation", "decoration", "door", "window", 
+            "building", "container", "storage", "crate", "box", "display", 
+            "ore", " shelf", "post", "table", "bed", "oven", "chair", "statue", 
+            "fountain", "stairs", "frame", "fence", "bridge", " stall", "stand", 
+            "sign", "totem", "roof", "roofing"
+          ],
+          "tilesToReject": [
+            "staxel.tileObject.serverVillage.UpperWoodenFloor",
+            "staxel.tileObject.serverVillage.WoodBeamHorizontal",
+            "staxel.tileObject.serverVillage.exterior.LooseBricks"
+          ],
+        }
+      ],
+      "results": [
+        {
+          "tileToPlace": "ExpandedFurniture.FeySet.FeySundial",
+          "rotation": 3
+        }
+      ]
+    },
+  ],
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    },
+    "specification": "CX"
+  },
+  "code": "ExpandedFurniture.FeySet.FeySundialKit",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 12,
+    "value": 20
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureFestivalPack/FeySet/SundialKit.qb"
+}

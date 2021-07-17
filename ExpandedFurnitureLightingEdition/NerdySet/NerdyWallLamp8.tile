@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "wall",
+    "lamp",
+    "yellow",
+    "nerdy"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.NerdySet.NerdyWallLamp8",
+  "emissiveColor": "FFC335",
+  "light": 7.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureLightingEdition/NerdySet/NerdyWallLamp8.qb"
+}

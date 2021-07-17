@@ -1,0 +1,43 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "yp"
+  ],
+  "categories": [
+    "table",
+	"TvStand",
+	"TvStand",
+    "surface",
+    "furniture",
+    "television",
+    "TV",
+    "t.v",
+    "stand",
+	"rainbow",
+    "yellow"
+  ],
+  "code": "mods.ExpandedFurniture.YellowRainbowSet.YellowRainbowTVStand",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "placementDirections": [
+    "yn",
+    "xp",
+    "xn",
+    "zp",
+    "zn"
+  ],
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureRainbowPack/YellowRainbowSet/YellowRainbowTVStand.qb"
+}

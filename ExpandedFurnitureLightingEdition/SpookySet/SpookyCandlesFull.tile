@@ -1,0 +1,45 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "candle",
+    "spooky",
+    "candles"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.SpookySet.SpookyCandlesFull",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    },
+	"specification": "EX"
+  },
+  "emissiveColor": "7242B3",
+  "frameAnimatedTile": {
+    "frameTime": 0.13
+  },
+  "light": 3.0,
+  "pathFindingPenalty": 500,
+  "prefetchTileState": true,
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 1200,
+    "value": 2000
+  },
+
+  "randomizePosition": false,
+  "searchable": true,
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "variants": [
+    "staxel/tileObject/themedfurniture/spooky/SpookyCandles.qb?size={16,32,16}?offset={0,0,0}",
+    "staxel/tileObject/themedfurniture/spooky/SpookyCandles.qb?size={16,32,16}?offset={16,0,0}",
+    "staxel/tileObject/themedfurniture/spooky/SpookyCandles.qb?size={16,32,16}?offset={32,0,0}",
+    "staxel/tileObject/themedfurniture/spooky/SpookyCandles.qb?size={16,32,16}?offset={48,0,0}"
+  ],
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  }

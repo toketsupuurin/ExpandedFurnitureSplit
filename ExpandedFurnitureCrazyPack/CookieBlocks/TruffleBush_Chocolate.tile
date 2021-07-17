@@ -1,0 +1,22 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "flower",
+    "plant",
+    "misc",
+    "brown",
+	"truffle",
+	"chocolate",
+    "cookie",
+    "candy"
+  ],
+  "code": "mods.ExpandedFurniture.CookieBlocks.TruffleBush_Chocolate",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10,
+    "value": 500
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureCrazyPack/CookieBlocks/TruffleBush_Chocolate.qb"
+}

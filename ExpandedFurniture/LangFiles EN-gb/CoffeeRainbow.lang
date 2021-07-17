@@ -1,0 +1,131 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowArmChair.name=Coffee Rainbow Arm Chair
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowArmChair.description=A casual coffee-colored slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowBed(NoDock).name=Coffee Rainbow Single Bed (No Dock)
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowBed(NoDock).description=A casual dockless coffee-colored slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowBed.name=Coffee Rainbow Single Bed
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowBed.description=A casual coffee-colored slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowBookshelf.name=Coffee Rainbow Bookshelf
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowBookshelf.description=A casual coffee-colored slatted piece.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowCandle.name=Coffee Rainbow Candle
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowCandle.description=A casual coffee-colored candle.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowCandle2.name=CoffeeRainbow Melted Candle
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowCandle2.description=A used coffee-colored candle.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowCarpet1x3.name=Coffee Rainbow Carpet
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowCarpet1x3.description=A casual piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowCeilingLamp.name=Coffee Rainbow Ceiling Lamp
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowCeilingLamp.description=A casual coffee-colored lamp.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowCeilingLampBeaded.name=Coffee Rainbow Beaded Ceiling Lamp
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowCeilingLampBeaded.description=A beaded coffee-colored lamp.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowChair.name=Coffee Rainbow Chair
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowChair.description=A casual coffee-colored slatted piece.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowChandelier.name=CoffeeRainbowChandelier
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowChandelier.description=A casual coffee-colored chandelier.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowChandelierBeaded.name=Coffee Rainbow Beaded Chandelier
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowChandelierBeaded.description=A beaded coffee-colored chandelier.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowCoffeeTable(NoDock).name=Coffee Rainbow Coffee Table (No Dock)
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowCoffeeTable(NoDock).description=A dockless casual coffee-colored slatted piece.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowCoffeeTableSofa.name=Coffee Rainbow Coffee Table (Sofa)
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowCoffeeTableSofa.description=A casual coffee-colored slatted piece.
+
+staxel.tileObject.themedfurniture.rainbow.CoffeeRainbowCoffeeTable.name=Coffee Rainbow Coffee Table (Loveseat)
+staxel.tileObject.themedfurniture.rainbow.CoffeeRainbowCoffeeTable.description=A casual coffee-colored slatted piece.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowCredenza.name=Coffee Rainbow Credenza
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowCredenza.description=A casual coffee-colored slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowDesk(NoDock).name=Coffee Rainbow Desk (No Dock)
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowDesk(NoDock).description=A dockless casual coffee-colored slatted piece.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowDesk.name=Coffee Rainbow Desk
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowDesk.description=A casual coffee-colored slatted piece.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowDoubleBed(NoDock).name=Coffee Rainbow Double Bed (No Dock)
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowDoubleBed(NoDock).description=A dockless casual coffee-colored slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowDoubleBed.name=Coffee Rainbow Double Bed
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowDoubleBed.description=A casual coffee-colored slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowDresser.name=Coffee Rainbow Dresser
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowDresser.description=A casual coffee-colored slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowFootLamp.name=Coffee Rainbow Foot Lamp
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowFootLamp.description=A casual coffee-colored lamp.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowFootLampBeaded.name=Coffee Rainbow Beaded Foot Lamp
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowFootLampBeaded.description=A beaded coffee-colored lamp.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowFuton.name=Coffee Rainbow Futon
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowFuton.description=A casual coffee-colored slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowLamp.name=Coffee Rainbow Lamp
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowLamp.description=A casual coffee-colored lamp.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowLampBeaded.name=Coffee Rainbow Beaded Lamp
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowLampBeaded.description=A beaded coffee-colored lamp.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowLongStool.name=Coffee Rainbow Long Stool
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowLongStool.description=A casual coffee-colored slatted piece.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowLoveseat.name=Coffee Rainbow Loveseat
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowLoveseat.description=A casual coffee-colored slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowSideTable(NoDock).name=Coffee Rainbow Side Table (No Dock)
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowSideTable(NoDock).description=A dockless casual coffee-colored slatted piece.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowSideTable.name=Coffee Rainbow Side Table
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowSideTable.description=A casual coffee-colored slatted piece.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowSofa.name=Coffee Rainbow Sofa
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowSofa.description=A casual coffee-colored slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowStool.name=Coffee Rainbow Stool
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowStool.description=A casual coffee-colored slatted piece.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowTable.name=Coffee Rainbow Table
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowTable.description=A casual coffee-colored slatted piece.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowTable(NoDock).name=Coffee Rainbow Table (No Dock)
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowTable(NoDock).description=A dockless casual coffee-colored slatted piece.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowTableLarge(NoDock).name=Coffee Rainbow Large Table (No Dock)
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowTableLarge(NoDock).description=A dockless casual coffee-colored slatted piece.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowTableLarge.name=Coffee Rainbow Large Table
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowTableLarge.description=A casual coffee-colored slatted piece.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowTVStand.name=Coffee Rainbow TV Stand
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowTVStand.description=A casual coffee-colored slatted piece.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowVanity.name=Coffee Rainbow Vanity
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowVanity.description=A casual coffee-colored slatted piece.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowWallLamp.name=Coffee Rainbow Wall Lamp
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowWallLamp.description=A casual coffee-colored lamp.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowWallLampBeaded.name=Coffee Rainbow Beaded Wall Lamp
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowWallLampBeaded.description=A beaded coffee-colored lamp.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowWallShelf.name=Coffee Rainbow Shelf
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowWallShelf.description=A casual coffee-colored slatted piece.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowWardrobeDouble.name=Coffee Rainbow Double Wardrobe
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowWardrobeDouble.description=A casual coffee-colored slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowWardrobeSingle.name=Coffee Rainbow Single Wardrobe
+mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowWardrobeSingle.description=A casual coffee-colored slatted piece with cheerful rainbow stripes.

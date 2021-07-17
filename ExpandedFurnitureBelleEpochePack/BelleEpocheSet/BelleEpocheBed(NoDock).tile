@@ -1,0 +1,32 @@
+{
+    "__inherits": "staxel/tileObject/noDock.config",
+    "code": "mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheBed(NoDock)",
+    "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+    "categories": [
+        "furniture",
+        "belle",
+        "epoche",
+        "white",
+        "wood",
+        "set",
+        "bed",
+        "sleep",
+        "single"
+    ],
+    "compound": {
+        "size": {
+            "x": 3,
+            "y": 1,
+            "z": 3
+        },
+        "specification": "CCC CXC CCC"
+    },
+    "voxels": "mods/ExpandedFurnitureBelleEpochePack/BelleEpocheSet/BelleEpocheBed.qb",
+    "pricing": {
+        "buyable": true,
+        "catalogueUnlockedFromStart": true,
+        "sellPrice": 10,
+        "value": 5000
+    },
+    "searchable": true
+}

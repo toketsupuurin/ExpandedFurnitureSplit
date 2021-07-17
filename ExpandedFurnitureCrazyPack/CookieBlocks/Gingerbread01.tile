@@ -1,0 +1,34 @@
+{
+  "__inherits": "staxel/tile/Hammerable.config",
+  "categories": [
+    "brown",
+    "block",
+    "cookie",
+    "candy",
+    "gingerbread"
+  ],
+  "code": "mods.ExpandedFurniture.CookieBlocks.Gingerbread",
+  "damageSoundGroup": "staxel.sounds.damage.Stone",
+  "placeSoundGroup": "staxel.sounds.place.Stone",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 50
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "tileStateKind": "staxel.tileState.Dirt",
+  "voxels": "mods/ExpandedFurnitureCrazyPack/CookieBlocks/Gingerbread01.qb",
+    "alts": [
+    "mods/ExpandedFurnitureCrazyPack/CookieBlocks/Gingerbread01_Alt1.qb",
+//    "mods/ExpandedFurnitureCrazyPack/CookieBlocks/Gingerbread01_Alt2.qb",
+    "mods/ExpandedFurnitureCrazyPack/CookieBlocks/Gingerbread01_Alt3.qb",
+    "mods/ExpandedFurnitureCrazyPack/CookieBlocks/Gingerbread01_Alt4.qb",
+//    "mods/ExpandedFurnitureCrazyPack/CookieBlocks/Gingerbread01_Alt5.qb",
+//    "mods/ExpandedFurnitureCrazyPack/CookieBlocks/Gingerbread01_Alt6.qb",
+    "mods/ExpandedFurnitureCrazyPack/CookieBlocks/Gingerbread01_Alt7.qb",
+    "mods/ExpandedFurnitureCrazyPack/CookieBlocks/Gingerbread01_Alt8.qb"
+  ],
+  "altsCount": 6
+}

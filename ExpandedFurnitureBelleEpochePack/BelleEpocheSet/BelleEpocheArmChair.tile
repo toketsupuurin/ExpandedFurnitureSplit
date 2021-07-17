@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/docks/OneSeater_Thick.config",
+  "categories": [
+    "furniture",
+    "white",
+    "belle",
+    "epoche",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "armchair"
+  ],
+  "code": "mods.ExpandedFurniture.BelleEpocheSet.BelleEpocheArmChair",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureBelleEpochePack/BelleEpocheSet/BelleEpocheArmChair.qb"
+}

@@ -1,0 +1,61 @@
+{
+    "file": "staxel/farmAnimals/sheep/Sheep.farmAnimal",
+    "priority": 1,
+    "mergeLists": true,
+    "patch" : {
+	  "models": [
+		"mods/ExpandedFurnitureCrazyPack/AlienEgg/AlienSheep1.qb",
+	  ],
+	  "nudeModels": [
+		"mods/ExpandedFurnitureCrazyPack/AlienEgg/AlienSheepShaved1.qb",
+	  ],
+	  "moodOverrides": [
+	  {
+		"model": "mods/ExpandedFurnitureCrazyPack/AlienEgg/AlienSheep1.qb",
+		"moods": {
+			"great": [
+				"mods.ExpandedFurniture.AlienEgg.eyes.Sheep.great.1"
+			],
+			"good": [
+				"mods.ExpandedFurniture.AlienEgg.eyes.Sheep.happy.1"
+			],
+			"normal": [
+				"mods.ExpandedFurniture.AlienEgg.eyes.Sheep.normal.1"
+			],
+			"bad": [
+				"mods.ExpandedFurniture.AlienEgg.eyes.Sheep.bad.1"
+			],
+			"horrible": [
+				"mods.ExpandedFurniture.AlienEgg.eyes.Sheep.horrible.1"
+			],
+			"sleeping": [
+				"mods.ExpandedFurniture.AlienEgg.eyes.Sheep.sleep.1"
+			]
+		}
+	  },
+	  {
+		"model": "mods/ExpandedFurnitureCrazyPack/AlienEgg/AlienSheepShaved1.qb",
+		"moods": {
+			"great": [
+				"mods.ExpandedFurniture.AlienEgg.eyes.Sheep.greatShaved"
+			],
+			"good": [
+				"mods.ExpandedFurniture.AlienEgg.eyes.Sheep.happyShaved"
+			],
+			"normal": [
+				"mods.ExpandedFurniture.AlienEgg.eyes.Sheep.normalShaved"
+			],
+			"bad": [
+				"mods.ExpandedFurniture.AlienEgg.eyes.Sheep.badShaved"
+			],
+			"horrible": [
+				"mods.ExpandedFurniture.AlienEgg.eyes.Sheep.horribleShaved"
+			],
+			"sleeping": [
+				"mods.ExpandedFurniture.AlienEgg.eyes.Sheep.sleepShaved"
+			]
+		}
+	  },
+	  ]
+	} 
+}

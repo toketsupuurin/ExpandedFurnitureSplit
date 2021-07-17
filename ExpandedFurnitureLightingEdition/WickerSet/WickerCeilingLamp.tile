@@ -1,0 +1,24 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "wicker",
+	"lamp",
+	"brown",
+	"bamboo",
+    "light"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.WickerSet.WickerCeilingLamp",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 630
+  },
+  "emissiveColor": "fff57317",
+  "light": 2.2,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureLightingEdition/WickerSet/WickerCeilingLamp.qb"
+}

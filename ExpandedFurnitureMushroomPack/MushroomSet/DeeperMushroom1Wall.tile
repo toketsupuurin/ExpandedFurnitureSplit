@@ -1,0 +1,32 @@
+{
+  "__inherits": "mods/ExpandedFurniture/ConfigsDocks/DeeperMushroom1.config",
+  "categories": [
+    "purple",
+    "mushroom"
+  ],
+  "code": "mods.ExpandedFurniture.MushroomSet.DeeperMushroom1Wall",
+  "collision": false,
+  "emissiveColor": "ff8000ff",
+  "light": 0.55,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 60,
+    "value": 100
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureMushroomPack/MushroomSet/DeeperMushroom1Wall.qb",
+  "spawnOnBreak": {
+    "selfDropChance": 0.0,
+    "drops": {
+      "entries": [
+        {
+          "chance": 0.5,
+          "spawn": {
+            "code": "staxel.item.gatherable.RareMushroom"
+          }
+        }
+      ]
+    }
+  }
+}

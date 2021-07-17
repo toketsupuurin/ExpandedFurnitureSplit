@@ -1,0 +1,34 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "wall",
+    "festival",
+	"lamp",
+	"lantern",
+	"snow",
+	"dust",
+	"snowdust",
+	"red"
+  ],
+  "code": "mods.ExpandedFurniture.FestivalSet.RedWallLantern",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "emissiveColor": "ffE6B626",
+  "light": 1.5,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureFestivalPack/FestivalSet/RedWallLantern.qb"
+}

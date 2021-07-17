@@ -1,0 +1,83 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistBed(NoDock).name=Minimalist Single Bed (No Dock)
+mods.ExpandedFurniture.MinimalistSet.MinimalistBed(NoDock).description=So simple it has no dock.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistBookshelf.name=Minimalist Bookshelf
+mods.ExpandedFurniture.MinimalistSet.MinimalistBookshelf.description=How does it stay up?
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistCandle.name=Minimalist Candle
+mods.ExpandedFurniture.MinimalistSet.MinimalistCandle.description=It could be a little simpler.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistCandle2.name=Minimalist Candle
+mods.ExpandedFurniture.MinimalistSet.MinimalistCandle2.description=Nothing could be simpler.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistCarpet1x3.name=Minimalist Carpet
+mods.ExpandedFurniture.MinimalistSet.MinimalistCarpet1x3.description=Nothing could be simpler.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistCeilingLamp.name=Minimalist Ceiling Lamp
+mods.ExpandedFurniture.MinimalistSet.MinimalistCeilingLamp.description=Nothing could be simpler.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistChandelier.name=Minimalist Chandelier Right
+mods.ExpandedFurniture.MinimalistSet.MinimalistChandelier.description=Very abstract.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistChandelier2.name=Minimalist Chandelier Left
+mods.ExpandedFurniture.MinimalistSet.MinimalistChandelier2.description=Very abstract.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistCoffeeTable(NoDock).name=Minimalist Coffee Table (No Dock)
+mods.ExpandedFurniture.MinimalistSet.MinimalistCoffeeTable(NoDock).description=So simple it has no dock.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistCoffeeTableLoveseat.name=Minimalist Coffee Table (Loveseat)
+mods.ExpandedFurniture.MinimalistSet.MinimalistCoffeeTableLoveseat.description=Nothing could be simpler.
+
+staxel.tileObject.themedfurniture.minimalist.MinimalistCoffeeTable.name=Minimalist Coffee Table (Sofa)
+staxel.tileObject.themedfurniture.minimalist.MinimalistCoffeeTable.description=Nothing could be simpler.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistDoubleBed(NoDock).name=Minimalist Double Bed (No Dock)
+mods.ExpandedFurniture.MinimalistSet.MinimalistDoubleBed(NoDock).description=So simple it has no dock.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistFootLamp.name=Minimalist White Foot Lamp
+mods.ExpandedFurniture.MinimalistSet.MinimalistFootLamp.description=Nothing could be simpler.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistFootLamp2.name=Minimalist Black Foot Lamp
+mods.ExpandedFurniture.MinimalistSet.MinimalistFootLamp2.description=Nothing could be simpler.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistFuton.name=Minimalist Futon
+mods.ExpandedFurniture.MinimalistSet.MinimalistFuton.description=Nothing could be simpler.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistLamp2.name=Minimalist Black Lamp
+mods.ExpandedFurniture.MinimalistSet.MinimalistLamp2.description=Nothing could be simpler.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistLongStool.name=Minimalist Long Stool
+mods.ExpandedFurniture.MinimalistSet.MinimalistLongStool.description=Nothing could be simpler.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistSideTable(NoDock).name=Minimalist Side Table (No Dock)
+mods.ExpandedFurniture.MinimalistSet.MinimalistSideTable(NoDock).description=So simple it has no dock.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistStool.name=Minimalist Stool
+mods.ExpandedFurniture.MinimalistSet.MinimalistStool.description=Nothing could be simpler.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistTable(NoDock).name=Minimalist Table (No Dock)
+mods.ExpandedFurniture.MinimalistSet.MinimalistTable(NoDock).description=So simple it has no dock.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistTableLarge(NoDock).name=Minimalist Large Table (No Dock)
+mods.ExpandedFurniture.MinimalistSet.MinimalistTableLarge(NoDock).description=So simple it has no dock.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistTVStand.name=Minimalist TV Stand
+mods.ExpandedFurniture.MinimalistSet.MinimalistTVStand.description=Actually looks a little complicated.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistVanity.name=Minimalist Vanity
+mods.ExpandedFurniture.MinimalistSet.MinimalistVanity.description=How do you open it?
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistWallLamp.name=Minimalist White Wall Lamp
+mods.ExpandedFurniture.MinimalistSet.MinimalistWallLamp.description=Nothing could be simpler.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistWallLamp2.name=Minimalist Black Wall Lamp
+mods.ExpandedFurniture.MinimalistSet.MinimalistWallLamp2.description=Nothing could be simpler.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistWallShelf.name=Minimalist Shelf
+mods.ExpandedFurniture.MinimalistSet.MinimalistWallShelf.description=Nothing could be simpler.
+
+mods.ExpandedFurniture.MinimalistSet.MinimalistWardrobeSingle.name=Minimalist Single Wardrobe
+mods.ExpandedFurniture.MinimalistSet.MinimalistWardrobeSingle.description=How do you open it?

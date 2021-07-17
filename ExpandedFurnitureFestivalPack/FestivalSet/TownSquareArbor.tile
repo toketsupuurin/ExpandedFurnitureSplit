@@ -1,0 +1,34 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachToBelow": true,
+  "categories": [
+    "misc",
+    "festival",
+    "flower",
+    "brown",
+    "wood",
+    "arch",
+    "town",
+    "plaza",
+    "square",
+    "arbor"
+  ],
+  "code": "mods.ExpandedFurniture.FestivalSet.TownSquareArbor",
+  "compound": {
+    "size": {
+      "x": 6,
+      "y": 4,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 48,
+    "value": 100
+  },
+  "randomizePosition": false,
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureFestivalPack/FestivalSet/TownSquareArbor.qb",
+  "pathFindingNoCollision": true
+}

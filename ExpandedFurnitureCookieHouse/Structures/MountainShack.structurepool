@@ -1,0 +1,9 @@
+{
+  "code": "mods.ExpandedFurniture.CookieHouse.structurePool.MountainShacks",
+  "options": [
+		{
+			"chance": 2.0,
+			"template": "mods.ExpandedFurniture.CookieBlocks.SantaHouse"
+		},
+  ]
+}

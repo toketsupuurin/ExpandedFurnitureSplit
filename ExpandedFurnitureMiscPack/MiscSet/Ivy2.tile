@@ -1,0 +1,31 @@
+{
+  "__inherits": "staxel/tileObject/vines.config",
+  "categories": [
+    "plant",
+    "vine",
+	"EFivy",
+	"ivy",
+	"basic",
+    "vines",
+    "green"
+  ],
+  "code": "mods.ExpandedFurniture.SimplySet.SimplyIvy2",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 12,
+    "value": 20
+  },
+  "searchable": false,
+  "representativeTile": "mods.ExpandedFurniture.SimplySet.SimplyIvy",
+  "scytheable": {},
+  "stepSoundGroup": "staxel.sounds.GrassFootSteps",
+  "tilePlacement": {
+    "inHandOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.3
+    }
+  },
+  "voxels": "mods/ExpandedFurnitureMiscPack/MiscSet/Ivy2.qb"
+}

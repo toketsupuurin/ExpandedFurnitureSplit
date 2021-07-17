@@ -1,0 +1,132 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowArmChair.name=Black Rainbow Arm Chair
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowArmChair.description=A casual black slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowBed(NoDock).name=Black Rainbow Single Bed (No Dock)
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowBed(NoDock).description=A casual dockless black slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowBed.name=Black Rainbow Single Bed
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowBed.description=A casual black slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowBookshelf.name=Black Rainbow Bookshelf
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowBookshelf.description=A casual black slatted piece.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowCandle.name=Black Rainbow Candle
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowCandle.description=A casual black candle.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowCandle2.name=BlackRainbow Melted Candle
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowCandle2.description=A used black candle.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowCarpet1x3.name=Black Rainbow Carpet
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowCarpet1x3.description=A casual piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowCeilingLamp.name=Black Rainbow Ceiling Lamp
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowCeilingLamp.description=A casual black lamp.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowCeilingLampBeaded.name=Black Rainbow Beaded Ceiling Lamp
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowCeilingLampBeaded.description=A beaded black lamp.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowChair.name=Black Rainbow Chair
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowChair.description=A casual black slatted piece.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowChandelier.name=BlackRainbowChandelier
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowChandelier.description=A casual black chandelier.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowChandelierBeaded.name=Black Rainbow Beaded Chandelier
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowChandelierBeaded.description=A beaded black chandelier.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowCoffeeTable(NoDock).name=Black Rainbow Coffee Table (No Dock)
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowCoffeeTable(NoDock).description=A dockless casual black slatted piece.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowCoffeeTableSofa.name=Black Rainbow Coffee Table (Sofa)
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowCoffeeTableSofa.description=A casual Black slatted piece.
+
+staxel.tileObject.themedfurniture.rainbow.BlackRainbowCoffeeTable.name=Black Rainbow Coffee Table (Loveseat)
+staxel.tileObject.themedfurniture.rainbow.BlackRainbowCoffeeTable.description=A casual Black slatted piece.
+staxel.tileObject.themedfurniture.rainbow.BlackRainbowCoffeeTable.description=A casual Black slatted piece.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowCredenza.name=Black Rainbow Credenza
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowCredenza.description=A casual black slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowDesk(NoDock).name=Black Rainbow Desk (No Dock)
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowDesk(NoDock).description=A dockless casual black slatted piece.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowDesk.name=Black Rainbow Desk
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowDesk.description=A casual black slatted piece.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowDoubleBed(NoDock).name=Black Rainbow Double Bed (No Dock)
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowDoubleBed(NoDock).description=A dockless casual black slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowDoubleBed.name=Black Rainbow Double Bed
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowDoubleBed.description=A casual black slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowDresser.name=Black Rainbow Dresser
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowDresser.description=A casual black slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowFootLamp.name=Black Rainbow Foot Lamp
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowFootLamp.description=A casual black lamp.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowFootLampBeaded.name=Black Rainbow Beaded Foot Lamp
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowFootLampBeaded.description=A beaded black lamp.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowFuton.name=Black Rainbow Futon
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowFuton.description=A casual black slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowLamp.name=Black Rainbow Lamp
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowLamp.description=A casual black lamp.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowLampBeaded.name=Black Rainbow Beaded Lamp
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowLampBeaded.description=A beaded black lamp.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowLongStool.name=Black Rainbow Long Stool
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowLongStool.description=A casual black slatted piece.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowLoveseat.name=Black Rainbow Loveseat
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowLoveseat.description=A casual black slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowSideTable(NoDock).name=Black Rainbow Side Table (No Dock)
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowSideTable(NoDock).description=A dockless casual black slatted piece.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowSideTable.name=Black Rainbow Side Table
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowSideTable.description=A casual black slatted piece.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowSofa.name=Black Rainbow Sofa
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowSofa.description=A casual black slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowStool.name=Black Rainbow Stool
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowStool.description=A casual black slatted piece.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowTable.name=Black Rainbow Table
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowTable.description=A casual black slatted piece.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowTable(NoDock).name=Black Rainbow Table (No Dock)
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowTable(NoDock).description=A dockless casual black slatted piece.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowTableLarge(NoDock).name=Black Rainbow Large Table (No Dock)
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowTableLarge(NoDock).description=A dockless casual black slatted piece.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowTableLarge.name=Black Rainbow Large Table
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowTableLarge.description=A casual black slatted piece.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowTVStand.name=Black Rainbow TV Stand
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowTVStand.description=A casual black slatted piece.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowVanity.name=Black Rainbow Vanity
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowVanity.description=A casual black slatted piece.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowWallLamp.name=Black Rainbow Wall Lamp
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowWallLamp.description=A casual black lamp.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowWallLampBeaded.name=Black Rainbow Beaded Wall Lamp
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowWallLampBeaded.description=A beaded black lamp.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowWallShelf.name=Black Rainbow Shelf
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowWallShelf.description=A casual black slatted piece.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowWardrobeDouble.name=Black Rainbow Double Wardrobe
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowWardrobeDouble.description=A casual black slatted piece with cheerful rainbow stripes.
+
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowWardrobeSingle.name=Black Rainbow Single Wardrobe
+mods.ExpandedFurniture.BlackRainbowSet.BlackRainbowWardrobeSingle.description=A casual black slatted piece with cheerful rainbow stripes.

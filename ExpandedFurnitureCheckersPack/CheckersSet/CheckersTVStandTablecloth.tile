@@ -1,0 +1,33 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "table",
+	"TvStand",
+    "surface",
+    "furniture",
+    "television",
+    "TV",
+    "t.v",
+    "stand",
+	"checkers",
+    "brown"
+  ],
+  "code": "mods.ExpandedFurniture.CheckersSet.CheckersTVStandTablecloth",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 1,
+      "z": 2
+    },
+    "specification": "EEE EXE"
+  },
+  "pricing": {
+    "buyable": false,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 10,
+    "value": 1300
+  },
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureCheckersPack/CheckersSet/CheckersTVStandTablecloth.qb"
+}

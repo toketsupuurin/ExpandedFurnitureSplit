@@ -1,0 +1,17 @@
+{
+    "file": "staxel/structure/forest/shack.structurepool",
+    "priority": 50, //Higher priority leads to this patch being applied later than others.
+    "mergeLists": true, 
+    "patch": {
+  "options": [
+		{
+			"chance": 2.0,
+			"template": "mods.ExpandedFurniture.CookieBlocks.WitchHouse"
+		},
+		{
+			"chance": 2.0,
+			"template": "mods.ExpandedFurniture.CookieBlocks.SantaHouse"
+		},
+	]
+  }
+}

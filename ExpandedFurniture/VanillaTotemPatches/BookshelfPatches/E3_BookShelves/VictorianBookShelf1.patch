@@ -1,0 +1,13 @@
+{
+    "file": "mods/E3_BookShelves/Victorian/VictorianBookShelf1.tile",
+	"patchIfFileExists": "mods/E3_BookShelves/Victorian/VictorianBookShelf1.tile",
+    "priority": 999, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch": {
+
+		"categories": [
+			"Bookshelf",
+		],
+
+    }
+}

@@ -1,0 +1,77 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.PastelSet.PastelBed(NoDock).name=Pastel Single Bed (No Dock)
+mods.ExpandedFurniture.PastelSet.PastelBed(NoDock).description=Dockless. Very girly.
+
+mods.ExpandedFurniture.PastelSet.PastelBookshelf.name=Pastel Bookshelf
+mods.ExpandedFurniture.PastelSet.PastelBookshelf.description=It has lovely carved scrollwork.
+
+mods.ExpandedFurniture.PastelSet.PastelCandle.name=Pastel Blue Candle
+mods.ExpandedFurniture.PastelSet.PastelCandle.description=It has a little porcelain dish.
+
+mods.ExpandedFurniture.PastelSet.PastelCandle2.name=Pastel Pink Candle
+mods.ExpandedFurniture.PastelSet.PastelCandle2.description=It has a little porcelain dish.
+
+mods.ExpandedFurniture.PastelSet.PastelCarpet3x3.name=Pastel Carpet
+mods.ExpandedFurniture.PastelSet.PastelCarpet3x3.description=PastelCarpet3x3
+
+mods.ExpandedFurniture.PastelSet.PastelCeilingLamp.name=Pastel Ceiling Lamp
+mods.ExpandedFurniture.PastelSet.PastelCeilingLamp.description=Very girly.
+
+mods.ExpandedFurniture.PastelSet.PastelCeilingLamp2.name=Pastel Purple Ceiling Lamp
+mods.ExpandedFurniture.PastelSet.PastelCeilingLamp2.description=Very girly.
+
+mods.ExpandedFurniture.PastelSet.PastelChandelier.name=Pastel Chandelier
+mods.ExpandedFurniture.PastelSet.PastelChandelier.description=Actually pretty elegant.
+
+mods.ExpandedFurniture.PastelSet.PastelCoffeeTable(NoDock).name=Pastel Coffee Table (No Dock)
+mods.ExpandedFurniture.PastelSet.PastelCoffeeTable(NoDock).description=Dockless. Very girly.
+
+mods.ExpandedFurniture.PastelSet.PastelCoffeeTableLoveseat.name=Pastel Coffee Table (Loveseat)
+mods.ExpandedFurniture.PastelSet.PastelCoffeeTableLoveseat.description=Very girly.
+
+staxel.tileObject.themedfurniture.pastel.PastelCoffeeTable.name=Pastel Coffee Table (Sofa)
+staxel.tileObject.themedfurniture.pastel.PastelCoffeeTable.description=Very girly.
+
+mods.ExpandedFurniture.PastelSet.PastelDesk(NoDock).name=Pastel Desk (No Dock)
+mods.ExpandedFurniture.PastelSet.PastelDesk(NoDock).description=Dockless. Very girly.
+
+mods.ExpandedFurniture.PastelSet.PastelDoubleBed(NoDock).name=Pastel Double Bed (No Dock)
+mods.ExpandedFurniture.PastelSet.PastelDoubleBed(NoDock).description=Dockless. Very girly.
+
+mods.ExpandedFurniture.PastelSet.PastelFootLamp2.name=Pastel Purple Foot Lamp
+mods.ExpandedFurniture.PastelSet.PastelFootLamp2.description=Very girly.
+
+mods.ExpandedFurniture.PastelSet.PastelFuton.name=Pastel Futon
+mods.ExpandedFurniture.PastelSet.PastelFuton.description=Perfect place for a pedicure.
+
+mods.ExpandedFurniture.PastelSet.PastelLamp2.name=Pastel Purple Lamp
+mods.ExpandedFurniture.PastelSet.PastelLamp2.description=Very girly.
+
+mods.ExpandedFurniture.PastelSet.PastelLongStool.name=Pastel Long Stool
+mods.ExpandedFurniture.PastelSet.PastelLongStool.description=Very girly.
+
+mods.ExpandedFurniture.PastelSet.PastelSideTable(NoDock).name=Pastel Side Table (No Dock)
+mods.ExpandedFurniture.PastelSet.PastelSideTable(NoDock).description=Dockless. Very girly.
+
+mods.ExpandedFurniture.PastelSet.PastelTable(NoDock).name=Pastel Table (No Dock)
+mods.ExpandedFurniture.PastelSet.PastelTable(NoDock).description=Dockless. Very girly.
+
+mods.ExpandedFurniture.PastelSet.PastelTableLarge(NoDock).name=Pastel Large Table (No Dock)
+mods.ExpandedFurniture.PastelSet.PastelTableLarge(NoDock).description=Dockless. Very girly.
+
+mods.ExpandedFurniture.PastelSet.PastelTVStand.name=Pastel TV Stand
+mods.ExpandedFurniture.PastelSet.PastelTVStand.description=It has lovely carved scrollwork.
+
+mods.ExpandedFurniture.PastelSet.PastelWallLamp.name=Pastel Wall Lamp
+mods.ExpandedFurniture.PastelSet.PastelWallLamp.description=Very girly.
+
+mods.ExpandedFurniture.PastelSet.PastelWallLamp2.name=Pastel Purple Wall Lamp
+mods.ExpandedFurniture.PastelSet.PastelWallLamp2.description=Very girly.
+
+mods.ExpandedFurniture.PastelSet.PastelWallShelf.name=Pastel Shelf
+mods.ExpandedFurniture.PastelSet.PastelWallShelf.description=It has lovely carved scrollwork.
+
+mods.ExpandedFurniture.PastelSet.PastelWardrobeSingle.name=Pastel Single Wardrobe
+mods.ExpandedFurniture.PastelSet.PastelWardrobeSingle.description=It has lovely carved scrollwork.

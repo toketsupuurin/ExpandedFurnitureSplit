@@ -1,0 +1,22 @@
+{
+    "patchIfFileExists": "mods/Basic-Staples/treasure/petdrops/HedgehogFurniture.treasure",
+	"file": "mods/Basic-Staples/treasure/petdrops/HedgehogFurniture.treasure",
+    "priority": 30, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+
+		"entries": [
+		
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.ExpandedFurniture.PawSet.PawFuton9"
+        }
+      ]
+    },		
+		],
+
+    }
+}

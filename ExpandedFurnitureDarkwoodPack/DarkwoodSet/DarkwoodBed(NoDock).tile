@@ -1,0 +1,33 @@
+{
+  "__inherits": "staxel/tileObject/noDock.config",
+   "categories": [
+    "furniture",
+    "darkwood",
+    "black",
+    "brown",
+    "white",
+    "wood",
+    "set",
+    "bed",
+    "sleep",
+    "single"
+  ],
+  "code": "mods.ExpandedFurniture.DarkwoodSet.DarkwoodBed(NoDock)",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 1,
+      "z": 3
+    },
+    "specification": "CCC CXC CCC"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "staxel/tileObject/villagers/rewards/Emilia/DarkwoodBed.qb"
+}

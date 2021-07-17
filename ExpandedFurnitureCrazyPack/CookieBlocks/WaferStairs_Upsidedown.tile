@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/tileObject/stairs.config",
+  "aoFloor": false,
+  "categories": [
+    "stairs",
+    "steps",
+    "block",
+    "brown",
+    "cookie",
+    "waffle",
+    "chocolate",
+    "wafer",
+	"upsidedown"
+  ],
+  "code": "mods.ExpandedFurniture.CookieBlocks.WaferStairs_Upsidedown",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 10,
+    "value": 500
+  },
+  "searchable": false,
+  "representativeTile": "mods.ExpandedFurniture.CookieBlocks.WaferStairs",
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureCrazyPack/CookieBlocks/WaferStairs_Upsidedown.qb"
+}

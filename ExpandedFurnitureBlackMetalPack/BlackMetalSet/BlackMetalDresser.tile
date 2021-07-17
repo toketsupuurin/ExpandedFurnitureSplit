@@ -1,0 +1,33 @@
+{
+  "__inherits": "staxel/tileObject/wardrobe.config",
+  "categories": [
+    "furniture",
+    "black",
+    "metal",
+    "set",
+    "container",
+    "storage",
+    "chest",
+    "drawers",
+    "dresser",
+    "yorkshire"
+  ],
+  "code": "mods.ExpandedFurniture.BlackMetalSet.BlackMetalDresser",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 2,
+      "z": 1
+    },
+    "specification": "CC XC"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureBlackMetalPack/BlackMetalSet/BlackMetalDresser.qb"
+}

@@ -1,0 +1,29 @@
+{
+  "__inherits": "staxel/tileObject/roof.config",
+  "aoFloor": false,
+  "attachToBelow": false,
+  "categories": [
+    "roof",
+    "roofing",
+    "TAO",
+    "TAOBase",
+    "block",
+    "tiled",
+    "tile",
+    "tiling",
+    "tiles",
+    "slate",
+    "inner roof"
+  ],
+  "code": "mods.ExpandedFurniture.RoofBlocks.TAO_Base_SlateRoofInnerCorner",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 15
+  },
+  "representativeTile": "mods.ExpandedFurniture.RoofBlocks.TAO_Base_SlateRoofStraight",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureRoofingPack/RoofBlocks/Slate/TAO_Base_slateRoofInnerCorner.qb"
+}

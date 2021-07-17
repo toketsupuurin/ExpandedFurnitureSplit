@@ -1,0 +1,42 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "ranch",
+	"lamp",
+	"brown",
+	"firefly",
+    "light"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.RanchSet.RanchCeilingLamp",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 250
+  },
+  "frameAnimatedTile": {
+    "frameTime": 0.13
+  },
+    "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "variants": [
+    "mods/ExpandedFurnitureLightingEdition/RanchSet/RanchCeilingLamp.qb?size={16,32,16}?offset={0,0,0}",
+    "mods/ExpandedFurnitureLightingEdition/RanchSet/RanchCeilingLamp.qb?size={16,32,16}?offset={16,0,0}",
+    "mods/ExpandedFurnitureLightingEdition/RanchSet/RanchCeilingLamp.qb?size={16,32,16}?offset={32,0,0}",
+    "mods/ExpandedFurnitureLightingEdition/RanchSet/RanchCeilingLamp.qb?size={16,32,16}?offset={48,0,0}"
+  ],
+  "emissiveColor": "ffFFF88F",
+  "light": 2.2,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureLightingEdition/RanchSet/RanchCeilingLamp.qb"
+}

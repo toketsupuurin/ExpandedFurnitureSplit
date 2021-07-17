@@ -1,0 +1,57 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "torch",
+	"blue",
+    "candle",
+	"farm",
+    "fire"
+  ],
+  "code": "mods.ExpandedFurniture.FarmSet.FarmCandle2",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    },
+    "specification": "E X"
+  },
+  "emissiveColor": "fff57317",
+  "frameAnimatedTile": {
+    "frameTime": 0.13
+  },
+  "light": 5.2,
+  "prefetchTileState": true,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "tilePlacement": {
+    "inHandRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "variants": [
+    "mods/ExpandedFurnitureFarmPack/FarmSet/FarmCandle2.qb?size={16,20,16}?offset={0,0,0}",
+    "mods/ExpandedFurnitureFarmPack/FarmSet/FarmCandle2.qb?size={16,20,16}?offset={16,0,0}",
+    "mods/ExpandedFurnitureFarmPack/FarmSet/FarmCandle2.qb?size={16,20,16}?offset={32,0,0}",
+    "mods/ExpandedFurnitureFarmPack/FarmSet/FarmCandle2.qb?size={16,20,16}?offset={48,0,0}"
+  ]
+}

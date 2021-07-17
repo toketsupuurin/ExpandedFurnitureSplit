@@ -1,0 +1,27 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "furniture",
+	"sword",
+	"nerdy",
+	"green"
+  ],
+  "code": "mods.ExpandedFurniture.NerdySet.NerdyTableSword",
+  "emissiveColor": "3DFF1F",
+  "light": .5,
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    },
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureNerdyPack/NerdySet/NerdyTableSword.qb"
+}

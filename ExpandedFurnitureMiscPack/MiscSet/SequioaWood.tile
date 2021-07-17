@@ -1,0 +1,29 @@
+{
+  "__inherits": "staxel/tile/Axeable.config",
+  "categories": [
+	"simply",
+    "block",
+    "brown",
+    "bark",
+    "wood",
+    "wooden",
+    "tree",
+    "rawWood"
+  ],
+  "code": "staxel.tile.wood.SequioaWood",
+  "damageSoundGroup": "staxel.sounds.AxeHit.wood",
+  "placeSoundGroup": "staxel.sounds.place.Wood",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 6,
+    "value": 10
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureMiscPack/MiscSet/SequoiaWood.qb",
+  "axeable": {
+    "strength": 2,
+    "treasure": "staxel.treasure.TreeChopSequoia"
+  }
+}

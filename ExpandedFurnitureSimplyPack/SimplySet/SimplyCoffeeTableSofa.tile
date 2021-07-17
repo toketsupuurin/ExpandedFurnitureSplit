@@ -1,0 +1,33 @@
+{
+  "__inherits": "staxel/docks/CoffeeTable.config",
+  "categories": [
+    "furniture",
+    "basic",
+    "brown",
+    "wood",
+    "set",
+    "table",
+    "surface",
+	"coffee",
+    "bedside",
+    "side",
+    "nightstand"
+  ],
+  "code": "mods.ExpandedFurniture.SimplySet.SimplyCoffeeTableSofa",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 3,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 3800
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureSimplyPack/SimplySet/SimplySideTable.qb"
+}

@@ -1,0 +1,13 @@
+{
+    "file": "staxel/tileObject/festival/feymasquerade/FlowerGlassTable.tile",
+    "priority": 2, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+
+	  "pricing": {
+        "sellPrice": 2280,
+        "value": 3800
+      },
+
+    }
+}

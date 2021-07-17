@@ -1,0 +1,24 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "fey",
+	"lamp",
+	"green",
+    "pink",
+    "light"
+  ],
+  "code": "mods.ExpandedFurnitureLightingEdition.FeySet.FeyCeilingLamp2",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 3000,
+    "value": 5000
+  },
+  "emissiveColor": "ff94c2",
+  "light": 2.2,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureLightingEdition/FeySet/FeyCeilingLamp2.qb"
+}

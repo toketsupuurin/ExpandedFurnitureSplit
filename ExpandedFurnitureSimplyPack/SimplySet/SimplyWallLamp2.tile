@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "wall",
+    "lamp",
+    "black",
+    "orange",
+    "bronze",
+    "brown",
+    "rainbow"
+  ],
+  "code": "mods.ExpandedFurniture.SimplySet.SimplyWallLamp2",
+  "emissiveColor": "fff7EFCF",
+  "light": 7.0,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 12
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureSimplyPack/SimplySet/SimplyWallLamp2.qb"
+}

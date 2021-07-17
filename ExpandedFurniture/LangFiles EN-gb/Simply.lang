@@ -1,0 +1,332 @@
+language.code=en-GB
+language=English
+
+mods.ExpandedFurniture.SimplySet.ChimneyPipeBig.name=Big Chimney Pipe
+mods.ExpandedFurniture.SimplySet.ChimneyPipeBig.description=It has smoke and everything!
+
+mods.ExpandedFurniture.SimplySet.SimplyIvy.name=English Ivy
+mods.ExpandedFurniture.SimplySet.SimplyIvy.description=It will eat your house.
+
+mods.ExpandedFurniture.SimplySet.SimplyIvy1.name=English Ivy
+mods.ExpandedFurniture.SimplySet.SimplyIvy1.description=It will eat your house.
+
+mods.ExpandedFurniture.SimplySet.SimplyIvy2.name=English Ivy
+mods.ExpandedFurniture.SimplySet.SimplyIvy2.description=It will eat your house.
+
+mods.ExpandedFurniture.SimplySet.SimplyIvy3.name=English Ivy
+mods.ExpandedFurniture.SimplySet.SimplyIvy3.description=It will eat your house.
+
+staxel.tileObject.serverVillage.LargePicnicTable(NoDock).name=Large Picnic Table (No Dock)
+staxel.tileObject.serverVillage.LargePicnicTable(NoDock).description=It's nice and relaxing.
+
+mods.ExpandedFurniture.SimplySet.LittleCloud.name=Little Cloud
+mods.ExpandedFurniture.SimplySet.LittleCloud.description=Some clouds are nice and small.
+
+mods.ExpandedFurniture.SimplySet.PicnicBasket.name=Picnic Basket
+mods.ExpandedFurniture.SimplySet.PicnicBasket.description=Don't let the bears see it!
+
+mods.ExpandedFurniture.SimplySet.SimplyPlasticBag.name=Plastic Bag
+mods.ExpandedFurniture.SimplySet.SimplyPlasticBag.description=Yuck. Throw it away!
+
+mods.ExpandedFurniture.SimplySet.SimplyPumpkin.name=Display Pumpkin
+mods.ExpandedFurniture.SimplySet.SimplyPumpkin.description=Not the eating kind. The decorative kind.
+
+mods.ExpandedFurniture.SimplySet.SimplyRippedRubbishBag.name=Ripped Rubbish Bag
+mods.ExpandedFurniture.SimplySet.SimplyRippedRubbishBag.description=Urgh. Better get another bag.
+
+staxel.tile.wood.SequioaWood.name=Sequioa Wood
+staxel.tile.wood.SequioaWood.description=A Rare wood from prehistoric times.
+
+staxel.tile.newVillage.BorderedCobblestoneSquare.name=Square Bordered Cobblestone
+staxel.tile.newVillage.BorderedCobblestoneSquare.description=A blocky stone border.
+
+staxel.tile.newVillage.BorderedCobblestoneRough.name=Rough Bordered Cobblestone
+staxel.tile.newVillage.BorderedCobblestoneRough=An irregular stone border that someone tried to corral.
+
+mods.ExpandedFurniture.SimplySet.SimplyArmchairRoundBlack.name=Simply Armchair Round Black
+mods.ExpandedFurniture.SimplySet.SimplyArmchairRoundBlack.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyArmchairRoundBlue.name=Simply Armchair Round Blue
+mods.ExpandedFurniture.SimplySet.SimplyArmchairRoundBlue.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyArmchairRoundPurple.name=Simply Armchair Round Purple
+mods.ExpandedFurniture.SimplySet.SimplyArmchairRoundPurple.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyArmchairRoundRed.name=Simply Armchair Round Red
+mods.ExpandedFurniture.SimplySet.SimplyArmchairRoundRed.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyArmchairRoundWhite.name=Simply Armchair Round White
+mods.ExpandedFurniture.SimplySet.SimplyArmchairRoundWhite.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyArmchairSquareBlack.name=Simply Armchair Square Black
+mods.ExpandedFurniture.SimplySet.SimplyArmchairSquareBlack.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyArmchairSquareBlue.name=Simply Armchair Square Blue
+mods.ExpandedFurniture.SimplySet.SimplyArmchairSquareBlue.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyArmchairSquarePurple.name=Simply Armchair Square Purple
+mods.ExpandedFurniture.SimplySet.SimplyArmchairSquarePurple.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyArmchairSquareRed.name=Simply Armchair Square Red
+mods.ExpandedFurniture.SimplySet.SimplyArmchairSquareRed.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyCandles.name=Simply Extinguished Candles
+mods.ExpandedFurniture.SimplySet.SimplyCandles.description=They got blown out!
+
+mods.ExpandedFurniture.SimplySet.SimplyCandles2.name=Simply Candles
+mods.ExpandedFurniture.SimplySet.SimplyCandles2.description=They're candles all right.
+
+mods.ExpandedFurniture.SimplySet.SimplyCarpetColor1x3.name=Simply Rainbow Carpet
+mods.ExpandedFurniture.SimplySet.SimplyCarpetColor1x3.description=Goes with anything.
+
+mods.ExpandedFurniture.SimplySet.SimplyCarpetMono1x3.name=Simply Monochrome Carpet
+mods.ExpandedFurniture.SimplySet.SimplyCarpetMono1x3.description=Simple but soft.
+
+mods.ExpandedFurniture.SimplySet.SimplyCeilingLamp.name=Simply Black Ceiling Lamp
+mods.ExpandedFurniture.SimplySet.SimplyCeilingLamp.description=It was cheap and makes light.
+
+mods.ExpandedFurniture.SimplySet.SimplyCeilingLamp2.name=Simply Cream Ceiling Lamp
+mods.ExpandedFurniture.SimplySet.SimplyCeilingLamp2.description=It was cheap and makes light.
+
+mods.ExpandedFurniture.SimplySet.SimplyChandelier.name=Simply Brass Chandelier
+mods.ExpandedFurniture.SimplySet.SimplyChandelier.description=It's a big lamp.
+
+mods.ExpandedFurniture.SimplySet.SimplyChandelier2.name=Simply Cream Chandelier
+mods.ExpandedFurniture.SimplySet.SimplyChandelier2.description=It's a big lamp.
+
+mods.ExpandedFurniture.SimplySet.SimplyChandelier3.name=Simply Black Chandelier
+mods.ExpandedFurniture.SimplySet.SimplyChandelier3.description=It's a big lamp.
+
+mods.ExpandedFurniture.SimplySet.SimplyCredenza.name=Simply Credenza
+mods.ExpandedFurniture.SimplySet.SimplyCredenza.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyDesk(NoDock).name=Simply Desk (No Dock)
+mods.ExpandedFurniture.SimplySet.SimplyDesk(NoDock).description=Shabby, dockless, and cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyDesk.name=Simply Desk
+mods.ExpandedFurniture.SimplySet.SimplyDesk.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyDoubleBedBlack(NoDock).name=Simply Double Bed Black (No Dock)
+mods.ExpandedFurniture.SimplySet.SimplyDoubleBedBlack(NoDock).description=Shabby, dockless, and cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyDoubleBedBlack.name=Simply Double Bed Black
+mods.ExpandedFurniture.SimplySet.SimplyDoubleBedBlack.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyDoubleBedBlue(NoDock).name=Simply Double Bed Blue (No Dock)
+mods.ExpandedFurniture.SimplySet.SimplyDoubleBedBlue(NoDock).description=Shabby, dockless, and cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyDoubleBedBlue.name=Simply Double Bed Blue
+mods.ExpandedFurniture.SimplySet.SimplyDoubleBedBlue.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyDoubleBedPurple(NoDock).name=Simply Double Bed Purple (No Dock)
+mods.ExpandedFurniture.SimplySet.SimplyDoubleBedPurple(NoDock).description=Shabby, dockless, and cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyDoubleBedPurple.name=Simply Double Bed Purple
+mods.ExpandedFurniture.SimplySet.SimplyDoubleBedPurple.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyDoubleBedRed(NoDock).name=Simply Double Bed Red (No Dock)
+mods.ExpandedFurniture.SimplySet.SimplyDoubleBedRed(NoDock).description=Shabby, dockless, and cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyDoubleBedWhite(NoDock).name=Simply Double Bed White (No Dock)
+mods.ExpandedFurniture.SimplySet.SimplyDoubleBedWhite(NoDock).description=Shabby, dockless, and cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyDoubleBedWhite.name=Simply Double Bed White
+mods.ExpandedFurniture.SimplySet.SimplyDoubleBedWhite.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyCoffeeTableSofa.name=Simply Coffee Table (Sofa)
+mods.ExpandedFurniture.SimplySet.SimplyCoffeeTableSofa.description=Shabby but cheap.
+
+staxel.tileObject.serverVillage.CoffeeTable.name=Simply Coffee Table (Loveseat)
+staxel.tileObject.serverVillage.CoffeeTable.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyFootLamp.name=Simply Cream Foot Lamp
+mods.ExpandedFurniture.SimplySet.SimplyFootLamp.description=It was cheap and makes light.
+
+mods.ExpandedFurniture.SimplySet.SimplyFootLamp2.name=Simply Brass Foot Lamp
+mods.ExpandedFurniture.SimplySet.SimplyFootLamp2.description=It was cheap and makes light.
+
+mods.ExpandedFurniture.SimplySet.SimplyFutonRoundBlack.name=Simply Futon Round Black
+mods.ExpandedFurniture.SimplySet.SimplyFutonRoundBlack.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyFutonRoundBlue.name=Simply Futon Round Blue
+mods.ExpandedFurniture.SimplySet.SimplyFutonRoundBlue.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyFutonRoundPurple.name=Simply Futon Round Purple
+mods.ExpandedFurniture.SimplySet.SimplyFutonRoundPurple.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyFutonRoundRed.name=Simply Futon Round Red
+mods.ExpandedFurniture.SimplySet.SimplyFutonRoundRed.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyFutonRoundWhite.name=Simply Futon Round White
+mods.ExpandedFurniture.SimplySet.SimplyFutonRoundWhite.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyFutonSquareBlack.name=Simply Futon Square Black
+mods.ExpandedFurniture.SimplySet.SimplyFutonSquareBlack.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyFutonSquareBlue.name=Simply Futon Square Blue
+mods.ExpandedFurniture.SimplySet.SimplyFutonSquareBlue.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyFutonSquarePurple.name=Simply Futon Square Purple
+mods.ExpandedFurniture.SimplySet.SimplyFutonSquarePurple.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyFutonSquareRed.name=Simply Futon Square Red
+mods.ExpandedFurniture.SimplySet.SimplyFutonSquareRed.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyFutonSquareWhite.name=Simply Futon Square White
+mods.ExpandedFurniture.SimplySet.SimplyFutonSquareWhite.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyGardenArchWhite.name=Simply Garden Arch White
+mods.ExpandedFurniture.SimplySet.SimplyGardenArchWhite.description=It's an arbor.
+
+mods.ExpandedFurniture.SimplySet.SimplyGazeboBack.name=Simply Gazebo Solid
+mods.ExpandedFurniture.SimplySet.SimplyGazeboBack.description=A gazebo panel.
+
+mods.ExpandedFurniture.SimplySet.SimplyGazeboBackWhite.name=Simply Gazebo Solid White
+mods.ExpandedFurniture.SimplySet.SimplyGazeboBackWhite.description=A white gazebo panel.
+
+mods.ExpandedFurniture.SimplySet.SimplyGazeboDiagonalWhite.name=Simply Gazebo Diagonal White
+mods.ExpandedFurniture.SimplySet.SimplyGazeboDiagonalWhite.description=A white gazebo panel.
+
+mods.ExpandedFurniture.SimplySet.SimplyGazeboFrontWhite.name=Simply Gazebo Door White
+mods.ExpandedFurniture.SimplySet.SimplyGazeboFrontWhite.description=A white gazebo panel.
+
+mods.ExpandedFurniture.SimplySet.SimplyGazeboRoofCenterWhite.name=Simply Gazebo Roof Center White
+mods.ExpandedFurniture.SimplySet.SimplyGazeboRoofCenterWhite.description=A white gazebo roof.
+
+mods.ExpandedFurniture.SimplySet.SimplyGazeboRoofCornerWhite.name=Simply Gazebo Roof Corner White
+mods.ExpandedFurniture.SimplySet.SimplyGazeboRoofCornerWhite.description=A white gazebo roof.
+
+mods.ExpandedFurniture.SimplySet.SimplyGazeboRoofSideWhite.name=Simply Gazebo Roof Side White
+mods.ExpandedFurniture.SimplySet.SimplyGazeboRoofSideWhite.description=A white gazebo roof.
+
+mods.ExpandedFurniture.SimplySet.SimplyGazeboSideWhite.name=Simply Gazebo Window White
+mods.ExpandedFurniture.SimplySet.SimplyGazeboSideWhite.description=SimplyGazeboSideWhite
+
+mods.ExpandedFurniture.SimplySet.SimplyKitchenTable.name=Simply Kitchen Table
+mods.ExpandedFurniture.SimplySet.SimplyKitchenTable.description=It's a table.
+
+mods.ExpandedFurniture.SimplySet.SimplyKitchenTable(NoDock).name=Simply Kitchen Table (No Dock)
+mods.ExpandedFurniture.SimplySet.SimplyKitchenTable(NoDock).description=It's a dockless table.
+
+mods.ExpandedFurniture.SimplySet.SimplyLamp.name=SimplyLamp
+mods.ExpandedFurniture.SimplySet.SimplyLamp.description=It was cheap and makes light.
+
+mods.ExpandedFurniture.SimplySet.SimplyLamp2.name=SimplyLamp2
+mods.ExpandedFurniture.SimplySet.SimplyLamp2.description=It was cheap and makes light.
+
+mods.ExpandedFurniture.SimplySet.SimplyLongStoolBlack.name=Simply Long Stool Black
+mods.ExpandedFurniture.SimplySet.SimplyLongStoolBlack.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyLongStoolBlue.name=Simply Long Stool Blue
+mods.ExpandedFurniture.SimplySet.SimplyLongStoolBlue.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyLongStoolPurple.name=Simply Long Stool Purple
+mods.ExpandedFurniture.SimplySet.SimplyLongStoolPurple.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyLongStoolRed.name=Simply Long Stool Red
+mods.ExpandedFurniture.SimplySet.SimplyLongStoolRed.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyLongStoolWhite.name=Simply Long Stool White
+mods.ExpandedFurniture.SimplySet.SimplyLongStoolWhite.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyLoveseatRoundBlack.name=Simply Loveseat Round Black
+mods.ExpandedFurniture.SimplySet.SimplyLoveseatRoundBlack.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyLoveseatRoundBlue.name=Simply Loveseat Round Blue
+mods.ExpandedFurniture.SimplySet.SimplyLoveseatRoundBlue.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyLoveseatRoundPurple.name=Simply Loveseat Round Purple
+mods.ExpandedFurniture.SimplySet.SimplyLoveseatRoundPurple.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyLoveseatRoundRed.name=Simply Loveseat Round Red
+mods.ExpandedFurniture.SimplySet.SimplyLoveseatRoundRed.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyLoveseatRoundWhite.name=Simply Loveseat Round White
+mods.ExpandedFurniture.SimplySet.SimplyLoveseatRoundWhite.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyLoveseatSquareBlack.name=Simply Loveseat Square Black
+mods.ExpandedFurniture.SimplySet.SimplyLoveseatSquareBlack.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyLoveseatSquareBlue.name=Simply Loveseat Square Blue
+mods.ExpandedFurniture.SimplySet.SimplyLoveseatSquareBlue.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyLoveseatSquarePurple.name=Simply Loveseat Square Purple
+mods.ExpandedFurniture.SimplySet.SimplyLoveseatSquarePurple.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyLoveseatSquareRed.name=Simply Loveseat Square Red
+mods.ExpandedFurniture.SimplySet.SimplyLoveseatSquareRed.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyLoveseatSquareWhite.name=Simply Loveseat Square White
+mods.ExpandedFurniture.SimplySet.SimplyLoveseatSquareWhite.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyPicnicBench.name=Picnic Bench
+mods.ExpandedFurniture.SimplySet.SimplyPicnicBench.description=You sit on it.
+
+mods.ExpandedFurniture.SimplySet.SimplySideTable(NoDock).name=Simply Side Table (No Dock)
+mods.ExpandedFurniture.SimplySet.SimplySideTable(NoDock).description=It's a dockless table.
+
+mods.ExpandedFurniture.SimplySet.SimplySideTable.name=Simply Side Table
+mods.ExpandedFurniture.SimplySet.SimplySideTable.description=It's a table.
+
+mods.ExpandedFurniture.SimplySet.SimplySingleBedBlack(NoDock).name=Simply Single Bed Black (No Dock)
+mods.ExpandedFurniture.SimplySet.SimplySingleBedBlack(NoDock).description=Shabby, dockless, and cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplySingleBedBlue(NoDock).name=Simply Single Bed Blue (No Dock)
+mods.ExpandedFurniture.SimplySet.SimplySingleBedBlue(NoDock).description=Shabby, dockless, and cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplySingleBedPurple(NoDock).name=Simply Single Bed Purple (No Dock)
+mods.ExpandedFurniture.SimplySet.SimplySingleBedPurple(NoDock).description=Shabby, dockless, and cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplySingleBedRed(NoDock).name=Simply Single Bed Red (No Dock)
+mods.ExpandedFurniture.SimplySet.SimplySingleBedRed(NoDock).description=Shabby, dockless, and cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplySingleBedWhite(NoDock).name=Simply Single Bed White (No Dock)
+mods.ExpandedFurniture.SimplySet.SimplySingleBedWhite(NoDock).description=Shabby, dockless, and cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplySingleBedWhite.name=Simply Single Bed White
+mods.ExpandedFurniture.SimplySet.SimplySingleBedWhite.description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplySofaRoundBlack..name=Simply Sofa Round Black
+mods.ExpandedFurniture.SimplySet.SimplySofaRoundBlack..description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplySofaRoundBlue..name=Simply Sofa Round Blue
+mods.ExpandedFurniture.SimplySet.SimplySofaRoundBlue..description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplySofaRoundPurple..name=Simply Sofa Round Purple
+mods.ExpandedFurniture.SimplySet.SimplySofaRoundPurple..description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplySofaRoundRed..name=Simply Sofa Round Red
+mods.ExpandedFurniture.SimplySet.SimplySofaRoundRed..description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplySofaSquareBlack..name=Simply Sofa Square Black
+mods.ExpandedFurniture.SimplySet.SimplySofaSquareBlack..description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplySofaSquareBlue..name=Simply Sofa Square Blue
+mods.ExpandedFurniture.SimplySet.SimplySofaSquareBlue..description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplySofaSquarePurple..name=Simply Sofa Square Purple
+mods.ExpandedFurniture.SimplySet.SimplySofaSquarePurple..description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplySofaSquareRed..name=Simply Sofa Square Red
+mods.ExpandedFurniture.SimplySet.SimplySofaSquareRed..description=Shabby but cheap.
+
+mods.ExpandedFurniture.SimplySet.SimplyStool.name=Simply Stool
+mods.ExpandedFurniture.SimplySet.SimplyStool.description=You can sit on it.
+
+mods.ExpandedFurniture.SimplySet.SimplyVanity.name=Simply Vanity
+mods.ExpandedFurniture.SimplySet.SimplyVanity.description=It doesn't get more basic than this.
+
+mods.ExpandedFurniture.SimplySet.SimplyWallLamp.name=Simply Black Wall Lamp
+mods.ExpandedFurniture.SimplySet.SimplyWallLamp.description=It was cheap and makes light.
+
+mods.ExpandedFurniture.SimplySet.SimplyWallLamp2.name=Simply Brass Wall Lamp
+mods.ExpandedFurniture.SimplySet.SimplyWallLamp2.description=It was cheap and makes light.
+
+mods.ExpandedFurniture.SimplySet.SimplyWallLamp3.name=Simply Cream Wall Lamp
+mods.ExpandedFurniture.SimplySet.SimplyWallLamp3.description=It was cheap and makes light.
+
+mods.ExpandedFurniture.SimplySet.SimplySmashedBottle.name=Smashed Bottle
+mods.ExpandedFurniture.SimplySet.SimplySmashedBottle.description=Get a broom! Don't step on it!
+
+mods.ExpandedFurniture.SimplySet.SimplyWorkbench.name=Workbench
+mods.ExpandedFurniture.SimplySet.SimplyWorkbench.description=It must be good for something...

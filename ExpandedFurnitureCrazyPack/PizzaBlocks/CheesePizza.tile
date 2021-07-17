@@ -1,0 +1,31 @@
+{
+  "__inherits": "staxel/tile/Hammerable.config",
+  "categories": [
+    "brown",
+    "block",
+    "pizza",
+    "floor",
+    "flooring",
+    "white",
+	"red",
+    "sauce",
+    "cheese"
+  ],
+  "code": "mods.ExpandedFurniture.PizzaBlocks.CheesePizza",
+  "damageSoundGroup": "staxel.sounds.place.Water",
+  "placeSoundGroup": "staxel.sounds.place.Water",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 50
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.PuddleFootSteps",
+  "tileStateKind": "staxel.tileState.Dirt",
+  "voxels": "mods/ExpandedFurnitureCrazyPack/PizzaBlocks/CheesePizza.qb",
+    "alts": [
+    "mods/ExpandedFurnitureCrazyPack/PizzaBlocks/CheesePizza_alt01.qb",
+  ],
+  "altsCount": 2
+}

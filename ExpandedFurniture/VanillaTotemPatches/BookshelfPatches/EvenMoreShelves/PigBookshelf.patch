@@ -1,0 +1,13 @@
+{
+    "file": "mods/EvenMoreShelves/AnimalShelves/PigBookshelf.tile",
+	"patchIfFileExists": "mods/EvenMoreShelves/AnimalShelves/PigBookshelf.tile",
+    "priority": 999, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch": {
+
+		"categories": [
+			"Bookshelf",
+		],
+
+    }
+}

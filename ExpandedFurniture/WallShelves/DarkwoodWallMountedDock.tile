@@ -1,0 +1,23 @@
+{
+  "__inherits": "mods/ExpandedFurniture/ConfigsDocks/SpookyWallMountedShelf.config",
+  "categories": [
+    "container",
+    "storage",
+    "darkwood",
+    "furniture",
+    "shelf",
+    "black",
+    "brown",
+    "white"
+  ],
+  "code": "mods.ExpandedFurniture.DarkwoodSet.DarkwoodWallShelf",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 2500
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurniture/WallShelves/DarkwoodWallMountedDock.qb"
+}
