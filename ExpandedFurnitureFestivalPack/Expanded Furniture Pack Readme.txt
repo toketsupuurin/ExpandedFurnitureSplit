@@ -1,6 +1,6 @@
 Expanded Furniture Content Pack Staxel Mod
 By Toketsu Puurin
-Current Version: 3.0
+Current Version: 3.001
 
 Table of Contents:
 
@@ -31,6 +31,9 @@ If you want to do any edits to the rainbow furniture in particular I recommend s
 
 Change History --------------------------------------------[CH]
 
+
+Version 3.001
+	* Backed up the old vanilla snowdust faire structures. You can have them if you want them, but they're currently inactive and just sitting there in case you want them.
 
 Version 3.0
 	* Mod was broken up into a base mod and content packs. This mod pack was created.

@@ -1,0 +1,467 @@
+{
+  "code": "staxel.structure.village.festival.SnowdustFaireTownSquare",
+  "file": "staxel/structure/village/festival/SnowdustFaireTownSquare.qb",
+  "offset": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "markers": [
+    {
+      "kind": "front",
+      "locations": [
+        {
+          "x": 14,
+          "y": 0,
+          "z": 0
+        }
+      ]
+    }
+  ],
+  "mapping": {
+    "00000000": {
+      "material": "staxel.tile.Sky",
+      "requireEmpty": false,
+      "matches": false,
+      "randomRotation": false
+    },
+    "FF001A3E": {
+      "matches": false,
+      "material": "staxel.tileObject.biomeDebris.LongMeadowGrass.4",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF030330": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.StoneFenceStraight",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF0B4601": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.StoneFencePillar",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF26F19D": {
+      "matches": false,
+      "material": "staxel.tile.grass.GrassLayer.1",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF0EFE05": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.PottedPlant.redRose",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF1A5224": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.PottedPlant.long.pink",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF2C75F4": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.PottedPlant.long.orange",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF342817": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.StoneFenceStraight2",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF38D39E": {
+      "matches": false,
+      "material": "staxel.tileObject.biomeDebris.LongMeadowGrass.4",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF3B51C2": {
+      "matches": false,
+      "material": "staxel.tileObject.festival.SnowdustFaireRedLantern",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF3F8A86": {
+      "matches": false,
+      "material": "staxel.tileObject.festival.SnowdustFaireYellowLantern",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF436A25": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.StoneFenceStraight2",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF4976CB": {
+      "matches": false,
+      "material": "staxel.plant.flower.Pansies.blue",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF4F5F5A": {
+      "matches": false,
+      "material": "staxel.plant.flower.Lavender.small",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF50C959": {
+      "matches": false,
+      "material": "staxel.tile.happyBlocks.PlazaBlock.2",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF51DC2A": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.StoneFenceStraight2",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF59A0A5": {
+      "matches": false,
+      "material": "staxel.tileObject.biomeDebris.LongMeadowGrass.3",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF6207C3": {
+      "matches": false,
+      "material": "staxel.tileObject.festival.SnowdustFaireBannerRight",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF637E22": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.BushyFlowerSmall",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF773523": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.PottedPlant.redRose",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF7A354B": {
+      "matches": false,
+      "material": "staxel.tileObject.festival.SnowdustFaireBannerLeft",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF7A818C": {
+      "matches": false,
+      "material": "staxel.plant.flower.Petunias.purpleWhite",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF7DF331": {
+      "matches": false,
+      "material": "staxel.plant.flower.Daisies.white",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF815760": {
+      "matches": false,
+      "material": "staxel.tileObject.festival.SnowdustFaireBannerRight",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF835F68": {
+      "matches": false,
+      "material": "staxel.tileObject.biomeDebris.LongMeadowGrass.3",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF8446E5": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.Bench",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF868185": {
+      "matches": false,
+      "material": "staxel.tile.newVillage.CobbleStonePath",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF8C4704": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.SimplePottedPlant.purple",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF8FB7A4": {
+      "matches": false,
+      "material": "staxel.tileObject.festival.SnowdustFaireFountain",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF90B3D0": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.PottedPlant.pink",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF919898": {
+      "matches": false,
+      "material": "staxel.tileObject.gatherable.ZebraButterfly",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF936D9B": {
+      "matches": false,
+      "material": "staxel.tileObject.biomeDebris.LongMeadowGrass.3",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF961629": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.StoneFencePillar",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF9B3B2B": {
+      "matches": false,
+      "material": "staxel.tileObject.festival.SnowdustFaireRedLantern",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFA00C0C": {
+      "matches": false,
+      "material": "staxel.plant.flower.Poppies.red",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFA26312": {
+      "matches": false,
+      "material": "staxel.plant.flower.Roses.red",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFA2E573": {
+      "matches": false,
+      "material": "staxel.tileObject.biomeDebris.LongMeadowGrass.4",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFA3DF33": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.PottedPlant.pink",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFA59482": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.StoneFencePillar",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFAA6EF5": {
+      "matches": false,
+      "material": "staxel.tileObject.festival.SnowdustFaireBannerLeft",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFADD2DD": {
+      "matches": false,
+      "material": "staxel.tile.rock.Rock.snow.1",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFB1B2B7": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.PottedPlant.long.purple",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFB1BCB6": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.PottedPlant.leafy",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFB27575": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.StoneFenceStraight",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFB3BBB9": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.PottedPlant.purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFB57FA4": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.StoneFenceStraight",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFB66BDC": {
+      "matches": false,
+      "material": "staxel.tileObject.festival.SnowdustFaireBannerRight",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFB6BBB7": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.PottedPlant.pink",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFB6BEB8": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.PottedPlant.yellow",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFB7B2B4": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.PottedPlant.long.pink",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFB7B5B3": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.PottedPlant.long.orange",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFB8987E": {
+      "matches": false,
+      "material": "staxel.tileObject.festival.SnowdustFaireBannerRight",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFB99980": {
+      "matches": false,
+      "material": "staxel.tileObject.festival.SnowdustFaireBannerLeft",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFB9AF9E": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.StoneFenceStraight",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFBA9167": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.PottedPlant.purple",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFBAAF9F": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.StoneFenceStraight2",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFBCBEC2": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.SimplePottedPlant.purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFC0BDC0": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.SimplePottedPlant.pink",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFC1C0BF": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.SimplePottedPlant.orange",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFC3AA5D": {
+      "matches": false,
+      "material": "staxel.tileObject.festival.SnowdustFaireYellowLantern",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFC3F28F": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.Bench",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFC85F27": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.PottedPlant.orange",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFD2D77F": {
+      "matches": false,
+      "material": "staxel.plant.flower.WildGrass",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFD6C37E": {
+      "matches": false,
+      "material": "staxel.tile.happyBlocks.PlazaBlock",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFDB54B5": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.StoneFencePillar",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFDCFCEC": {
+      "matches": false,
+      "material": "staxel.tile.grass.GrassLayer.1",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFE5E2B4": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.Bench",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFE87186": {
+      "matches": false,
+      "material": "staxel.tile.grass.GrassLayer.2",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFEBE915": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.PottedPlant.long.pink",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFEC0752": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.PottedPlant.yellow",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFF00884": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.PottedPlant.long.purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFF593E3": {
+      "matches": false,
+      "material": "staxel.tile.rock.Rock.5",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFF9D8DB": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.Bench",
+      "requireEmpty": false,
+      "rotation": 2
+    }
+  }
+}
