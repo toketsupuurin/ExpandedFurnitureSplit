@@ -5,6 +5,7 @@
     "bathroom",
     "white",
 	"brown",
+	"ToiletPaper",
 	"ranch"
   ],
   "code": "mods.ExpandedFurniture.RanchSet.RanchToiletPaper",

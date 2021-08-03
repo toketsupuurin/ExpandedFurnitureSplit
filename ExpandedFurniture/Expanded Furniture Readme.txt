@@ -1,6 +1,6 @@
 Expanded Furniture Staxel Mod
 By Toketsu Puurin
-Current Version: 3.0
+Current Version: 3.1
 
 Table of Contents:
 
@@ -42,7 +42,7 @@ Current Sets:
 	*Mushroom - 64 unique items (Includes the Mushroom Bonsai Garden!)
 	*Minimalist - 23 unique items
 	*Farm - 33 unique items
-	*Ranch - 21 unique items
+	*Ranch - 21 unique items + 12 bathroom items
 	*Pastel - 21 unique items
 	*Belle Epoche - 39 unique items
 	*Groovy - 25 unique items
@@ -167,11 +167,11 @@ COLLECTION 3: The Other Sets (??%)---------------------[C3]
 		* Restaurant
 		* Patisserie (might fall under restaurant, I haven't studied the pieces yet.)
 		* Pizza (There's only an oven here. I lean toward calling this a decorative piece in the Restaurant set.)
-	* Bathrooms: There is one bathroom set in the entire game. This won't stand. I'm undecided on just how many sets I'll make, and if I'll make a unique one for all 25 sets. I do plan to at least make sure there's something suitable for each set, but some might share.
+	* Bathrooms: (IN PROGRESS) There is one bathroom set in the entire game. This won't stand. Work has begun on the bathroom pieces. They've been separated into their respective mod sets. I'm undecided on just how many sets I'll make, and if I'll make a unique one for all 25 sets. I do plan to at least make sure there's something suitable for each set, but some might share. If I decide a bathroom can be shared I'll make a note of that.
 	* Office: These are more commercial offices than home offices, but I want to do at least 1 more set of higher end office furniture that feels more coherent.
 	* Museum Displays: Most of them are fine, there needs to be some wall mounting options, though, along with some more variety in the modern displays.
 	* Exteriors: There's lots of stuff here. Each of the 25 sets really needs to have exterior pieces and trim that fit them. Very little actually suits most sets.
-		* Roofs: (2:1 and 1:2 slopes done.) Ridgeline blocks are still eventually planned. 2:1 slopes are called TAO (Two Above One) blocks and 1:2 are OAT (One Above Two). Each of these blocks has a "base" end for the fat bit, and a "tip" end for the skinny bit. They should be applied in alternating layers. TAO blocks can be troublesome if you try you build down. For best results, build bottom up with TAO blocks. I've looked at Diagonal Roofs. They're possible, but will be even more complicated and horrible than the TAO and OAT blocks. If I ever make these I will likely split them into their own mod. Don't hold your breath. They'll be an utter misery to use.
+		* Roofs: (2:1 and 1:2 slopes done.) Ridgeline blocks are still eventually planned. 2:1 slopes are called TAO (Two Above One) blocks and 1:2 are OAT (One Above Two). Each of these blocks has a "base" end for the fat bit, and a "tip" end for the skinny bit. They should be applied in alternating layers. TAO blocks can be troublesome if you try you build down. For best results, build bottom up with TAO blocks. I've looked at Diagonal Roofs. They're possible, but will be even more complicated and horrible than the TAO and OAT blocks. If I ever make these I will likely split them into their own mod. Don't hold your breath. They'd be an utter misery to use.
 		* Stairs: Frankly, I feel like I could just say "use roofs" and call it a day, but actual stair pieces that suit trim sets could look pretty sharp.
 		* Doors & Door Frames: Loads of variety and yet I never find one that fits like I want it to. There will be many.
 		* Windows & Window Frames: Ranch is the only set that got any attention here. All the others need to come up to snuff. Also: "transparent" glass windows for when you want to enjoy the view. I'll have to do research into other mods to see what's been done.
@@ -302,7 +302,7 @@ For Modders:-------------------------------------------[MD]
 	"OfficeChair",
 	"FilingCabinet",
 	"ToiletPaper",
-	"television", (ONLY apply this keyword to TVs. this keyword has been REMOVED from the TV Stand)
+	"television", (ONLY apply this keyword to TVs. This keyword has been REMOVED from the TV Stand)
 
 Note: If your user might have AutoMagic they need to be aware that the vanilla "Storage Bookshelf" is the only shelf that will work in the building store.
 
@@ -363,15 +363,19 @@ Any assets I've created (basically anything in this mod barring simple correctio
 
 Dock files, AutoTile data, or any Bone Animations in particular are shared freely with the community in the hopes that more people make awesome things.
 
-IN PARTICULAR: PLEASE DO STEAL AND USE THE "VanillaTotemPatches" FOLDER FOR USE IN YOUR OWN MODS AND USE THE TAGS MENTIONED IN THE MODDING SECTION. I don't require credit. Widespread community adoption of standards everyone can use is much more important to me than credit.
+IN PARTICULAR: PLEASE **DO** STEAL AND USE THE "VanillaTotemPatches" FOLDER FOR USE IN YOUR OWN MODS AND USE THE TAGS MENTIONED IN THE MODDING SECTION. I don't require credit. Widespread community adoption of standards everyone can use is much more important to me than credit.
 
 If you want to do any edits to the rainbow furniture in particular I recommend starting with the Grey set as your base. the colors are easiest to see there and the base color of the furniture doesn't conflict with the stripes.
 
 Change History --------------------------------------------[CH]
 
+Version 3.1
+	* Ranch Bathroom set added. (Contains 12 new pieces of art, 12 new items total.)
+	* Ranch Bathtubs and Shower can act as either stand alone pieces or will properly alcove to all reasonably sized blocks.
 
-Version 3.01
+Version 3.01 (Unreleased)
 	* Added a larger version of the Clock Tower Face to the Misc pack for people who have an odd sized space. It's 5x5.
+	* fixed an art error in the Mushroom Bonsai garden.
 
 Version 3.0
 	* Broke EF into the base mod (this one) and a LOT of content packs.

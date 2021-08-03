@@ -1,6 +1,6 @@
 Expanded Furniture Content Pack Staxel Mod
 By Toketsu Puurin
-Current Version: 3.0
+Current Version: 3.1
 
 Table of Contents:
 
@@ -17,7 +17,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1902607462
 
 This pack adds Ranch set content.
 
-For more details about the mod, including update notes see the main mod readme. This file probably won't be updated.
+For more details about the mod in general see the main mod readme. Update notes have been added here.
 
 Permissions -----------------------------------------------[PM]
 
@@ -32,5 +32,10 @@ If you want to do any edits to the rainbow furniture in particular I recommend s
 Change History --------------------------------------------[CH]
 
 
+Version 3.1
+	* Bathroom set added. (Contains 12 new pieces of art, 12 new items total.)
+	* Bathtubs and Shower can act as either stand alone pieces or will properly alcove to all reasonably sized blocks.	
+
 Version 3.0
+	* Contains 19 pieces of art, 23 items, and deprecates the docked coffee table.
 	* Mod was broken up into a base mod and content packs. This mod pack was created.
