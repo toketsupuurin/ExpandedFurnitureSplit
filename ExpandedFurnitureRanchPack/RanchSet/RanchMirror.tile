@@ -1,5 +1,5 @@
 {
-  "__inherits": "staxel/docks/wallObject.config",
+  "__inherits": "staxel/tileObject/wallObject.config",
   "categories": [
     "ranch",
     "furniture",

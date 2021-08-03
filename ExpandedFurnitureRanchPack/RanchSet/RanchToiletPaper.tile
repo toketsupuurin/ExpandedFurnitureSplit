@@ -1,6 +1,5 @@
 {
   "__inherits": "staxel/tileObject/base.config",
-  "attachToBelow": true,
   "categories": [
     "decoration",
     "bathroom",
@@ -10,7 +9,7 @@
   ],
   "code": "mods.ExpandedFurniture.RanchSet.RanchToiletPaper",
   "placementDirections": [
-    "zn"
+    "yn"
   ],
   "pricing": {
     "catalogueUnlockedFromStart": false,
