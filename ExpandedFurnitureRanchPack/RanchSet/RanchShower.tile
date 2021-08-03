@@ -1,0 +1,27 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachToBelow": true,
+  "categories": [
+    "decoration",
+    "bathroom",
+    "white",
+	"ranch"
+  ],
+  "code": "mods.ExpandedFurniture.RanchSet.RanchShower",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 3,
+      "z": 2
+    },
+  },
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "voxels": "mods/ExpandedFurnitureRanchPack/RanchSet/RanchShower.qb"
+}

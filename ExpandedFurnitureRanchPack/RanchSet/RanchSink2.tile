@@ -1,0 +1,36 @@
+{
+  "__inherits": "staxel/gatherables/dispenser.config",
+  "attachToBelow": true,
+  "categories": [
+    "decoration",
+    "bathroom",
+    "white",
+    "tool",
+	"ranch"
+  ],
+  "code": "mods.ExpandedFurniture.RanchSet.RanchSinkVanity",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "dispenser": {
+    "dispenserType": "WaterFaucet",
+    "interactAction": "staxel.entityAction.FillPotWater",	
+    "effect": "staxel.effect.cooking.BathroomSink",
+    "offset": { "x": 0.0, "y": 0.36, "z": -0.1}
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "voxels": "mods/ExpandedFurnitureRanchPack/RanchSet/RanchSink2.qb",
+  "interactVerb": "controlHint.verb.default.Use"
+}
