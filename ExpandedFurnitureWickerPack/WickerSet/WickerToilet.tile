@@ -1,0 +1,24 @@
+{
+  "__inherits": "staxel/docks/Toilet.config",
+  "categories": [
+    "furniture",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+	"Toilet",
+    "bathroom",
+    "white",
+	"wicker"
+  ],
+  "code": "mods.ExpandedFurniture.WickerSet.WickerToilet",
+  "dockDefinition": "staxel.docks.Toilet",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "voxels": "mods/ExpandedFurnitureWickerPack/WickerSet/WickerToilet.qb"
+}

@@ -32,7 +32,7 @@ Additionally: Any art in the original game that has an error I come across is al
 
 Current Sets:
 	*Spooky - 55 unique items
-	*Wicker - 34 unique items
+	*Wicker - 36 unique items + 11 bathroom items
 	*Rainbow - 349 unique items
 	*Contemporary - 19 unique items
 	*Checkers - 18 unique items
@@ -42,7 +42,7 @@ Current Sets:
 	*Mushroom - 64 unique items (Includes the Mushroom Bonsai Garden!)
 	*Minimalist - 23 unique items
 	*Farm - 33 unique items
-	*Ranch - 21 unique items + 12 bathroom items
+	*Ranch - 23 unique items + 12 bathroom items
 	*Pastel - 21 unique items
 	*Belle Epoche - 39 unique items
 	*Groovy - 25 unique items
@@ -372,6 +372,7 @@ Change History --------------------------------------------[CH]
 Version 3.1
 	* Ranch Bathroom set added. (Contains 12 new pieces of art, 12 new items total.)
 	* Ranch Bathtubs and Shower can act as either stand alone pieces or will properly alcove to all reasonably sized blocks.
+	* Wicker Bathroom set added. (Contains 11 new pieces of art, 11 new items total.)
 
 Version 3.01 (Unreleased)
 	* Added a larger version of the Clock Tower Face to the Misc pack for people who have an odd sized space. It's 5x5.

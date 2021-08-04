@@ -1,0 +1,36 @@
+{
+  "__inherits": "staxel/tileObject/wallObject.config",
+  "categories": [
+    "red",
+    "bathroom",
+    "wall",
+    "decoration",
+	"brown",
+	"towel",
+	"wicker"
+  ],
+  "code": "mods.ExpandedFurniture.WickerSet.WickerHandTowel",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 500
+  },
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.GrassFootSteps",
+  "tilePlacement": {
+    "inHandOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "voxels": "mods/ExpandedFurnitureWickerPack/WickerSet/WickerTowel1.qb"
+}
