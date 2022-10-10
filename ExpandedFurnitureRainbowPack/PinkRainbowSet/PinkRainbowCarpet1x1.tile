@@ -1,0 +1,39 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "yp"
+  ],
+  "categories": [
+    "furniture",
+	"bathroom",
+	"pink",
+	"Rainbow",
+	"carpet",
+	"rug",
+  ],
+  "code": "mods.ExpandedFurniture.PinkRainbowSet.PinkRainbowCarpet1x1",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+  },
+  "placementDirections": [
+    "yn",
+    "yp",
+    "xp",
+    "xn",
+    "zp",
+    "zn"
+  ],
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10,
+    "value": 250
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureRainbowPack/PinkRainbowSet/PinkRainbowCarpet1x1.qb"
+}

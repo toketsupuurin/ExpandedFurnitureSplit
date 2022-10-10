@@ -1,0 +1,30 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachToBelow": true,
+  "categories": [
+    "decoration",
+    "bathroom",
+	"Shower",
+	"coffee",
+	"brown",
+	"rainbow"
+  ],
+  "code": "mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowShower",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 3,
+      "z": 2
+    },
+	"specification": "CCCC CCCC XEEE",
+  },
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "voxels": "mods/ExpandedFurnitureRainbowPack/CoffeeRainbowSet/CoffeeRainbowShower.qb"
+}

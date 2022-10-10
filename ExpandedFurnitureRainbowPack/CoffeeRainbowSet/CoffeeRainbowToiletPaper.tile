@@ -1,0 +1,24 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "decoration",
+    "bathroom",
+	"coffee",
+	"brown",
+	"ToiletPaper",
+	"rainbow"
+  ],
+  "code": "mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowToiletPaper",
+  "placementDirections": [
+    "zn"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 500
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "voxels": "mods/ExpandedFurnitureRainbowPack/CoffeeRainbowSet/CoffeeRainbowToiletPaper.qb"
+}

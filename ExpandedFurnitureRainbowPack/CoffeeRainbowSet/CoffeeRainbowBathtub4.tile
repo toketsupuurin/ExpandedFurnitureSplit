@@ -1,0 +1,30 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachToBelow": true,
+  "categories": [
+    "decoration",
+    "bathroom",
+	"Bathtub",
+	"coffee",
+	"brown",
+	"rainbow"
+  ],
+  "code": "mods.ExpandedFurniture.CoffeeRainbowSet.CoffeeRainbowBathtubCheckerFull",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 2,
+      "z": 3
+    },
+    "specification": "CC EE EEXC CC CC"
+  },
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "voxels": "mods/ExpandedFurnitureRainbowPack/CoffeeRainbowSet/CoffeeRainbowBathtub4.qb"
+}

@@ -1,0 +1,27 @@
+{
+  "__inherits": "staxel/tileObject/wallObject.config",
+  "categories": [
+    "rainbow",
+    "furniture",
+    "bathroom",
+	"green",
+    "mirror",
+  ],
+  "code": "mods.ExpandedFurniture.GreenRainbowSet.GreenRainbowMirror",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurnitureRainbowPack/GreenRainbowSet/GreenRainbowMirror.qb"
+}

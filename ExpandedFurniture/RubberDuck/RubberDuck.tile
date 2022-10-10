@@ -1,0 +1,19 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "toy",
+	"duck",
+    "misc"
+  ],
+  "code": "mods.ExpandedFurniture.RubberDuck.RubberDuck",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 300,
+    "value": 500
+  },
+  "randomizePosition": true,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/ExpandedFurniture/RubberDuck/RubberDuck.qb",
+}
